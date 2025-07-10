@@ -4,191 +4,640 @@
     "href": "index.html",
     "title": "BM327 microbiology S1 lab manual",
     "section": "",
-    "text": "Preface\nThis is a Quarto book, generated using the sipbs-compbiol-book-template GitHub template.\nThe index.qmd file provides this Preface page, which is intended as a frontispiece with brief introductory information about the book and its contents and scope and, maybe, its authors. To change the main text and content you see here (the content in the middle section of the page), you need to edit the index.qmd file.",
+    "text": "Preface",
     "crumbs": [
       "Preface"
     ]
   },
   {
-    "objectID": "index.html#how-this-page-is-structured",
-    "href": "index.html#how-this-page-is-structured",
+    "objectID": "index.html#introduction-to-the-bm327-microbiology-semester-1-lab-manual",
+    "href": "index.html#introduction-to-the-bm327-microbiology-semester-1-lab-manual",
     "title": "BM327 microbiology S1 lab manual",
-    "section": "How this page is structured",
-    "text": "How this page is structured\n\nSection headers\nSection headers are written in [Markdown] using hash/pound signs:\n## This is a (level two) section header.\n### This is a (level three) section header\n\nTo learn more about sections and headers, see this quick guide to Markdown basics.\n\n\n\n\n\n\n\nChanging title and author information, or the cover image (click to expand)\n\n\n\n\n\nThe book title, author, date, and cover image are specified in the _quarto.yml. To change this information, edit that file, and re-render the page.\nbook:\n  title: \"THE TITLE OF THE BOOK\"\n  author: \"AUTHOR NAME\"\n  date: \"DD/MM/YY\"\n  cover-image: sipbs_compbio_800.png\n\n\n\n\n\nCallout blocks\nCallout blocks, like the ones above, are highlighted regions of the document which carry a title, icon and colour, which may indicate the kind of information the callout contains. For example:\n\n\n\n\n\n\nWarning\n\n\n\nThis is a warning block. To insert a block like this, use:\n::: { .callout-warning }\nThe text of the callout goes here\n:::\n\n\n\n\n\n\n\n\nCaution (click to expand)\n\n\n\n\n\nThis is a caution block, which is collapsible when rendered as HTML/webpage but appears in full in the Word document. To make a callout collapsible, use collapse=\"true\" as in the example below. This places a dropdown icon to the right of the title bar, which controls expansion.\n::: { .callout-caution collapse=\"true\" title=\"Caution (click to expand)\"}\nThis is a collapsible caution block. The callout content goes here.\n:::\nNotice also that the title of the callout is specified between the curly braces as title=\"Caution (click to expand)\".\n\n\n\nYou can learn more about callout blocks in the Quarto documentation.",
+    "section": "Introduction to the BM327 Microbiology Semester 1 Lab Manual",
+    "text": "Introduction to the BM327 Microbiology Semester 1 Lab Manual\nThis laboratory manual contains key information about each of the five practical laboratory sessions delivered as part of BM327 microbiology semester 1.\n\nHow to use this manual\nYou can navigate through this manual using the sidebar on the left.\nThe introductory section is a general section containing helpful information on good laboratory technique, working with microorganisms safely and aseptically, etc. - it also contains general information about the module, including the assessment. You should read through this section before the first lab and refer back to it when needed to refresh your memory.\nEach of the experiment sections 1-5 contain a brief explanation of the theory underpinning the experiments we will do in the practical labs, the protocols that will be used in that lab, and an explanation of any data analysis tasks that need to be performed after the lab. Links to the protocols (handouts) for each lab are provided, but please note that you do not need to print these out - they will be provided for you in the laboratories.\n\n\nHow to prepare for each lab session\nYou should read through the relevant theory/introductory material before coming to each practical lab session, and make sure you understand it. In some instances you may wish to review the material covered in BM330 before the lab as well (or review the underpinning microbiology theory in a textbook such as [add refs]).\n\n\nEach section will have a “To do” box like this, with a summary of the reading/tasks necessary to prepare for the lab.\nThe data analysis pages will have a “To do” box too - for the tasks you need to complete after the lab.\n\n\n\n\n\n\n\n\nTips for success\n\n\n\n\nYou will also find boxes throughout this lab manual with Tips, Important notes, Discussion Questions, etc (such as this one). These are intended to help you prepare for each lab (and for the assessment), so you should make sure to read through all the material.\nAs Benjamin Franklin said, “By failing to prepare, you are preparing to fail.” It is really important that you come prepared to each lab! A little bit of time spent reading through the material and performing any necessary tasks or calculations will really pay off.\n\n\n\n\n\nHow to deal with any problems, questions, or concerns\nIf you have any problems or questions, please feel free to speak with Dr. Feeney during the lab sessions or by e-mail.\nIf you are going to miss a lab session (for whatever reason), you should e-mail Dr. Feeney and also log your absence with the university using the Pegasus Personal Circumstances tool. More details can be found in your student handbook.\nIf you notice any errors (including typos, broken links, etc.) in this lab manual, please notify Dr Feeney, either by e-mail or by raising an issue on this lab manual’s github page.",
     "crumbs": [
       "Preface"
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "0section.html",
+    "href": "0section.html",
+    "title": "Introduction",
     "section": "",
-    "text": "The Introduction page is intended as a short introduction to the book.\nLike most Quarto books, this is a book created from markdown and executable code.\nThis kind of book is an example of literate programming - the intertwining of nicely-formatted text and images, and executable code. For example, the R code cell below executes and produces output when the book is compiled:\n\n1 + 1\n\n[1] 2\n\n\nBut the R code cell below does not:\n\nsummary(cars)\n\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the introductory materials.\n\nGeneral Course Information:\nLab Safety\nAims\nCompetencies and Learning Outcomes\nSchedule of Experimental Tasks\nAssessment\nGeneral Microbiology Lab Info - required reading\nGood Laboratory Technique\nAseptic Technique\nUsing a Microscope",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "Introduction"
     ]
   },
   {
-    "objectID": "early-section.html",
-    "href": "early-section.html",
-    "title": "Early Section",
+    "objectID": "0intro.html",
+    "href": "0intro.html",
+    "title": "1  Aim of the BM327 Semester 1 Microbiology laboratory sessions",
     "section": "",
-    "text": "Discussion with a different title\nThis .qmd file introduces a Part of the Quarto book. We use the {#sec-REFERENCE} option to make it cross-referenceable elsewhere in the text, and the {.unnumbered} option to avoid giving it a section number.\nWe can add custom callout boxes like this:\nLet’s talk about something else",
+    "text": "1.1 Microbiology Laboratories Competency Skills\nThe aim of this block of laboratory sessions is to introduce students to fundamental molecular biology and microbiology methods, such as UV mutagenesis, plasmid transfer, antibiotic assays and microscopy.\nWithin the block of five three-hour laboratory sessions, there are five distinct experimental elements. Each experimental element is linked to the others as part of an overall research project. Most of the experimental elements will take place over the course of several different laboratory sections (because of the need to incubate plates and allow microbes to grow). There are also two workshops to supplement your learning – details of these will be made available on MyPlace.\nGraduate recruiters look for specific job skills and competencies. Competencies are action-oriented statements of the knowledge, skills, and abilities people need to do their work successfully. They are observable and measurable. These are what you need to do the job and work in their organisation. Some are straightforward and required in many different career: communication, teamwork and problem solving are just a few. You need to show employers you have mastered essential skills such as writing, reading, numeracy, presentation, organisation and the ability to work under pressure. Graduates who demonstrate their analytical thinking during a job interview or assessment centre will stand out from other candidates. Other skills such as those gained in the laboratory are more specific and aligned to particular types of jobs e.g. ability to do a PCR.\nYou will be assessed for your competency in the following:\nLab 1 * Performing data analysis\nLab 2 * Performing data analysis\nLab 3 * Performing data analysis\nLab 4 * Performing calculations\nLab 5 * Using appropriate software to visualize and analyze microscopy data",
     "crumbs": [
-      "Early Section"
+      "Introduction",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overall Aims and Competencies</span>"
     ]
   },
   {
-    "objectID": "early-section-topic.html",
-    "href": "early-section-topic.html",
-    "title": "2  Early Section Topic",
+    "objectID": "0intro.html#microbiology-laboratories-competency-skills",
+    "href": "0intro.html#microbiology-laboratories-competency-skills",
+    "title": "1  Aim of the BM327 Semester 1 Microbiology laboratory sessions",
     "section": "",
-    "text": "This .qmd file represents some topic-related text. We use the {#sec-REFERENCE} option to make it cross-referenceable elsewhere in the text.",
+    "text": "Performing basic lab calculations, e.g. serial dilutions\nInterpreting phenotypic and genotypic data\nTeamwork\nKeeping detailed and accurate records\n\n\n\nCalculating antibiotic MBC and MIC values\nTeamwork\nKeeping detailed and accurate records\n\n\n\nUsing online databases\nTeamwork\nKeeping detailed and accurate records\n\n\n\nPerforming data analysis\nFormulating hypotheses\nUsing databases\nTeamwork\nKeeping detailed and accurate records\n\n\n\nData analysis\nData presentation\nTeamwork\nKeeping detailed and accurate records",
     "crumbs": [
-      "Early Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Early Section Topic</span>"
+      "Introduction",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overall Aims and Competencies</span>"
     ]
   },
   {
-    "objectID": "example_pages.html",
-    "href": "example_pages.html",
-    "title": "Example pages",
+    "objectID": "0intro.html#overall-learning-outcomes",
+    "href": "0intro.html#overall-learning-outcomes",
+    "title": "1  Aim of the BM327 Semester 1 Microbiology laboratory sessions",
+    "section": "1.2 Overall learning outcomes",
+    "text": "1.2 Overall learning outcomes\n\nTo understand how exposure to UV radiation can affect the ability of microorganisms to survive and produce antibiotics.\nTo understand how genetic elements are transferred between bacteria.\nTo understand how the susceptibility of bacteria to certain antibiotics is determined.\nTo observe how bacterial cells can change their morphology as a result of certain environmental stimuli.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overall Aims and Competencies</span>"
+    ]
+  },
+  {
+    "objectID": "0schedule.html",
+    "href": "0schedule.html",
+    "title": "BM327 microbiology S1 lab manual",
     "section": "",
-    "text": "Tip\n\n\n\nThis .qmd file introduces a Part of the Quarto book. We use the {#sec-REFERENCE} option to make it cross-referenceable elsewhere in the text, and the {.unnumbered} option to avoid giving it a section number, using this line at the top of the file:\n# Example pages {#sec-late .unnumbered}\n\n\nThis section of the template contains pages that each focus on an example of one type of helpful feature, embedding videos, presenting multiple choice questions (MCQs), custom callout boxes, and that kind of thing. They are intended to present the features in-use, and to provide a brief reference for how to employ them in your own books.",
+    "text": "Schedule of experimental tasks\nBecause of the nature of microbiology (cultures require incubation and take time to grow), many of your experiments will take place across more than one laboratory session (Figure 1). It is therefore essential that you keep careful track of all experimental tasks: e.g., carefully labelling your cultures and taking care to read all the relevant sections of the lab manual.\n\nBefore attending the practical lab, you should ensure that you have read and understood:\n\nThe introductory sections covering Good Lab Practice and Aseptic Technique\nThe introductory sections covering the theory on Axenic culture,\nThe Protocols we will be following in the lab\n\nYou also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.",
     "crumbs": [
-      "Example pages"
+      "Introduction",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule of Experimental Tasks</span>"
     ]
   },
   {
-    "objectID": "quiz.html",
-    "href": "quiz.html",
-    "title": "3  Interactive Multiple Choice Questions",
+    "objectID": "0assessment.html",
+    "href": "0assessment.html",
+    "title": "3  Formative assessment",
     "section": "",
-    "text": "3.1 Multiple Choice Questions\nThis page demonstrates the setup of an naquiz multiple-choice quiz. The advantage of this extension is that we don’t need to use a Shiny server.",
+    "text": "3.1 Summative assessment: Online Quiz",
     "crumbs": [
-      "Example pages",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Interactive Multiple Choice Questions</span>"
+      "Introduction",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessment</span>"
     ]
   },
   {
-    "objectID": "quiz.html#multiple-choice-questions",
-    "href": "quiz.html#multiple-choice-questions",
-    "title": "3  Interactive Multiple Choice Questions",
+    "objectID": "0assessment.html#summative-assessment-online-quiz",
+    "href": "0assessment.html#summative-assessment-online-quiz",
+    "title": "3  Formative assessment",
     "section": "",
-    "text": "3.1.1 Basic MCQ\nA simple naquiz example looks something like the question below to the reader (click the Markdown tab to see how to write the markdown for it).\n\nAppearanceMarkdown\n\n\n\nBill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google\n\n\n\n\n\n\n\n:::::{.question}\nBill Gates was the founder of:\n\n::::{.choices}\n\n:::{.choice}\nApple\n:::  \n\n:::{.choice .correct-choice}\nMicrosoft\n:::\n\n:::{.choice}\nFacebook  \n:::\n\n:::{.choice}\nGoogle   \n:::\n\n::::\n:::::\n\n\n\n\n\n\nCaution\n\n\n\nThe nested colon dividers and their counts can look confusing on the page, and missed/extra colons can break the layout of your page.\n\nThe {.question} divider gets five colons.\nThe {.choices} divider that surrounds the choices presented to the reader gets four colons.\nEach individual {.choice} divider gets three colons.\n\n\n\n\n\n\nIt presents a series of radio buttons from which the reader can choose one option. On clicking the option, the reader receives very basic feedback: a red cross (incorrect) or green tick (correct).\n\n\n3.1.2 Add a “clear answer” button\nThe naquiz MCQs can be decorated with useful buttons for reader interaction. The example below has a “Clear Answer” button, which unchecks the reader’s selected answer.\n\nAppearanceMarkdown\n\n\n\nBill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google\n\n\nClear answer\n\n\n\n\n\n\n\n\n\n\n:::::{.question}\nBill Gates was the founder of:\n\n::::{.choices}\n\n:::{.choice}\nApple\n:::  \n\n:::{.choice .correct-choice}\nMicrosoft\n:::\n\n:::{.choice}\nFacebook  \n:::\n\n:::{.choice}\nGoogle   \n:::\n\n:::{.button-clear title=\"Clear answer\" button-class=\"btn btn-xs\"}\n:::\n\n::::\n:::::\n\n\n\n\n\n\nImportant\n\n\n\nThe button to clear reader answers needs to be linked with the available choices, and so is placed inside the {.choices} division of the MCQ.\n\n\n\n\n\n\n\n3.1.3 Add a “hint” button\nThe example below includes a “hint” button, which the reader can use to get a clue to the answer.\n\nAppearanceMarkdown\n\n\n\nBill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google\n\n\nClear answer\n\n\n\n\n\n\n\n\n\n\nShow hint\n\nThe company name starts with an ‘M’…\n\n\n\n\n\n\n\n\n:::::{.question}\nBill Gates was the founder of:\n\n::::{.choices}\n\n:::{.choice}\nApple\n:::  \n\n:::{.choice .correct-choice}\nMicrosoft\n:::\n\n:::{.choice}\nFacebook  \n:::\n\n:::{.choice}\nGoogle   \n:::\n\n:::{.button-clear title=\"Clear answer\" button-class=\"btn btn-xs\"}\n:::\n\n::::\n\n::::{.btn-group}\n:::{.button-hint title=\"Show hint\" button-class=\"btn btn-xs\"}\nThe company name starts with an 'M'...\n:::\n::::\n\n:::::\n\n\n\n\n\n\nImportant\n\n\n\nWe can place additional buttons within a button group divider, specified as ::::{.btn-group}, inside the question divider (the five colons :::::).\nHere, we have linked a {.button-hint} that, when clicked, expands to show the hint text.\n\n\n\n\n\n\n\n3.1.4 Add an “answer” button\nWe can add a further button to provide students with the answer we’d like them to read, directly.\n\nAppearanceMarkdown\n\n\n\nBill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google\n\n\nClear answer\n\n\n\n\n\n\n\n\n\n\nShow hint\n\nThe company name starts with an ‘M’…\n\n\n\n\n\n\nShow Answer\n\nBill Gates and Paul Allen founded Microsoft on April 4, 1975.\n\n\n\n\n\n\n\n\n:::::{.question}\nBill Gates was the founder of:\n\n::::{.choices}\n\n:::{.choice}\nApple\n:::  \n\n:::{.choice .correct-choice}\nMicrosoft\n:::\n\n:::{.choice}\nFacebook  \n:::\n\n:::{.choice}\nGoogle   \n:::\n\n:::{.button-clear title=\"Clear answer\" button-class=\"btn btn-xs\"}\n:::\n\n::::\n\n::::{.btn-group}\n:::{.button-hint title=\"Show hint\" button-class=\"btn btn-xs\"}\nThe company name starts with an 'M'...\n:::\n::::\n\n:::{.button-answer title=\"Show Answer\" button-class=\"btn btn-xs\"}\nBill Gates and Paul Allen founded Microsoft on April 4, 1975.\n:::\n:::::\n\n\n\n\n\n\nImportant\n\n\n\nWe can place more than one button in the button group divider. Here, we have linked a {.button-answer} that, when clicked, expands to show the hint text.\n\n\n\n\n\n\n\n3.1.5 Placing an MCQ in a custom callout\nWe have created a custom callout called callout-question which can be used to make MCQ stand out a bit more, with a consistent visual style.\n\nAppearanceMarkdown\n\n\n\n\n\n\n\n\nQuestion\n\n\n\n\nBill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google\n\n\nClear answer\n\n\n\n\n\n\n\n\n\n\n\nShow hint\n\nThe company name starts with an ‘M’…\n\n\n\n\n\n\nShow Answer\n\nBill Gates and Paul Allen founded Microsoft on April 4, 1975.\n\n\n\n\n\n\n\n\n\n::: { .callout-question }\n\n:::::{.question}\nBill Gates was the founder of:\n\n::::{.choices}\n\n:::{.choice}\nApple\n:::  \n\n:::{.choice .correct-choice}\nMicrosoft\n:::\n\n:::{.choice}\nFacebook  \n:::\n\n:::{.choice}\nGoogle   \n:::\n\n:::{.button-clear title=\"Clear answer\" button-class=\"btn btn-xs\"}\n:::\n\n::::\n:::::\n\n::::{.btn-group}\n:::{.button-hint title=\"Show hint\" button-class=\"btn btn-xs\"}\nThe company name starts with an 'M'...\n:::\n\n:::{.button-answer title=\"Show Answer\" button-class=\"btn btn-xs\"}\nBill Gates and Paul Allen founded Microsoft on April 4, 1975.\n:::\n::::\n\n:::\n\n\n\n\n\n3.1.6 Randomising question values\nWe can use R or Python to generate random values that can be used to compose questions that are different each time the page is rendered, by inserting a suitable R/Python code block and using the values in the question.\n\n\n\n\n\n\nCaution\n\n\n\nThe values do not change when the page is reloaded by a reader. The values are calculated when the pages are rendered.\nFor values that change when the page is refreshed, or on demand, use an R Shiny or Shinylive solution, or a solution like Numbas.\n\n\n\nAppearanceMarkdownR code\n\n\n\n\n\n\n\n\nQuestion\n\n\n\n\nWhat is the sum of 9 and 13?\n\n\n\n\n ✗-4\n\n\n ✓22\n\n\n ✗4\n\n\n ✗117\n\n\nClear answer\n\n\n\n\n\n\n\n\n\n\n\nShow hint\n\nYou need to add the two numbers 9 and 13\n\n\n\n\n\n\nShow Answer\n\n9 + 13 = 22\n\n\n\n\n\n\n\n\n\n::: { .callout-question }\n\n:::::{.question}\nWhat is the sum of `r x_val` and `r y_val`?\n\n::::{.choices}\n\n:::{.choice}\n`r x_val - y_val`\n:::  \n\n:::{.choice .correct-choice}\n`r x_val + y_val`\n:::\n\n:::{.choice}\n`r y_val - x_val`\n:::\n\n:::{.choice}\n`r y_val * x_val`\n:::\n\n:::{.button-clear title=\"Clear answer\" button-class=\"btn btn-xs\"}\n:::\n\n::::\n:::::\n\n::::{.btn-group}\n:::{.button-hint title=\"Show hint\" button-class=\"btn btn-xs\"}\nYou need to add the two numbers `r x_val` and `r y_val`\n:::\n\n:::{.button-answer title=\"Show Answer\" button-class=\"btn btn-xs\"}\n`r x_val` + `r y_val` = `r x_val + y_val`\n:::\n::::\n\n:::\n\n\n#| show: false\n#| echo: false\n\nx_val &lt;- sample(1:10, 1)\ny_val &lt;- sample(11:20, 1)",
+    "text": "3.1.1 Contribution to overall class assessment\nThe BM327 semester 1 microbiology assessment comprises 25% of the overall BM327 class assessment.",
     "crumbs": [
-      "Example pages",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Interactive Multiple Choice Questions</span>"
+      "Introduction",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessment</span>"
     ]
   },
   {
-    "objectID": "webr-example.html",
-    "href": "webr-example.html",
-    "title": "4  WebR Playground",
+    "objectID": "0safety.html",
+    "href": "0safety.html",
+    "title": "BM327 microbiology S1 lab manual",
     "section": "",
-    "text": "4.1 Introduction\nThis page provides a WebR cell for use as a playground to experiment with example datasets, and describes how to include WebR on other Quarto pages.",
+    "text": "Important\n\n\n\nIMPORTANT NOTE: A link to all Safety Paperwork (eCOSHH and eRisk Assessments) for each appropriate laboratory will be sent to you in an email a few days before the session. These electronic documents MUST be read ahead of each laboratory and acknowledgement of this indicated by ticking the box that is at the end of the document. This MUST be done at least ONE day ahead of the session. Failure to do this will result in you not being allowed into the laboratory session. A link to the electronic document will also be available on the appropriate BM327 Being a Biomolecular Scientist 3 class sub-page on Myplace.\nIt is essential that you prepare thoroughly for these labs by reviewing each section and that you understand fully what you are doing in each lab. If in doubt, ask a member of staff.",
     "crumbs": [
-      "Example pages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>`WebR` Playground</span>"
+      "Introduction",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lab Safety</span>"
     ]
   },
   {
-    "objectID": "webr-example.html#introduction",
-    "href": "webr-example.html#introduction",
-    "title": "4  WebR Playground",
+    "objectID": "0goodlab.html",
+    "href": "0goodlab.html",
+    "title": "5  Good Laboratory Practice",
     "section": "",
-    "text": "WebR documentation",
+    "text": "6 Good Lab Practice\nMany of the principles for working in a microbiology lab are the same as those used in any other biomedical research lab. These are transferable skills, which are useful for a number of different careers.\nGood lab practice is a cornerstone of biomedical research: it helps to ensure that results are reproducible, and is especially crucial for any clinical or therapeutic work.",
     "crumbs": [
-      "Example pages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>`WebR` Playground</span>"
+      "Introduction",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Good Laboratory Technique</span>"
     ]
   },
   {
-    "objectID": "webr-example.html#playground",
-    "href": "webr-example.html#playground",
-    "title": "4  WebR Playground",
-    "section": "4.2 Playground",
-    "text": "4.2 Playground\n\nAppearanceMarkdown\n\n\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\n\n```{webr-r}\n# Use this WebR cell to experiment with using R. You can do almost anything\n# by typing in this code cell that you can do in R, including plotting graphs.\n#\n# Why not try the command:\n#\n# plot(penguins)\n#\n# and click the \"Run code\" icon?\n\n```",
+    "objectID": "0goodlab.html#keeping-a-laboratory-notebook",
+    "href": "0goodlab.html#keeping-a-laboratory-notebook",
+    "title": "5  Good Laboratory Practice",
+    "section": "6.1 Keeping a Laboratory Notebook",
+    "text": "6.1 Keeping a Laboratory Notebook\nIt is essential to keep an accurate record of experiments, with details of every experiment performed, the data collected, and the data analysis that was performed. It is just as important to keep a lab notebook for experiments performed in silico as it is for experiments performed at the lab bench.\nYou should be able to come back to your notebook six months later, read your notes, and be able to recreate the experiment/understand the analyses that you performed. Human memory is fallible and it is important to keep clear, accurate records.\nMoreover, an appropriately kept lab notebook is a legal document, important for protecting your intellectual property. You should therefore be in the habit of keeping your lab notebook up to date and accurate.\n\n6.1.1 Some guidelines for keeping a good lab notebook:\n\nYour notebook may be kept in the form of a physical notebook (kept on paper) or an electronic notebook. The former should be written in clearly and legibly, using indelible ink. The latter should be saved often, with backup copies stored securely.\nInclude the date for each entry.\nEach experiment should include a title, a hypothesis or aim, a brief description of the background, protocols and details of any reagents/equipment used, observations, and any data or statistical analysis that was performed.\nAny protocols or methods should be described in enough detail that a colleague (or you in six months’ time!) can repeat the same experiment, starting from the same dataset/materials, and reach the same results.\nAny mistakes should be crossed out and explained (not erased).\nAll data should always be recorded in your lab notebook (even “failed” experiments or “outliers”).\n\n\n\n\n\n\n\nElectronic Lab Notebooks\n\n\n\n\n\nIncreasingly, researchers are using electronic lab notebooks instead of paper ones - these are more impervious to physical destruction (e.g., chemical spills, lab fires) and often more convenient (more easily legible, searchable, etc.) However, care must be taken to ensure that the data stored in an electronic lab notebook is secure and backed up.\nThere are many options for lab notebooks. One popular and widely used electronic lab notebook is Benchling.\n\nYou can join Benchling by creating an account at http://benchling.com/signup\nFor help with Benchling, including training kits and best practice guides, please see https://help.benchling.com/hc/en-us.\n\n\n\n\n\n\n6.1.2 Good Labelling Technique\nIt is essential that all tubes and plates be clearly and legibly labelled. You will often be working with these over a period of several weeks, and you will be unable to interpret/analyse the results from a previous week’s experiments if you have not labelled your samples correctly.\nSome general guidelines for good labeling practice:\n\nInclude your initials and the date of the experiment (if directed by your instructors, also include your bench number).\nIf working with microorganisms, always include the species name (abbreviations, e.g. E. coli are fine).\nIf labeling Petri plates, label around the outside rim of the plate (do not obscure the plate as it will make it hard to count colonies!), as shown in ?fig-platelabelling. You should also be sure to label the bottom of the plate (?fig-platelid). The bottom and lid may become separated, so labeling the lid is a bad idea!\n\n \n\n\n6.1.3 Other tips for good lab practice\n\nRead through each protocol thoroughly before beginning an experiment. Label all tubes and prepare any reagents needed before you begin. Stay organised and keep your space clean.\nTurn off your Bunsen burner (or set it to a visible orange flame) if you are not working aseptically.\nNever walk away from your bench and leave a lit Bunsen burner unattended.\nNever wear gloves when working with a Bunsen burner.\nPipet as accurately as possible:\n\nUse the correct pipet for the volume you intend to pipet and make sure it is set correctly (if uncertain, ask a demonstrator or member of staff)\nPipet down to the first stop when drawing up liquid into the pipet; pipet down to the second stop when expelling liquid.\nAvoid bubbles when pipetting.\nOnly insert the very tip of the pipet into the liquid when pipetting particularly viscous mixtures (e.g., polymerase or enzyme stocks).",
     "crumbs": [
-      "Example pages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>`WebR` Playground</span>"
+      "Introduction",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Good Laboratory Technique</span>"
     ]
   },
   {
-    "objectID": "webr-example.html#examples-to-try",
-    "href": "webr-example.html#examples-to-try",
-    "title": "4  WebR Playground",
-    "section": "4.3 Examples to try",
-    "text": "4.3 Examples to try\n\nPalmer PenguinsPlot reporter curvesOther datasets\n\n\nThe penguins dataset contains data about three different species of penguins. You can use the R commands below to investigate the data:\nglimpse(penguins)  # look at the format of the dataset\nplot(penguins)     # plot a visual overview of the dataset\n\n# Plot the count of penguins in each species as a bar chart\nggplot(penguins, aes(species, fill=species)) + geom_bar()\n\n# Break down the distribution by species in a facet plot\nggplot(penguins, aes(species, fill=species)) + geom_bar() + facet_wrap(~sex)\n\n# Make a box and whisker plot of penguin body mass by species:\nggplot(penguins, aes(x=species, y=body_mass_g, fill=species)) + geom_boxplot()\n\n# Plot the body mass for each sex side-by-side\nggplot(penguins, aes(x=species, y=body_mass_g, fill=sex)) + geom_boxplot()\n\n# Investigate correlation between body mass and flipper length:\nggplot(penguins, aes(x=body_mass_g, y=flipper_length_mm)) + geom_point()\n\n# Colour datapoints by species:\nggplot(penguins, aes(x=body_mass_g, y=flipper_length_mm, colour=species)) +\n         geom_point()\n\n# Fit a linear regression to each species separately:\nggplot(penguins, aes(x=body_mass_g, y=flipper_length_mm, colour=species)) +\n         geom_point() +\n         geom_smooth(method=\"lm\")\n\n\nOne of our BM214 workshops involves a WebR-supported interactive exercise involving simulated reporter curves.\nHere, we have downloaded some data from the online repository and made it available as though it was a dataset on the filesystem, reporter_curves.csv.\n# Load reporter experiment data\ndata &lt;- read.csv(\"reporter_curves.csv\")\n\nglimpse(data)  # Summarise the data format\n\n# Plot absorbance against concentration as a facet plot\nggplot(data, aes(x=conc, y=abs_ratio, color=sample)) + geom_point() +\n  geom_line() + facet_wrap(~sample)\n\n\nR comes with a number of example datasets you can practice with, including:\n\nmtcars: fuel consumption and other statistic for 32 automobiles\nTitanic: the fates of passengers from the maiden voyage of the ocean liner Titanic\n\nYou can see a full list by running the command\nlibrary(help = \"datasets\")",
-    "crumbs": [
-      "Example pages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>`WebR` Playground</span>"
-    ]
-  },
-  {
-    "objectID": "webr-example.html#setting-up-webr",
-    "href": "webr-example.html#setting-up-webr",
-    "title": "4  WebR Playground",
-    "section": "4.4 Setting up WebR",
-    "text": "4.4 Setting up WebR\nThere are three important elements to including WebR on a Quarto page: the YAML header, the setup code block, and the WebR cell.\nYou can see an example of how to set up WebR on any Quarto page by inspecting the .qmd source for this page.\n\n4.4.1 YAML header\nTo use WebR on a Quarto page, you need to include an appropriate YAML header at the top of the page:\n---\nwebr:\n  packages: [\"tidyverse\", \"palmerpenguins\"]\nfilters:\n  - webr\n---\nPackages to be imported into WebR should be specified in the list, as tidyverse and palmerpenguins are, here. The webr filter must be loaded.\n\n\n4.4.2 WebR setup block\nThere is a special R code block needed to prepare the WebR instance. For this page, the code block\n```{webr-r}\n#| context: setup\n\n# Download reporter data\ndownload.file('https://raw.githubusercontent.com/sipbs-compbiol/BM214-Workshop-3/main/assets/data/reporter_curves.csv', 'reporter_curves.csv')\n\nlibrary(palmerpenguins)\nlibrary(tidyverse)\n```\ndeclares that it has the setup context, so will be run when the WebR instance starts. The download.file() call pulls the reporter_curves.csv file from a GitHub repository and makes it available in WebR, as if it were a real file, with the name reporter_curves.csv. The last three lines import R packages into the WebR environment.\n\n\n4.4.3 The WebR code cell\nThe minimal WebR code cell looks like this:\n```{webr-r}\n```\nbut it is more helpful, and more usual, to include some example code or comments, as in the example below:\n\nAppearanceMarkdown\n\n\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\n\n```{webr-r}\n# You can use `R` as a calculator\n\n1 * sin(1)\n```",
-    "crumbs": [
-      "Example pages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>`WebR` Playground</span>"
-    ]
-  },
-  {
-    "objectID": "callouts.html",
-    "href": "callouts.html",
-    "title": "5  Custom Callouts",
+    "objectID": "0aseptic.html",
+    "href": "0aseptic.html",
+    "title": "6  Aseptic Technique",
     "section": "",
-    "text": "5.1 Introduction\nThis page demonstrates the use of the quarto-custom-callout extension to provide bespoke callout blocks.\nQuarto provides a number of built-in callout blocks, including:\nbut these do not cover all the cases we might want to use callouts for. It is possible to change the titles of these callouts, such as:\nbut customising the colour and icon of a callout is more difficult. The quarto-custom-callout extension allows us to make our own callouts.",
+    "text": "6.1 Aseptic Technique\nIt is essential that you work aseptically when working in a microbiology lab. Microbes are ubiquitous in the environment (including in the air, and on your skin). Therefore, you must work aseptically so that your experiment contains only the organism(s) you are working with, and not unwanted contaminants!\nMost of the materials you will be working with (pipet tips, microcentrifuge (Eppendorf) tubes, culture media, etc. will have been sterilised for you by autoclaving: the autoclave sterilises these items by subjecting them to pressurised steam (121°C, 15 p.s.i.).\nOne of the cornerstone principles of aseptic technique is that any objects, even those that have previously been sterile, can no longer be considered sterile if they come into contact with non-sterile objects. Be careful not to allow your pipet tips to come into contact with any non-sterile surfaces (i.e., your bench top, fingers, the lids or outsides of bottles).",
     "crumbs": [
-      "Example pages",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Custom Callouts</span>"
+      "Introduction",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Aseptic Technique</span>"
     ]
   },
   {
-    "objectID": "callouts.html#introduction",
-    "href": "callouts.html#introduction",
-    "title": "5  Custom Callouts",
+    "objectID": "0aseptic.html#aseptic-technique",
+    "href": "0aseptic.html#aseptic-technique",
+    "title": "6  Aseptic Technique",
     "section": "",
-    "text": "Caution\n\n\n\nThe caution callout\n::: { .callout-caution }\nThe caution callout\n:::\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThe important callout\n::: { .callout-info }\nThe important callout\n:::\n\n\n\n\n\n\n\n\nTip\n\n\n\nThe tip callout\n::: { .callout-tip }\nThe tip callout\n:::\n\n\n\n\n\n\n\n\n\nCustom title\n\n\n\nThe tip callout with a custom title\n::: { .callout-tip title=\"Custom title\"}\nThe tip callout with a custom title\n:::\n\n\n\n\n\n\n\n\nNot the caution callout\n\n\n\n::: { .callout-caution }\n## Not the caution callout\n:::",
+    "text": "Autoclaved items\n\n\n\nYou will be able to recognise that items such as tips or Eppendorf tubes have been autoclaved based on the use of autoclave tape on the containers for these items. Autoclave tape changes colour when subjected to high heat and pressure. It is essential that you use these sterilised items: do not take unsterilised pipet tips or microcentrifuge tubes from the shelves.\n\n\n\n\n\n\nFigure 6.1: The use of autoclave tape to show that the contents of a container have been sterilised (compared to unautoclaved tape, on the right). Image credit: Wikipedia\n\n\n\n\n\n\n\n\n\n\n\n\nTop Tip for Good Aseptic Technique\n\n\n\nYou should use good aseptic technique when working with all containers (including tip boxes, Eppendorf boxes, bottles of media, etc.), to prevent the contents from becoming contaminated.\nContainers should be opened for the minimum amount of time possible (the longer they are open, the greater the chance of contamination!) Close them promptly when you have removed the tip/sample.\nTip boxes should not be left open. If you leave the box open, microbes present in the air can easily contaminate the tips.\n You should therefore always: 1. Open tip box –&gt; 2. Take pipet tip –&gt; 3. Close tip box –&gt; 4. Use pipet tip\n\n\n\n6.1.1 Working with a Bunsen Burner\nIn order to keep your work sterile and free from contamination that could interfere with your experiments, you should work near a Bunsen burner set to a blue flame (Figure 6.2). The Bunsen creates an updraft of air, helping to maintain a “clean” zone around it. Having the Bunsen burner lit, but working several meters away from this clean zone, is ineffective and will likely result in contamination of your experiments.\n\n\n\n\n\n\nFigure 6.2: A Bunsen burner set to a blue flame. Image credit: Encyclopedia Britannica\n\n\n\nWhen working with a Bunsen burner, however, it is essential that you follow the following safety guidelines, for the safety of yourself and those working near you:\n\nTurn off your Bunsen burner (or set it to a visible orange flame) if you are not actively using it.\nNever walk away from your bench and leave a lit Bunsen burner unattended.\nNever wear gloves when working with a Bunsen burner.\n\n\n6.1.1.1 Using a platinum inoculating loop\nIn some cases you will need to use a platinum inoculating loop, e.g. to streak bacteria for single colonies on a new Petri plate.\nYou must make sure to sterilise your inoculating loop by flaming it (placing the platinum wire in the flame of your Bunsen burner to sterilise it). You should flame your loop both before touching it to a sample (this prevents the transfer of contaminants into your sample) and before putting it down when you have finished using it (so that you do not transfer microbes to the lab bench/other surfaces.\n\n\n\n\n\n\nImportant\n\n\n\nAn inoculating loop that has just been flamed is extremely hot - you should never allow a hot loop to touch your skin. You should also avoid touching a hot loop directly to your samples, as the heat will kill the microbes you are working with.\n\n\nThe procedure for flaming an inoculating loop is:\n\nPlace the loop in the flame of the Bunsen burner at an angle, so that the length of the loop lies along the surface between the inner and outer cones in the flame (the hottest part of the flame).\nHold the loop in the flame until the entirety of the loop turns cherry-red. It is not necessary to hold the loop there any longer than that: you are not trying to melt the metal!\nRemove the loop from the flame and allow it to cool, either by holding it in the air for several seconds (in the aseptic working zone near the Bunsen burner), or by touching it to a sterile surface (i.e. the inside of a culture tube or the agar in an uninoculated Petri dish.)\n\n\n\n\n6.1.2 Top tips for working with good aseptic technique:\n\nWork near a Bunsen burner set to a blue flame (Many students end up working miles away from their Bunsen, which is not very helpful.)\nOpen all containers (including tip boxes, Eppendorf boxes, bottles of media, etc.) for the minimum amount of time possible (the longer they are open, the greater the chance of contamination!) Close them promptly when you have removed the tip/sample. Tip boxes should not be left open.\nBe careful not to allow your pipet tips to come into contact with any non-sterile surfaces (i.e., your bench top, fingers, the lids or outsides of bottles).",
     "crumbs": [
-      "Example pages",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Custom Callouts</span>"
+      "Introduction",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Aseptic Technique</span>"
     ]
   },
   {
-    "objectID": "callouts.html#defining-a-new-callout",
-    "href": "callouts.html#defining-a-new-callout",
-    "title": "5  Custom Callouts",
-    "section": "5.2 Defining a new callout",
-    "text": "5.2 Defining a new callout\nTo make a new callout, add a new entry in _quarto.yml in the custom-callout block with the name of the callout. For instance, to add a new case study callout, we could use the code below:\ncustom-callout:\n  callout-case-study:\n    title: \"Case Study\"\n    icon-symbol: \"🔍\"\n    color: \"#FFA500\"\nand ensure that the custom-callout filter is called in _quarto.yml:\nfilters:\n  - custom-callout\n\n\n\n\n\n\nCallout naming convention\n\n\n\nWe have chosen to give all of our callouts for this template the prefix callout- for continuity with the builtin callouts, and to aid with literate programming/self-documentation. Please keep to this convention when you define your own callouts.\n\n\n\n\n\n\n\n\nTip\n\n\n\nNotice that the icon-symbol field accepts unicode icons and emojis.",
-    "crumbs": [
-      "Example pages",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Custom Callouts</span>"
-    ]
-  },
-  {
-    "objectID": "callouts.html#custom-callouts-in-this-template",
-    "href": "callouts.html#custom-callouts-in-this-template",
-    "title": "5  Custom Callouts",
-    "section": "5.3 Custom callouts in this template",
-    "text": "5.3 Custom callouts in this template\nWe have defined the custom callouts below:\n\n\n\n\n\n\nCase Study\n\n\n\nFor describing case studies\n::: { .callout-case-study }\nFor describing case studies\n:::\n\n\n\n\n\n\n\n\nChallenge\n\n\n\nFor presenting a challenge to readers\n::: { .callout-challenge }\nFor presenting a challenge to readers\n:::\n\n\n\n\n\n\n\n\nData Analysis\n\n\n\nFor describing datasets and data analysis\n::: { .callout-data }\nFor describing datasets and data analysis\n:::\n\n\n\n\n\n\n\n\nDiscussion Questions:\n\n\n\nFor introducing discussion points\n::: { .callout-discussion }\nFor introducing discussion points\n:::\n\n\n\n\n\n\n\n\nMicrobe Profile\n\n\n\nFor summarising the properties of a microbe\n::: { .callout-microbe }\nFor summarising the properties of a microbe\n:::\n\n\n\n\n\n\n\n\nQuestion\n\n\n\nFor presenting a single question to readers\n::: { .callout-question }\nFor presenting a single question to readers\n:::\n\n\n\n\n\n\n\n\nQuestions\n\n\n\nFor presenting multiple questions to readers\n::: { .callout-questions }\nFor presenting multiple questions to readers\n:::\n\n\n\n\n\n\n\n\nGreat job!\n\n\n\nFor general encouragement\n::: { .callout-thumbs-up }\nFor general encouragement\n:::\n\n\n\n\n\n\n\n\nCallout-todo\n\n\n\nFor highlighting where we still need to do some work\n::: { .callout-todo }\nFor highlighting where we still need to do some work\n:::",
-    "crumbs": [
-      "Example pages",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Custom Callouts</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "0microscope.html",
+    "href": "0microscope.html",
+    "title": "7  Using a Microscope",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "7.1 Correct use of a microscope\nBacteria are much smaller than anything else you will have looked at under a microscope; most bacterial cells are approximately 1-3 µm long. Optimal set up of the microscope is therefore essential.\nYou should begin by placing a slide onto the stage and aligning the lowest power objective (usually the 10X objective) over it.\nAt any point while using the microscope, you may wish to:",
     "crumbs": [
-      "References"
+      "Introduction",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Using a Microscope</span>"
+    ]
+  },
+  {
+    "objectID": "0microscope.html#correct-use-of-a-microscope",
+    "href": "0microscope.html#correct-use-of-a-microscope",
+    "title": "7  Using a Microscope",
+    "section": "",
+    "text": "Safety tip for working with microscopes\n\n\n\nPlease note that you should not wear gloves while working with a microscope: you do not want to inadvertently transfer staining reagents (or other chemicals) onto it.\n\n\n\n\nRaise the stage using the coarse focusing knob so that the slide is about 5 mm away from the objective.\nBring the slide into focus as best you can, first using the coarse focusing knob and then the fine focusing knob. You will be slowly lowering the stage so as to increase the distance between the slide and objective.\nOnce you have focussed as best you can using this objective, you should move on to the next highest power objective.\n\n\n\n\n\n\n\nFinding the focal plane\n\n\n\nOften the plane of focus is extremely narrow, so that small, faint objects like stained bacteria may be easily missed as the focus passes through the plane.\nThus, a good technique is to constantly move the focus up and down while also slowly moving the slide up/down or left/right on the stage. In this way, objects that flash in and out of focus tend to be more easily noticed by the eye.\n\n\n\n\nAdjust the “interocular separation” of the eyepieces so that they are comfortably aligned with your eyes.\nAdjust the lamp voltage at any time when using a microscope in order to get a comfortable level of light.\n\n\n7.1.1 Use of oil with the microscope:\n\nThe 100x objective is designed to be used with oil (it will have “oil” explicitly written on it), whereas the other objectives are not.\nNever use oil with any objective other than the 100x. Once you have added oil to your sample, never return to using a smaller magnification objective!\nOnly a very small amount of oil is needed, only add a tiny drop. Don’t flood the slide!\nWhen you have found your focus and optimised set-up with the 40x objective, swing the objectives half-way between the 40x and 100x. DO NOT move the stage or change the focus as you do this! Then gently add a very small drop of oil onto the spot of light you can see in your sample. Gently swing the 100x objective into place.\nYou will most likely have to adjust the focus a little, but only use the fine adjustment at this stage. Ask for help if you have trouble finding the focus. Under no circumstances go back to the 40x, as it does not tolerate getting in contact to the immersion oil.\nResidual oil will cling to the 100X objective after use, so make sure you clean it off with a lens tissue (specifically designed for this purpose) before putting the objective away. DO NOT use any other tissue to clean the lens.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Using a Microscope</span>"
+    ]
+  },
+  {
+    "objectID": "1section.html",
+    "href": "1section.html",
+    "title": "Experiment 1 -",
+    "section": "",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 1.\n\nAims and Overview\nBackground: Axenic culture; Serial Dilutions; Plasmid DNA\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
+    "crumbs": [
+      "Experiment 1 -"
+    ]
+  },
+  {
+    "objectID": "1aims.html",
+    "href": "1aims.html",
+    "title": "8  Experiment 1 Aims and Overview",
+    "section": "",
+    "text": "8.1 Aims",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Experiment 1 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "1aims.html#learning-outcomes",
+    "href": "1aims.html#learning-outcomes",
+    "title": "8  Experiment 1 Aims and Overview",
+    "section": "8.2 Learning Outcomes",
+    "text": "8.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Experiment 1 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "1aims.html#competencies",
+    "href": "1aims.html#competencies",
+    "title": "8  Experiment 1 Aims and Overview",
+    "section": "8.3 Competencies",
+    "text": "8.3 Competencies\n\nPerforming data analysis\nPerforming basic lab calculations, e.g. serial dilutions\nInterpreting phenotypic and genotypic data\nTeamwork\nKeeping detailed and accurate records",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Experiment 1 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "1aims.html#importance",
+    "href": "1aims.html#importance",
+    "title": "8  Experiment 1 Aims and Overview",
+    "section": "8.4 Importance",
+    "text": "8.4 Importance\nThis laboratory session",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Experiment 1 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "1aims.html#overview-of-experiment-1",
+    "href": "1aims.html#overview-of-experiment-1",
+    "title": "8  Experiment 1 Aims and Overview",
+    "section": "8.5 Overview of Experiment 1",
+    "text": "8.5 Overview of Experiment 1\nIn this experiment, you will be :",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Experiment 1 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "1protocols.html",
+    "href": "1protocols.html",
+    "title": "10  Experiment 1 Protocols",
+    "section": "",
+    "text": "You can view the handout for lab 1 below, or download it here.\nDownload PDF file.",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Experiment 1 Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "1data.html",
+    "href": "1data.html",
+    "title": "11  Experiment 1 - Data Analysis",
+    "section": "",
+    "text": "11.1 Task 1A\nIn the lab session,",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Experiment 1 - Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "1data.html#sec-1Adata",
+    "href": "1data.html#sec-1Adata",
+    "title": "11  Experiment 1 - Data Analysis",
+    "section": "",
+    "text": "11.1.1 Task 1A - Evaluating your Streak Plates\n\n\n\n\n\n\n\n\n11.1.2 Task 1A - Quantifying the Number of Microbes in a Sample: Serial Dilutions\nIt is often necessary or desirable to work backwards from the number of colonies on a plate, in order to work out the number of viable microbes that were present in the original (undiluted) sample. (Note that any microbes present in the sample that were dead, or viable-but-not-culturable, will not give rise to colonies on the plate - so you are enumerating the number of viable microbes, not the number of cells.)\nWe calculate and express the number of viable microbes in the original sample in colony forming units (cfu) - usually in cfu/mL.\nFor example, if you performed a decimal serial dilution, plated 0.1 mL of the 10-4 dilution, and counted 173 colonies on the resulting plate (Figure 11.1) - how many viable bacterial cells were present in the original culture?\n\n\n\n\n\n\nFigure 11.1: Examples of plating and counting colonies from a decimal serial dilution\n\n\n\nHere, we had 173 colonies in 0.1 mL of the dilution present in the 10-4 dilution tube.\nTo calculate the number of cfu/mL present in the original sample, divide the number of colonies on your plate by the total dilution factor: in this case, 173 colonies/(0.1 mL * 10-4) = 1.73 * 107 cfu/mL.\n\n\n\n\n\n\nTop tips for calculating cfu/mL\n\n\n\n\nMake sure you label your plates with the dilution factor - you will need this for the calculations!\nIdeally, you want to count colonies on a plate that has 30-300 colonies. We normally consider &lt;30 colonies to be Too Few To Count (TFTC) and more than 300 colonies to be Too Numerous To Count (TNTC). You will get more accurate estimates of your viable cell count if you use a countable plate.\nMake sure you use the correct number of significant figures in your answer - you can’t be more precise than your initial measurement (number of colonies counted).\nMake sure you express your answer in scientific notation (e.g., 1.73 * 107 cfu/mL, not 17300000) and include units.\nWhen you’ve finished your calculation, double-check that your answer makes sense! For example, you can’t have a fraction of a colony forming unit - so if your answer looks like 1.73 * 10-7 cfu/mL, you have probably gone awry with your handling of exponents somewhere.",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Experiment 1 - Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "1data.html#sec-1Bdata",
+    "href": "1data.html#sec-1Bdata",
+    "title": "11  Experiment 1 - Data Analysis",
+    "section": "11.2 Task 1B -",
+    "text": "11.2 Task 1B -\nYou should annotate your gel (label the DNA ladder and wells with their sample names), as for example in Figure 11.2.\n\n\n\n\n\n\nFigure 11.2: Example of an annotated gel.\n\n\n\nYou can find the product information sheet for the DNA ladder which we used in this lab, including the size of each band, on the manufacturer’s website.\n\nQuestions to consider/discuss with your lab partners:",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Experiment 1 - Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "1further.html",
+    "href": "1further.html",
+    "title": "12  Additional Resources/Further Reading for Experiment 1",
+    "section": "",
+    "text": "12.1 Microbiology Society “Techniques” videos\nThese videos illustrate many of the techniques used in this lab, you may find it helpful to watch them to prepare for the lab (or as review afterwards)",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Additional Resources/Further Reading for Experiment 1</span>"
+    ]
+  },
+  {
+    "objectID": "1further.html#microbiology-society-techniques-videos",
+    "href": "1further.html#microbiology-society-techniques-videos",
+    "title": "12  Additional Resources/Further Reading for Experiment 1",
+    "section": "",
+    "text": "Transferring agar to a Petri dish\nUsing a sterile inoculating loop\nMaking a Streak Plate\nSerial Dilution\nUsing a Pipette and Spreader",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Additional Resources/Further Reading for Experiment 1</span>"
+    ]
+  },
+  {
+    "objectID": "1further.html#streak-plates",
+    "href": "1further.html#streak-plates",
+    "title": "12  Additional Resources/Further Reading for Experiment 1",
+    "section": "12.2 Streak Plates",
+    "text": "12.2 Streak Plates\n\nThe Streak Plate Protocol (American Society for Microbiology): Some good historical background and a detailed protocol",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Additional Resources/Further Reading for Experiment 1</span>"
+    ]
+  },
+  {
+    "objectID": "1further.html#bacterial-plasmids",
+    "href": "1further.html#bacterial-plasmids",
+    "title": "12  Additional Resources/Further Reading for Experiment 1",
+    "section": "12.3 Bacterial Plasmids",
+    "text": "12.3 Bacterial Plasmids\n\nAddgene: Plasmids 101: helpful introduction to the basics of plasmid biology",
+    "crumbs": [
+      "Experiment 1 -",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Additional Resources/Further Reading for Experiment 1</span>"
+    ]
+  },
+  {
+    "objectID": "2section.html",
+    "href": "2section.html",
+    "title": "Experiment 2 -",
+    "section": "",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 2.\n\nAims and Overview\nBackground: Axenic culture;\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
+    "crumbs": [
+      "Experiment 2 -"
+    ]
+  },
+  {
+    "objectID": "2aims.html",
+    "href": "2aims.html",
+    "title": "13  Experiment 2 Aims and Overview",
+    "section": "",
+    "text": "13.1 Aims",
+    "crumbs": [
+      "Experiment 2 -",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "2aims.html#learning-outcomes",
+    "href": "2aims.html#learning-outcomes",
+    "title": "13  Experiment 2 Aims and Overview",
+    "section": "13.2 Learning Outcomes",
+    "text": "13.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:",
+    "crumbs": [
+      "Experiment 2 -",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "2aims.html#competencies",
+    "href": "2aims.html#competencies",
+    "title": "13  Experiment 2 Aims and Overview",
+    "section": "13.3 Competencies",
+    "text": "13.3 Competencies\n\nPerforming data analysis\nCalculating antibiotic MBC and MIC values\nTeamwork\nKeeping detailed and accurate records",
+    "crumbs": [
+      "Experiment 2 -",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "2aims.html#importance",
+    "href": "2aims.html#importance",
+    "title": "13  Experiment 2 Aims and Overview",
+    "section": "13.4 Importance",
+    "text": "13.4 Importance\nThis laboratory session",
+    "crumbs": [
+      "Experiment 2 -",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "2aims.html#overview-of-experiment-2",
+    "href": "2aims.html#overview-of-experiment-2",
+    "title": "13  Experiment 2 Aims and Overview",
+    "section": "13.5 Overview of Experiment 2",
+    "text": "13.5 Overview of Experiment 2\nIn this experiment, you will be :",
+    "crumbs": [
+      "Experiment 2 -",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "2protocols.html",
+    "href": "2protocols.html",
+    "title": "15  Experiment 2 Protocols",
+    "section": "",
+    "text": "You can view the handout for lab 1 below, or download it here.\nDownload PDF file.",
+    "crumbs": [
+      "Experiment 2 -",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Experiment 2 Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "3section.html",
+    "href": "3section.html",
+    "title": "Experiment 3 -",
+    "section": "",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 3.\n\nAims and Overview\nBackground: Axenic culture;\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
+    "crumbs": [
+      "Experiment 3 -"
+    ]
+  },
+  {
+    "objectID": "3aims.html",
+    "href": "3aims.html",
+    "title": "18  Experiment 3 Aims and Overview",
+    "section": "",
+    "text": "18.1 Aims",
+    "crumbs": [
+      "Experiment 3 -",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "3aims.html#learning-outcomes",
+    "href": "3aims.html#learning-outcomes",
+    "title": "18  Experiment 3 Aims and Overview",
+    "section": "18.2 Learning Outcomes",
+    "text": "18.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:",
+    "crumbs": [
+      "Experiment 3 -",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "3aims.html#competencies",
+    "href": "3aims.html#competencies",
+    "title": "18  Experiment 3 Aims and Overview",
+    "section": "18.3 Competencies",
+    "text": "18.3 Competencies\n\nPerforming data analysis\nUsing online databases\nTeamwork\nKeeping detailed and accurate records",
+    "crumbs": [
+      "Experiment 3 -",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "3aims.html#importance",
+    "href": "3aims.html#importance",
+    "title": "18  Experiment 3 Aims and Overview",
+    "section": "18.4 Importance",
+    "text": "18.4 Importance\nThis laboratory session",
+    "crumbs": [
+      "Experiment 3 -",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "3aims.html#overview-of-experiment-3",
+    "href": "3aims.html#overview-of-experiment-3",
+    "title": "18  Experiment 3 Aims and Overview",
+    "section": "18.5 Overview of Experiment 3",
+    "text": "18.5 Overview of Experiment 3\nIn this experiment, you will be :",
+    "crumbs": [
+      "Experiment 3 -",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "3protocols.html",
+    "href": "3protocols.html",
+    "title": "20  Experiment 3 Protocols",
+    "section": "",
+    "text": "You can view the handout for lab 3 below, or download it here.\nDownload PDF file.",
+    "crumbs": [
+      "Experiment 3 -",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Experiment 3 Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "4section.html",
+    "href": "4section.html",
+    "title": "Experiment 4 -",
+    "section": "",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 4.\n\nAims and Overview\nBackground: Axenic culture;\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
+    "crumbs": [
+      "Experiment 4 -"
+    ]
+  },
+  {
+    "objectID": "4aims.html",
+    "href": "4aims.html",
+    "title": "23  Experiment 4 Aims and Overview",
+    "section": "",
+    "text": "23.1 Aims",
+    "crumbs": [
+      "Experiment 4 -",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "4aims.html#learning-outcomes",
+    "href": "4aims.html#learning-outcomes",
+    "title": "23  Experiment 4 Aims and Overview",
+    "section": "23.2 Learning Outcomes",
+    "text": "23.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:",
+    "crumbs": [
+      "Experiment 4 -",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "4aims.html#competencies",
+    "href": "4aims.html#competencies",
+    "title": "23  Experiment 4 Aims and Overview",
+    "section": "23.3 Competencies",
+    "text": "23.3 Competencies\n\nPerforming calculations\nPerforming data analysis\nFormulating hypotheses\nUsing databases\nTeamwork\nKeeping detailed and accurate records",
+    "crumbs": [
+      "Experiment 4 -",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "4aims.html#importance",
+    "href": "4aims.html#importance",
+    "title": "23  Experiment 4 Aims and Overview",
+    "section": "23.4 Importance",
+    "text": "23.4 Importance\nThis laboratory session",
+    "crumbs": [
+      "Experiment 4 -",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "4aims.html#overview-of-experiment-4",
+    "href": "4aims.html#overview-of-experiment-4",
+    "title": "23  Experiment 4 Aims and Overview",
+    "section": "23.5 Overview of Experiment 4",
+    "text": "23.5 Overview of Experiment 4\nIn this experiment, you will be :",
+    "crumbs": [
+      "Experiment 4 -",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "4protocols.html",
+    "href": "4protocols.html",
+    "title": "25  Experiment 4 Protocols",
+    "section": "",
+    "text": "You can view the handout for lab 4 below, or download it here.\nDownload PDF file.",
+    "crumbs": [
+      "Experiment 4 -",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Experiment 4 Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "5section.html",
+    "href": "5section.html",
+    "title": "Experiment 5 -",
+    "section": "",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 5.\n\nAims and Overview\nBackground: Axenic culture;\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
+    "crumbs": [
+      "Experiment 5 -"
+    ]
+  },
+  {
+    "objectID": "5aims.html",
+    "href": "5aims.html",
+    "title": "28  Experiment 5 Aims and Overview",
+    "section": "",
+    "text": "28.1 Aims",
+    "crumbs": [
+      "Experiment 5 -",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "5aims.html#learning-outcomes",
+    "href": "5aims.html#learning-outcomes",
+    "title": "28  Experiment 5 Aims and Overview",
+    "section": "28.2 Learning Outcomes",
+    "text": "28.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:",
+    "crumbs": [
+      "Experiment 5 -",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "5aims.html#competencies",
+    "href": "5aims.html#competencies",
+    "title": "28  Experiment 5 Aims and Overview",
+    "section": "28.3 Competencies",
+    "text": "28.3 Competencies\n\nUsing appropriate software to visualize and analyze microscopy data\nData analysis\nData presentation\nTeamwork\nKeeping detailed and accurate records",
+    "crumbs": [
+      "Experiment 5 -",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "5aims.html#importance",
+    "href": "5aims.html#importance",
+    "title": "28  Experiment 5 Aims and Overview",
+    "section": "28.4 Importance",
+    "text": "28.4 Importance\nThis laboratory session",
+    "crumbs": [
+      "Experiment 5 -",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "5aims.html#overview-of-experiment-5",
+    "href": "5aims.html#overview-of-experiment-5",
+    "title": "28  Experiment 5 Aims and Overview",
+    "section": "28.5 Overview of Experiment 5",
+    "text": "28.5 Overview of Experiment 5\nIn this experiment, you will be :",
+    "crumbs": [
+      "Experiment 5 -",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "5protocols.html",
+    "href": "5protocols.html",
+    "title": "30  Experiment 5 Protocols",
+    "section": "",
+    "text": "You can view the handout for lab 5 below, or download it here.\nDownload PDF file.",
+    "crumbs": [
+      "Experiment 5 -",
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Experiment 5 Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "5data.html",
+    "href": "5data.html",
+    "title": "31  5data",
+    "section": "",
+    "text": "Write your content here.",
+    "crumbs": [
+      "Experiment 5 -",
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>5data</span>"
     ]
   }
 ]
