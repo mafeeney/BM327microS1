@@ -1,6 +1,7 @@
-# This variable is intended to carry the Academic Year
-# [A]
+# These YAML variables need to be updated every academic session
+# [ay - academic year]
 ay: "2025-26"
+assessment_due: "November 26"
 
 # These variables are used for identification of the book/repository administrator
 # [B] CHANGE THESE VARIABLES TO SET THE BOOK/REPO ADMIN

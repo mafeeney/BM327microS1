@@ -1,7 +1,28 @@
 ## Formative assessment
 
-## Summative assessment: Online Quiz
+## Summative assessment: Laboratory Report
 
+The assessment for the BM327 semester 1 microbiology block of laboratories will be based on labs 1, 2, and 4. The pro forma that you should complete for this assessment is available on MyPlace. It is due on {{< var assessment_date >}}, at noon, and should be submitted via MyPlace.
+
+### Summative assessment: General Guidelines
+
+1.	**Correct Formatting of Figure Titles and Legends**
+Each figure must be accompanied by a clear and concise figure title and legend. 
+
+2.	**Correct Formatting of gene and species names.**
+The correct binomial name (genus and species) should be given for each microbe. In the first instance, the species name must always be given in full (e.g. *Escherichia coli*); subsequently, it may be abbreviated (e.g. *E. coli*) provided that there can be no confusion with other genera mentioned in the work. Species names must always be italicized.  
+
+Gene and protein names should be correctly formatted. In bacteria, gene names are written in italics, with the first letter in lower-case (e.g. *yfgA*); protein names are not italicized, and the first letter is in upper-case (e.g. YfgA). 
+
+If in doubt, refer to the Journal of Bacteriology nomenclature guidelines available at: https://jb.asm.org/content/nomenclature
+
+3.	Correct Formatting of References: You should reference relevant papers where necessary.
+
+References should be listed in a reference list/ section using a standard formats. Articles published in peer-reviewed journals are referenced in the standard format: Authors’ surname and initials, (year of publication), article title, abbreviated journal title, volume, pages.
+
+Simply including the link to the web page you downloaded the paper from is NOT acceptable.
+
+Example: Lederberg, J. and E. Tatum. (1946). Gene recombination in *E. coli*. Nature, 158: 558.
 
 
 ### Contribution to overall class assessment

@@ -1,6 +1,83 @@
 **Schedule of experimental tasks**
 
-Because of the nature of microbiology (cultures require incubation and take time to grow), many of your experiments will take place across more than one laboratory session (Figure 1). It is therefore essential that you keep careful track of all experimental tasks: e.g., carefully labelling your cultures and taking care to read all the relevant sections of the lab manual. 
+Because of the nature of microbiology (cultures require incubation and take time to grow), many of your experiments will take place across more than one laboratory session (as detailed in the following schedule). It is therefore essential that you keep careful track of all experimental tasks: e.g., carefully labelling your cultures and taking care to read all the relevant sections of the lab manual. 
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Experiment</th>
+      <th>Tasks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>Bacterial genetics 1 (Caffeine mutagenesis)</td>
+      <td>Protocol 1.1</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Bacterial genetics 1 (cont.)</td>
+      <td>Protocol 1.2</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Bacterial susceptibility to antibiotics</td>
+      <td>Protocol 2.1</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Protocol 2.4</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Bacterial susceptibility to antibiotics (cont.)</td>
+      <td>Protocol 2.2</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Protocol 2.5</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Bacterial genetics 2 (interrupted mating)</td>
+      <td>Protocol 3.1</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Bacterial susceptibility to antibiotics (cont.)</td>
+      <td>Protocol 2.3</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Bacterial genetics 2 (cont.)</td>
+      <td>Protocol 3.2</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Bacterial genetics 3 (transposon mutagenesis)</td>
+      <td>Protocol 4.1</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Protocol 4.2</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Microscopy (pre)</td>
+      <td>Protocol 5.1</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Microscopy</td>
+      <td>Protocol 5.2</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ::: {.todo title="To prepare for Lab 1"}
