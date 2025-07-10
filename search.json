@@ -1,0 +1,194 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BM327 microbiology S1 lab manual",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book, generated using the sipbs-compbiol-book-template GitHub template.\nThe index.qmd file provides this Preface page, which is intended as a frontispiece with brief introductory information about the book and its contents and scope and, maybe, its authors. To change the main text and content you see here (the content in the middle section of the page), you need to edit the index.qmd file.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#how-this-page-is-structured",
+    "href": "index.html#how-this-page-is-structured",
+    "title": "BM327 microbiology S1 lab manual",
+    "section": "How this page is structured",
+    "text": "How this page is structured\n\nSection headers\nSection headers are written in [Markdown] using hash/pound signs:\n## This is a (level two) section header.\n### This is a (level three) section header\n\nTo learn more about sections and headers, see this quick guide to Markdown basics.\n\n\n\n\n\n\n\nChanging title and author information, or the cover image (click to expand)\n\n\n\n\n\nThe book title, author, date, and cover image are specified in the _quarto.yml. To change this information, edit that file, and re-render the page.\nbook:\n  title: \"THE TITLE OF THE BOOK\"\n  author: \"AUTHOR NAME\"\n  date: \"DD/MM/YY\"\n  cover-image: sipbs_compbio_800.png\n\n\n\n\n\nCallout blocks\nCallout blocks, like the ones above, are highlighted regions of the document which carry a title, icon and colour, which may indicate the kind of information the callout contains. For example:\n\n\n\n\n\n\nWarning\n\n\n\nThis is a warning block. To insert a block like this, use:\n::: { .callout-warning }\nThe text of the callout goes here\n:::\n\n\n\n\n\n\n\n\nCaution (click to expand)\n\n\n\n\n\nThis is a caution block, which is collapsible when rendered as HTML/webpage but appears in full in the Word document. To make a callout collapsible, use collapse=\"true\" as in the example below. This places a dropdown icon to the right of the title bar, which controls expansion.\n::: { .callout-caution collapse=\"true\" title=\"Caution (click to expand)\"}\nThis is a collapsible caution block. The callout content goes here.\n:::\nNotice also that the title of the callout is specified between the curly braces as title=\"Caution (click to expand)\".\n\n\n\nYou can learn more about callout blocks in the Quarto documentation.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "The Introduction page is intended as a short introduction to the book.\nLike most Quarto books, this is a book created from markdown and executable code.\nThis kind of book is an example of literate programming - the intertwining of nicely-formatted text and images, and executable code. For example, the R code cell below executes and produces output when the book is compiled:\n\n1 + 1\n\n[1] 2\n\n\nBut the R code cell below does not:\n\nsummary(cars)\n\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "early-section-topic.html",
+    "href": "early-section-topic.html",
+    "title": "2  Early Section Topic",
+    "section": "",
+    "text": "This .qmd file represents some topic-related text. We use the {#sec-REFERENCE} option to make it cross-referenceable elsewhere in the text.",
+    "crumbs": [
+      "Early Section",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Early Section Topic</span>"
+    ]
+  },
+  {
+    "objectID": "quiz.html",
+    "href": "quiz.html",
+    "title": "3  Interactive Multiple Choice Questions",
+    "section": "",
+    "text": "3.1 Multiple Choice Questions",
+    "crumbs": [
+      "Example pages",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Interactive Multiple Choice Questions</span>"
+    ]
+  },
+  {
+    "objectID": "quiz.html#multiple-choice-questions",
+    "href": "quiz.html#multiple-choice-questions",
+    "title": "3  Interactive Multiple Choice Questions",
+    "section": "",
+    "text": "3.1.1 Basic MCQ\nA simple naquiz example looks something like the question below to the reader (click the Markdown tab to see how to write the markdown for it).\n\nAppearanceMarkdown\n\n\n\nBill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google\n\n\n\n\n\n\n\n:::::{.question}\nBill Gates was the founder of:\n\n::::{.choices}\n\n:::{.choice}\nApple\n:::  \n\n:::{.choice .correct-choice}\nMicrosoft\n:::\n\n:::{.choice}\nFacebook  \n:::\n\n:::{.choice}\nGoogle   \n:::\n\n::::\n:::::\n\n\n\n\n\n\nCaution\n\n\n\nThe nested colon dividers and their counts can look confusing on the page, and missed/extra colons can break the layout of your page.\n\nThe {.question} divider gets five colons.\nThe {.choices} divider that surrounds the choices presented to the reader gets four colons.\nEach individual {.choice} divider gets three colons.\n\n\n\n\n\n\nIt presents a series of radio buttons from which the reader can choose one option. On clicking the option, the reader receives very basic feedback: a red cross (incorrect) or green tick (correct).\n\n\n3.1.2 Add a “clear answer” button\nThe naquiz MCQs can be decorated with useful buttons for reader interaction. The example below has a “Clear Answer” button, which unchecks the reader’s selected answer.\n\nAppearanceMarkdown\n\n\n\nBill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google\n\n\nClear answer\n\n\n\n\n\n\n\n\n\n\n:::::{.question}\nBill Gates was the founder of:\n\n::::{.choices}\n\n:::{.choice}\nApple\n:::  \n\n:::{.choice .correct-choice}\nMicrosoft\n:::\n\n:::{.choice}\nFacebook  \n:::\n\n:::{.choice}\nGoogle   \n:::\n\n:::{.button-clear title=\"Clear answer\" button-class=\"btn btn-xs\"}\n:::\n\n::::\n:::::\n\n\n\n\n\n\nImportant\n\n\n\nThe button to clear reader answers needs to be linked with the available choices, and so is placed inside the {.choices} division of the MCQ.\n\n\n\n\n\n\n\n3.1.3 Add a “hint” button\nThe example below includes a “hint” button, which the reader can use to get a clue to the answer.\n\nAppearanceMarkdown\n\n\n\nBill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google\n\n\nClear answer\n\n\n\n\n\n\n\n\n\n\nShow hint\n\nThe company name starts with an ‘M’…\n\n\n\n\n\n\n\n\n:::::{.question}\nBill Gates was the founder of:\n\n::::{.choices}\n\n:::{.choice}\nApple\n:::  \n\n:::{.choice .correct-choice}\nMicrosoft\n:::\n\n:::{.choice}\nFacebook  \n:::\n\n:::{.choice}\nGoogle   \n:::\n\n:::{.button-clear title=\"Clear answer\" button-class=\"btn btn-xs\"}\n:::\n\n::::\n\n::::{.btn-group}\n:::{.button-hint title=\"Show hint\" button-class=\"btn btn-xs\"}\nThe company name starts with an 'M'...\n:::\n::::\n\n:::::\n\n\n\n\n\n\nImportant\n\n\n\nWe can place additional buttons within a button group divider, specified as ::::{.btn-group}, inside the question divider (the five colons :::::).\nHere, we have linked a {.button-hint} that, when clicked, expands to show the hint text.\n\n\n\n\n\n\n\n3.1.4 Add an “answer” button\nWe can add a further button to provide students with the answer we’d like them to read, directly.\n\nAppearanceMarkdown\n\n\n\nBill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google\n\n\nClear answer\n\n\n\n\n\n\n\n\n\n\nShow hint\n\nThe company name starts with an ‘M’…\n\n\n\n\n\n\nShow Answer\n\nBill Gates and Paul Allen founded Microsoft on April 4, 1975.\n\n\n\n\n\n\n\n\n:::::{.question}\nBill Gates was the founder of:\n\n::::{.choices}\n\n:::{.choice}\nApple\n:::  \n\n:::{.choice .correct-choice}\nMicrosoft\n:::\n\n:::{.choice}\nFacebook  \n:::\n\n:::{.choice}\nGoogle   \n:::\n\n:::{.button-clear title=\"Clear answer\" button-class=\"btn btn-xs\"}\n:::\n\n::::\n\n::::{.btn-group}\n:::{.button-hint title=\"Show hint\" button-class=\"btn btn-xs\"}\nThe company name starts with an 'M'...\n:::\n::::\n\n:::{.button-answer title=\"Show Answer\" button-class=\"btn btn-xs\"}\nBill Gates and Paul Allen founded Microsoft on April 4, 1975.\n:::\n:::::\n\n\n\n\n\n\nImportant\n\n\n\nWe can place more than one button in the button group divider. Here, we have linked a {.button-answer} that, when clicked, expands to show the hint text.\n\n\n\n\n\n\n\n3.1.5 Placing an MCQ in a custom callout\nWe have created a custom callout called callout-question which can be used to make MCQ stand out a bit more, with a consistent visual style.\n\nAppearanceMarkdown\n\n\n\n\n\n\n\n\nQuestion\n\n\n\n\nBill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google\n\n\nClear answer\n\n\n\n\n\n\n\n\n\n\n\nShow hint\n\nThe company name starts with an ‘M’…\n\n\n\n\n\n\nShow Answer\n\nBill Gates and Paul Allen founded Microsoft on April 4, 1975.\n\n\n\n\n\n\n\n\n\n::: { .callout-question }\n\n:::::{.question}\nBill Gates was the founder of:\n\n::::{.choices}\n\n:::{.choice}\nApple\n:::  \n\n:::{.choice .correct-choice}\nMicrosoft\n:::\n\n:::{.choice}\nFacebook  \n:::\n\n:::{.choice}\nGoogle   \n:::\n\n:::{.button-clear title=\"Clear answer\" button-class=\"btn btn-xs\"}\n:::\n\n::::\n:::::\n\n::::{.btn-group}\n:::{.button-hint title=\"Show hint\" button-class=\"btn btn-xs\"}\nThe company name starts with an 'M'...\n:::\n\n:::{.button-answer title=\"Show Answer\" button-class=\"btn btn-xs\"}\nBill Gates and Paul Allen founded Microsoft on April 4, 1975.\n:::\n::::\n\n:::\n\n\n\n\n\n3.1.6 Randomising question values\nWe can use R or Python to generate random values that can be used to compose questions that are different each time the page is rendered, by inserting a suitable R/Python code block and using the values in the question.\n\n\n\n\n\n\nCaution\n\n\n\nThe values do not change when the page is reloaded by a reader. The values are calculated when the pages are rendered.\nFor values that change when the page is refreshed, or on demand, use an R Shiny or Shinylive solution, or a solution like Numbas.\n\n\n\nAppearanceMarkdownR code\n\n\n\n\n\n\n\n\nQuestion\n\n\n\n\nWhat is the sum of 4 and 15?\n\n\n\n\n ✗-11\n\n\n ✓19\n\n\n ✗11\n\n\n ✗60\n\n\nClear answer\n\n\n\n\n\n\n\n\n\n\n\nShow hint\n\nYou need to add the two numbers 4 and 15\n\n\n\n\n\n\nShow Answer\n\n4 + 15 = 19\n\n\n\n\n\n\n\n\n\n::: { .callout-question }\n\n:::::{.question}\nWhat is the sum of `r x_val` and `r y_val`?\n\n::::{.choices}\n\n:::{.choice}\n`r x_val - y_val`\n:::  \n\n:::{.choice .correct-choice}\n`r x_val + y_val`\n:::\n\n:::{.choice}\n`r y_val - x_val`\n:::\n\n:::{.choice}\n`r y_val * x_val`\n:::\n\n:::{.button-clear title=\"Clear answer\" button-class=\"btn btn-xs\"}\n:::\n\n::::\n:::::\n\n::::{.btn-group}\n:::{.button-hint title=\"Show hint\" button-class=\"btn btn-xs\"}\nYou need to add the two numbers `r x_val` and `r y_val`\n:::\n\n:::{.button-answer title=\"Show Answer\" button-class=\"btn btn-xs\"}\n`r x_val` + `r y_val` = `r x_val + y_val`\n:::\n::::\n\n:::\n\n\n#| show: false\n#| echo: false\n\nx_val &lt;- sample(1:10, 1)\ny_val &lt;- sample(11:20, 1)",
+    "crumbs": [
+      "Example pages",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Interactive Multiple Choice Questions</span>"
+    ]
+  },
+  {
+    "objectID": "webr-example.html",
+    "href": "webr-example.html",
+    "title": "4  WebR Playground",
+    "section": "",
+    "text": "4.1 Introduction\nThis page provides a WebR cell for use as a playground to experiment with example datasets, and describes how to include WebR on other Quarto pages.",
+    "crumbs": [
+      "Example pages",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>`WebR` Playground</span>"
+    ]
+  },
+  {
+    "objectID": "webr-example.html#introduction",
+    "href": "webr-example.html#introduction",
+    "title": "4  WebR Playground",
+    "section": "",
+    "text": "WebR documentation",
+    "crumbs": [
+      "Example pages",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>`WebR` Playground</span>"
+    ]
+  },
+  {
+    "objectID": "webr-example.html#playground",
+    "href": "webr-example.html#playground",
+    "title": "4  WebR Playground",
+    "section": "4.2 Playground",
+    "text": "4.2 Playground\n\nAppearanceMarkdown\n\n\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\n\n```{webr-r}\n# Use this WebR cell to experiment with using R. You can do almost anything\n# by typing in this code cell that you can do in R, including plotting graphs.\n#\n# Why not try the command:\n#\n# plot(penguins)\n#\n# and click the \"Run code\" icon?\n\n```",
+    "crumbs": [
+      "Example pages",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>`WebR` Playground</span>"
+    ]
+  },
+  {
+    "objectID": "webr-example.html#examples-to-try",
+    "href": "webr-example.html#examples-to-try",
+    "title": "4  WebR Playground",
+    "section": "4.3 Examples to try",
+    "text": "4.3 Examples to try\n\nPalmer PenguinsPlot reporter curvesOther datasets\n\n\nThe penguins dataset contains data about three different species of penguins. You can use the R commands below to investigate the data:\nglimpse(penguins)  # look at the format of the dataset\nplot(penguins)     # plot a visual overview of the dataset\n\n# Plot the count of penguins in each species as a bar chart\nggplot(penguins, aes(species, fill=species)) + geom_bar()\n\n# Break down the distribution by species in a facet plot\nggplot(penguins, aes(species, fill=species)) + geom_bar() + facet_wrap(~sex)\n\n# Make a box and whisker plot of penguin body mass by species:\nggplot(penguins, aes(x=species, y=body_mass_g, fill=species)) + geom_boxplot()\n\n# Plot the body mass for each sex side-by-side\nggplot(penguins, aes(x=species, y=body_mass_g, fill=sex)) + geom_boxplot()\n\n# Investigate correlation between body mass and flipper length:\nggplot(penguins, aes(x=body_mass_g, y=flipper_length_mm)) + geom_point()\n\n# Colour datapoints by species:\nggplot(penguins, aes(x=body_mass_g, y=flipper_length_mm, colour=species)) +\n         geom_point()\n\n# Fit a linear regression to each species separately:\nggplot(penguins, aes(x=body_mass_g, y=flipper_length_mm, colour=species)) +\n         geom_point() +\n         geom_smooth(method=\"lm\")\n\n\nOne of our BM214 workshops involves a WebR-supported interactive exercise involving simulated reporter curves.\nHere, we have downloaded some data from the online repository and made it available as though it was a dataset on the filesystem, reporter_curves.csv.\n# Load reporter experiment data\ndata &lt;- read.csv(\"reporter_curves.csv\")\n\nglimpse(data)  # Summarise the data format\n\n# Plot absorbance against concentration as a facet plot\nggplot(data, aes(x=conc, y=abs_ratio, color=sample)) + geom_point() +\n  geom_line() + facet_wrap(~sample)\n\n\nR comes with a number of example datasets you can practice with, including:\n\nmtcars: fuel consumption and other statistic for 32 automobiles\nTitanic: the fates of passengers from the maiden voyage of the ocean liner Titanic\n\nYou can see a full list by running the command\nlibrary(help = \"datasets\")",
+    "crumbs": [
+      "Example pages",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>`WebR` Playground</span>"
+    ]
+  },
+  {
+    "objectID": "webr-example.html#setting-up-webr",
+    "href": "webr-example.html#setting-up-webr",
+    "title": "4  WebR Playground",
+    "section": "4.4 Setting up WebR",
+    "text": "4.4 Setting up WebR\nThere are three important elements to including WebR on a Quarto page: the YAML header, the setup code block, and the WebR cell.\nYou can see an example of how to set up WebR on any Quarto page by inspecting the .qmd source for this page.\n\n4.4.1 YAML header\nTo use WebR on a Quarto page, you need to include an appropriate YAML header at the top of the page:\n---\nwebr:\n  packages: [\"tidyverse\", \"palmerpenguins\"]\nfilters:\n  - webr\n---\nPackages to be imported into WebR should be specified in the list, as tidyverse and palmerpenguins are, here. The webr filter must be loaded.\n\n\n4.4.2 WebR setup block\nThere is a special R code block needed to prepare the WebR instance. For this page, the code block\n```{webr-r}\n#| context: setup\n\n# Download reporter data\ndownload.file('https://raw.githubusercontent.com/sipbs-compbiol/BM214-Workshop-3/main/assets/data/reporter_curves.csv', 'reporter_curves.csv')\n\nlibrary(palmerpenguins)\nlibrary(tidyverse)\n```\ndeclares that it has the setup context, so will be run when the WebR instance starts. The download.file() call pulls the reporter_curves.csv file from a GitHub repository and makes it available in WebR, as if it were a real file, with the name reporter_curves.csv. The last three lines import R packages into the WebR environment.\n\n\n4.4.3 The WebR code cell\nThe minimal WebR code cell looks like this:\n```{webr-r}\n```\nbut it is more helpful, and more usual, to include some example code or comments, as in the example below:\n\nAppearanceMarkdown\n\n\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\n\n```{webr-r}\n# You can use `R` as a calculator\n\n1 * sin(1)\n```",
+    "crumbs": [
+      "Example pages",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>`WebR` Playground</span>"
+    ]
+  },
+  {
+    "objectID": "callouts.html",
+    "href": "callouts.html",
+    "title": "5  Custom Callouts",
+    "section": "",
+    "text": "5.1 Introduction\nQuarto provides a number of built-in callout blocks, including:\nbut these do not cover all the cases we might want to use callouts for. It is possible to change the titles of these callouts, such as:\nbut customising the colour and icon of a callout is more difficult. The quarto-custom-callout extension allows us to make our own callouts.",
+    "crumbs": [
+      "Example pages",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Custom Callouts</span>"
+    ]
+  },
+  {
+    "objectID": "callouts.html#introduction",
+    "href": "callouts.html#introduction",
+    "title": "5  Custom Callouts",
+    "section": "",
+    "text": "Caution\n\n\n\nThe caution callout\n::: { .callout-caution }\nThe caution callout\n:::\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThe important callout\n::: { .callout-info }\nThe important callout\n:::\n\n\n\n\n\n\n\n\nTip\n\n\n\nThe tip callout\n::: { .callout-tip }\nThe tip callout\n:::\n\n\n\n\n\n\n\n\n\nCustom title\n\n\n\nThe tip callout with a custom title\n::: { .callout-tip title=\"Custom title\"}\nThe tip callout with a custom title\n:::\n\n\n\n\n\n\n\n\nNot the caution callout\n\n\n\n::: { .callout-caution }\n## Not the caution callout\n:::",
+    "crumbs": [
+      "Example pages",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Custom Callouts</span>"
+    ]
+  },
+  {
+    "objectID": "callouts.html#defining-a-new-callout",
+    "href": "callouts.html#defining-a-new-callout",
+    "title": "5  Custom Callouts",
+    "section": "5.2 Defining a new callout",
+    "text": "5.2 Defining a new callout\nTo make a new callout, add a new entry in _quarto.yml in the custom-callout block with the name of the callout. For instance, to add a new case study callout, we could use the code below:\ncustom-callout:\n  callout-case-study:\n    title: \"Case Study\"\n    icon-symbol: \"🔍\"\n    color: \"#FFA500\"\nand ensure that the custom-callout filter is called in _quarto.yml:\nfilters:\n  - custom-callout\n\n\n\n\n\n\nCallout naming convention\n\n\n\nWe have chosen to give all of our callouts for this template the prefix callout- for continuity with the builtin callouts, and to aid with literate programming/self-documentation. Please keep to this convention when you define your own callouts.\n\n\n\n\n\n\n\n\nTip\n\n\n\nNotice that the icon-symbol field accepts unicode icons and emojis.",
+    "crumbs": [
+      "Example pages",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Custom Callouts</span>"
+    ]
+  },
+  {
+    "objectID": "callouts.html#custom-callouts-in-this-template",
+    "href": "callouts.html#custom-callouts-in-this-template",
+    "title": "5  Custom Callouts",
+    "section": "5.3 Custom callouts in this template",
+    "text": "5.3 Custom callouts in this template\nWe have defined the custom callouts below:\n\n\n\n\n\n\nCase Study\n\n\n\nFor describing case studies\n::: { .callout-case-study }\nFor describing case studies\n:::\n\n\n\n\n\n\n\n\nChallenge\n\n\n\nFor presenting a challenge to readers\n::: { .callout-challenge }\nFor presenting a challenge to readers\n:::\n\n\n\n\n\n\n\n\nData Analysis\n\n\n\nFor describing datasets and data analysis\n::: { .callout-data }\nFor describing datasets and data analysis\n:::\n\n\n\n\n\n\n\n\nDiscussion Questions:\n\n\n\nFor introducing discussion points\n::: { .callout-discussion }\nFor introducing discussion points\n:::\n\n\n\n\n\n\n\n\nMicrobe Profile\n\n\n\nFor summarising the properties of a microbe\n::: { .callout-microbe }\nFor summarising the properties of a microbe\n:::\n\n\n\n\n\n\n\n\nQuestion\n\n\n\nFor presenting a single question to readers\n::: { .callout-question }\nFor presenting a single question to readers\n:::\n\n\n\n\n\n\n\n\nQuestions\n\n\n\nFor presenting multiple questions to readers\n::: { .callout-questions }\nFor presenting multiple questions to readers\n:::\n\n\n\n\n\n\n\n\nGreat job!\n\n\n\nFor general encouragement\n::: { .callout-thumbs-up }\nFor general encouragement\n:::\n\n\n\n\n\n\n\n\nCallout-todo\n\n\n\nFor highlighting where we still need to do some work\n::: { .callout-todo }\nFor highlighting where we still need to do some work\n:::",
+    "crumbs": [
+      "Example pages",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Custom Callouts</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "early-section.html",
+    "href": "early-section.html",
+    "title": "Early Section",
+    "section": "",
+    "text": "Discussion with a different title\nLet’s talk about something else",
+    "crumbs": [
+      "Early Section"
+    ]
+  },
+  {
+    "objectID": "example_pages.html",
+    "href": "example_pages.html",
+    "title": "Example pages",
+    "section": "",
+    "text": "Tip\n\n\n\nThis .qmd file introduces a Part of the Quarto book. We use the {#sec-REFERENCE} option to make it cross-referenceable elsewhere in the text, and the {.unnumbered} option to avoid giving it a section number, using this line at the top of the file:\n# Example pages {#sec-late .unnumbered}\n\n\nThis section of the template contains pages that each focus on an example of one type of helpful feature, embedding videos, presenting multiple choice questions (MCQs), custom callout boxes, and that kind of thing. They are intended to present the features in-use, and to provide a brief reference for how to employ them in your own books.",
+    "crumbs": [
+      "Example pages"
+    ]
+  }
+]
