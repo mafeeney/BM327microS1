@@ -10,7 +10,7 @@ Please use the links below (or in the left sidebar) to navigate through the intr
 
 [Aims](./0intro.qmd) 
 
-[Competencies and Learning Outcomes](./0competencies.qmd) 
+Competencies and Learning Outcomes
 
 [Schedule of Experimental Tasks](./0schedule.qmd) 
 

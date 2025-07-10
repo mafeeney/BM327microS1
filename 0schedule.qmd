@@ -9,7 +9,7 @@ Before attending the practical lab, you should ensure that you have read and und
 
 * The introductory sections covering [Good Lab Practice](./0goodlab.qmd) and [Aseptic Technique](./0aseptic.qmd)
 
-* The introductory sections covering the theory on [Axenic culture](./1intro1.qmd), [Serial Dilutions](./1intro2.qmd), and [Plasmid DNA](./1intro3.qmd)
+* The introductory sections covering the theory on [Axenic culture](./1intro1.qmd), 
 
 * The [Protocols](./1protocols.qmd) we will be following in the lab
 
