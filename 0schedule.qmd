@@ -1,0 +1,18 @@
+**Schedule of experimental tasks**
+
+Because of the nature of microbiology (cultures require incubation and take time to grow), many of your experiments will take place across more than one laboratory session (Figure 1). It is therefore essential that you keep careful track of all experimental tasks: e.g., carefully labelling your cultures and taking care to read all the relevant sections of the lab manual. 
+
+
+::: {.todo title="To prepare for Lab 1"}
+
+Before attending the practical lab, you should ensure that you have read and understood:
+
+* The introductory sections covering [Good Lab Practice](./0goodlab.qmd) and [Aseptic Technique](./0aseptic.qmd)
+
+* The introductory sections covering the theory on [Axenic culture](./1intro1.qmd), [Serial Dilutions](./1intro2.qmd), and [Plasmid DNA](./1intro3.qmd)
+
+* The [Protocols](./1protocols.qmd) we will be following in the lab
+
+You also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.
+
+:::

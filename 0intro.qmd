@@ -1,0 +1,28 @@
+## Aim of the BM327 Semester 1 Microbiology laboratory sessions
+
+The aim of this laboratory is 
+
+## Microbiology Laboratories Competency Skills
+
+Graduate recruiters look for specific job skills and competencies. Competencies are action-oriented statements of the knowledge, skills, and abilities people need to do their work successfully. They are observable and measurable. These are what you need to do the job and work in their organisation. Some are straightforward and required in many different career: communication, teamwork and problem solving are just a few. You need to show employers you have mastered essential skills such as writing, reading, numeracy, presentation, organisation and the ability to work under pressure. Graduates who demonstrate their analytical thinking during a job interview or assessment centre will stand out from other candidates. Other skills such as those gained in the laboratory are more specific and aligned to particular types of jobs e.g. ability to do a PCR.
+
+You will be assessed for your competency in the following:
+
+*Lab 1*
+{{< include ./_includes/lab1comp.qmd >}}
+
+*Lab 2*
+{{< include ./_includes/lab2comp.qmd >}}
+
+*Lab 3*
+{{< include ./_includes/lab3comp.qmd >}}
+
+*Lab 4*
+{{< include ./_includes/lab4comp.qmd >}}
+
+*Lab 5*
+{{< include ./_includes/lab5comp.qmd >}}
+
+## Overall learning outcomes
+
+* 

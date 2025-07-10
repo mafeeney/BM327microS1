@@ -1,0 +1,25 @@
+---
+title: Introduction
+---
+
+Please use the links below (or in the left sidebar) to navigate through the introductory materials.
+
+<center>*General Course Information:*
+
+[Lab Safety](./0safety.qmd)  
+
+[Aims](./0intro.qmd) 
+
+[Competencies and Learning Outcomes](./0competencies.qmd) 
+
+[Schedule of Experimental Tasks](./0schedule.qmd) 
+
+[Assessment](./0assessment.qmd)
+
+*General Microbiology Lab Info - required reading*
+
+[Good Laboratory Technique](./0goodlab.qmd) 
+ 
+[Aseptic Technique](./0aseptic.qmd) 
+
+[Using a Microscope](./0microscope.qmd) </center>

@@ -1,0 +1,7 @@
+---
+title: Experiment 1 Protocols
+---
+
+You can view the handout for lab 1 below, or download it [here](./handouts/Lab1.pdf). 
+
+{{< pdf ./handouts/Lab1.pdf width=100% height=400 >}}

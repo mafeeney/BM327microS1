@@ -1,0 +1,26 @@
+---
+title: "Additional Resources/Further Reading for Experiment 1"
+---
+
+## Microbiology Society "Techniques" videos
+
+These videos illustrate many of the techniques used in this lab, you may find it helpful to watch them to prepare for the lab (or as review afterwards)
+
+* <a href="https://youtu.be/5eRhLVPJ37E?si=SHbJLyF0a5Ypuvcw">Transferring agar to a Petri dish</a>
+
+* <a href="https://youtu.be/5k6yShM_Avo?si=FSaXNRxFfkXoO-4g">Using a sterile inoculating loop</a>
+
+* <a href="https://youtu.be/800uUVu0aY4?si=Qt5yxhBSUaCteF9i">Making a Streak Plate</a>
+
+* <a href="https://youtu.be/ss_AIXee8Lc?si=4J3NJuqmDsnX2AQx">Serial Dilution</a>
+
+* <a href="https://youtu.be/-RQOZNv160c?si=jZmntHe7y8-YskVd">Using a Pipette and Spreader</a>
+
+## Streak Plates
+
+* <a href="https://asm.org/ASM/media/Protocol-Images/The-Streak-Plate-Protocol.pdf">The Streak Plate Protocol (American Society for Microbiology)</a>: Some good historical background and a detailed protocol
+
+
+## Bacterial Plasmids
+
+* <a href="https://blog.addgene.org/plasmids-101-what-is-a-plasmid">Addgene: Plasmids 101</a>: helpful introduction to the basics of plasmid biology

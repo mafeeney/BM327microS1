@@ -1,0 +1,7 @@
+---
+title: Experiment 2 Protocols
+---
+
+You can view the handout for lab 1 below, or download it [here](./handouts/Lab2.pdf). 
+
+{{< pdf ./handouts/Lab2.pdf width=100% height=400 >}}

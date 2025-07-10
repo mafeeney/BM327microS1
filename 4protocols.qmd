@@ -1,0 +1,7 @@
+---
+title: Experiment 4 Protocols
+---
+
+You can view the handout for lab 4 below, or download it [here](./handouts/Lab4.pdf). 
+
+{{< pdf ./handouts/Lab4.pdf width=100% height=400 >}}

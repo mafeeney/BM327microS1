@@ -19,6 +19,23 @@ book:
     center: |
       BM327 Microbiology Semester 1 · 2025-26 · Dr Morgan Feeney
 
+ # Sidebar tools for quick navigation
+  sidebar:
+    style: "docked"
+    tools:
+      - icon: 0-square
+        href: ./0section
+      - icon: 1-square
+        href: ./1section
+      - icon: 2-square
+        href: ./2section
+      - icon: 3-square
+        href: ./3section
+      - icon: 4-square
+        href: ./4section
+      - icon: 5-square
+        href: ./5section
+        
   # Sets the URL for the repository
   # [C] GITHUB REPOSITORY URL
   repo-url: https://github.com/sipbs-compbiol/BM327microS1
@@ -34,19 +51,63 @@ book:
   # [E] CHAPTERS AND SECTIONS
   chapters:
     - index.qmd
-    - intro.qmd
+    - part: 0section.qmd
+      chapters:
+        - text: "Overall Aims and Competencies"
+          href: 0intro.qmd
+        - text: "Schedule of Experimental Tasks"
+          href: 0schedule.qmd
+        - text: "Assessment"
+          href: 0assessment.qmd  
+        - text: "Lab Safety"
+          href: 0safety.qmd
+        - text: "Good Laboratory Technique"
+          href: 0goodlab.qmd
+        - text: "Aseptic Technique"
+          href: 0aseptic.qmd
+        - text: "Using a Microscope"
+          href: 0microscope.qmd
 
-    - part: early-section.qmd
+    - part: 1section.qmd
       chapters: 
-        - early-section-topic.qmd
-    
-    - part: example_pages.qmd
+        - 1aims.qmd
+        - 1intro1.qmd
+        - 1protocols.qmd
+        - 1data.qmd
+        - 1further.qmd
+        
+    - part: 2section.qmd
       chapters: 
-        - quiz.qmd
-        - webr-example.qmd
-        - callouts.qmd
+        - 2aims.qmd
+        - 2intro1.qmd
+        - 2protocols.qmd
+        - 2data.qmd
+        - 2further.qmd
     
-    - references.qmd
+    - part: 3section.qmd
+      chapters: 
+        - 3aims.qmd
+        - 3intro1.qmd
+        - 3protocols.qmd
+        - 3data.qmd
+        - 3further.qmd
+        
+    - part: 4section.qmd
+      chapters: 
+        - 4aims.qmd
+        - 4intro1.qmd
+        - 4protocols.qmd
+        - 4data.qmd
+        - 4further.qmd
+    
+    - part: 5section.qmd
+      chapters: 
+        - 5aims.qmd
+        - 5intro1.qmd
+        - 5protocols.qmd
+        - 5data.qmd
+        - 5further.qmd
+        
 
 # Location of BibTeX format reference file; may not need to be changed
 bibliography: references.bib

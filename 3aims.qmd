@@ -1,0 +1,30 @@
+---
+title: "Experiment 3 Aims and Overview"
+---
+
+## Aims 
+
+
+
+## Learning Outcomes
+At the end of this laboratory session, you should understand:
+
+- 
+
+
+## Competencies 
+
+{{< include ./_includes/lab3comp.qmd >}}
+
+## Importance
+
+This laboratory session 
+
+
+## Overview of Experiment 3
+
+In this experiment, you will be :
+
+
+
+

@@ -1,76 +1,41 @@
 # Preface {.unnumbered}
 
-This is a Quarto book, generated using the `sipbs-compbiol-book-template` GitHub template.
+## Introduction to the BM327 Microbiology Semester 1 Lab Manual
 
-The `index.qmd` file provides this Preface page, which is intended as a frontispiece with brief introductory information about the book and its contents and scope and, maybe, its authors. To change the main text and content you see here (the content in the middle section of the page), you need to edit the `index.qmd` file.
+This laboratory manual contains key information about each of the five practical laboratory sessions delivered as part of BM327 microbiology semester 1. 
 
-- To learn more about writing Quarto books, visit [https://quarto.org/docs/books](https://quarto.org/docs/books).
+### How to use this manual
 
-::: { .callout-tip }
-To put links into Quarto pages, use the structure:
+You can navigate through this manual using the sidebar on the left.
 
-```markdown
-[Text to be displayed](URL of the link)
-```
+The introductory section is a general section containing helpful information on good laboratory technique, working with microorganisms safely and aseptically, etc. - it also contains general information about the module, including the assessment. You should read through this section before the first lab and refer back to it when needed to refresh your memory.
 
-For example, [this link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is written as
+Each of the experiment sections 1-5 contain a brief explanation of the theory underpinning the experiments we will do in the practical labs, the protocols that will be used in that lab, and an explanation of any data analysis tasks that need to be performed after the lab. Links to the protocols (handouts) for each lab are provided, but please note that you do not need to print these out - they will be provided for you in the laboratories. 
 
-```markdown
-[this link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-```
+### How to prepare for each lab session
+
+You should read through the relevant theory/introductory material before coming to each practical lab session, and make sure you understand it. In some instances you may wish to review the material covered in BM330 before the lab as well (or review the underpinning microbiology theory in a textbook such as [add refs]).
+
+::: {.todo title="To prepare for each lab"}
+
+* Each section will have a "To do" box like this, with a summary of the reading/tasks necessary to prepare for the lab.
+
+* The data analysis pages will have a "To do" box too - for the tasks you need to complete after the lab. 
 
 :::
 
-## How this page is structured
+::: {.callout-tip title="Tips for success"}
 
-### Section headers
+* You will also find boxes throughout this lab manual with Tips, Important notes, Discussion Questions, etc (such as this one). These are intended to help you prepare for each lab (and for the assessment), so you should make sure to read through all the material. 
 
-Section headers are written in [Markdown] using hash/pound signs:
+* As Benjamin Franklin said, "By failing to prepare, you are preparing to fail." It is really important that you come prepared to each lab! A little bit of time spent reading through the material and performing any necessary tasks or calculations will really pay off. 
 
-```markdown
-## This is a (level two) section header.
-### This is a (level three) section header
-```
-
-- To learn more about sections and headers, see this [quick guide to Markdown basics](https://quarto.org/docs/authoring/markdown-basics.html). 
-
-::: { .callout-tip collapse="true"}
-## Changing title and author information, or the cover image (click to expand)
-The book title, author, date, and cover image are specified in the `_quarto.yml`. To change this information, edit that file, and re-render the page.
-
-```yaml
-book:
-  title: "THE TITLE OF THE BOOK"
-  author: "AUTHOR NAME"
-  date: "DD/MM/YY"
-  cover-image: sipbs_compbio_800.png
-```
 :::
 
-### Callout blocks
+### How to deal with any problems, questions, or concerns
 
-Callout blocks, like the ones above, are highlighted regions of the document which carry a title, icon and colour, which may indicate the kind of information the callout contains. For example:
+If you have any problems or questions, please feel free to speak with Dr. Feeney during the lab sessions or by e-mail.
 
-::: { .callout-warning }
-This is a warning block. To insert a block like this, use:
+If you are going to miss a lab session (for whatever reason), you should e-mail Dr. Feeney and also log your absence with the university using the Pegasus Personal Circumstances tool. More details can be found in your student handbook.
 
-```markdown
-::: { .callout-warning }
-The text of the callout goes here
-:::
-```
-:::
-
-::: { .callout-caution collapse="true" title="Caution (click to expand)"}
-This is a caution block, which is collapsible when rendered as HTML/webpage but appears in full in the Word document. To make a callout collapsible, use `collapse="true"` as in the example below. This places a dropdown icon to the right of the title bar, which controls expansion.
-
-```markdown
-::: { .callout-caution collapse="true" title="Caution (click to expand)"}
-This is a collapsible caution block. The callout content goes here.
-:::
-```
-
-Notice also that the title of the callout is specified between the curly braces as `title="Caution (click to expand)"`.
-:::
-
-You can learn more about callout blocks in the [Quarto documentation](https://quarto.org/docs/authoring/callouts.html).
+If you notice any errors (including typos, broken links, etc.) in this lab manual, please notify Dr Feeney, either by e-mail or by [raising an issue](https://github.com/mafeeney/BM327microS1/issues/new) on this lab manual's github page. 

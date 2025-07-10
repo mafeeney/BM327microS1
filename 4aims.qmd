@@ -1,0 +1,30 @@
+---
+title: "Experiment 4 Aims and Overview"
+---
+
+## Aims 
+
+
+
+## Learning Outcomes
+At the end of this laboratory session, you should understand:
+
+- 
+
+
+## Competencies 
+
+{{< include ./_includes/lab4comp.qmd >}}
+
+## Importance
+
+This laboratory session 
+
+
+## Overview of Experiment 4
+
+In this experiment, you will be :
+
+
+
+

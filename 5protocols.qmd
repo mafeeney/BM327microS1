@@ -1,0 +1,7 @@
+---
+title: Experiment 5 Protocols
+---
+
+You can view the handout for lab 5 below, or download it [here](./handouts/Lab5.pdf). 
+
+{{< pdf ./handouts/Lab5.pdf width=100% height=400 >}}
