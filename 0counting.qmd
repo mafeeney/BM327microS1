@@ -1,0 +1,29 @@
+### Serial Dilutions {#sec-ennumeration}
+
+It is often necessary or desirable to work backwards from the number of colonies on a plate, in order to work out the number of *viable* microbes that were present in the original (undiluted) sample. (Note that any microbes present in the sample that were dead, or viable-but-not-culturable, will not give rise to colonies on the plate - so you are enumerating the number of viable microbes, not the number of cells.)
+
+We calculate and express the number of viable microbes in the original sample in **colony forming units** (cfu) - usually in cfu/mL. 
+
+For example, if you performed a decimal serial dilution, plated 0.1 mL of the 10<sup>-4</sup> dilution, and counted 173 colonies on the resulting plate (@fig-serialdilplated) - how many viable bacterial cells were present in the original culture? 
+
+![Examples of plating and counting colonies from a decimal serial dilution](images/serialdilplated.jpg){#fig-serialdilplated}
+
+Here, we had 173 colonies in 0.1 mL of the dilution present in the 10<sup>-4</sup> dilution tube. 
+
+To calculate the number of cfu/mL present in the original sample, divide the number of colonies on your plate by the total dilution factor: in this case, 173 colonies/(0.1 mL * 10<sup>-4</sup>) = 1.73 * 10<sup>7</sup> cfu/mL. 
+
+::: {.callout-tip title="Top tips for calculating cfu/mL"}
+
+* Make sure you label your plates with the dilution factor - you will need this for the calculations!
+
+* Ideally, you want to count colonies on a plate that has 30-300 colonies. We normally consider <30 colonies to be Too Few To Count (TFTC) and more than 300 colonies to be Too Numerous To Count (TNTC). You will get more accurate estimates of your viable cell count if you use a countable plate. 
+
+* Make sure you use the correct number of significant figures in your answer - you can't be more precise than your initial measurement (number of colonies counted).
+
+* Make sure you express your answer in scientific notation (e.g., 1.73 * 10<sup>7</sup> cfu/mL, not 17300000) and include units.
+
+* When you've finished your calculation, double-check that your answer makes sense! For example, you can't have a fraction of a colony forming unit - so if your answer looks like 1.73 * 10<sup>-7</sup> cfu/mL, you have probably gone awry with your handling of exponents somewhere.
+:::
+
+
+### Using a haemocytometer

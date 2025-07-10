@@ -1,0 +1,36 @@
+Aims
+
+•	To understand how mutagens can cause changes in DNA
+•	To understand the different types of mutations that can occur and predict the effects of mutations
+
+Learning Outcomes
+
+At the end of this workshop, you should understand:
+
+•	How to analyse a mutagenesis data set.
+
+Competencies
+
+•	Performing data analysis
+•	Using online tools to analyse DNA and protein sequences
+•	Interpreting genotypic data
+•	Teamwork
+•	Keeping detailed and accurate records
+
+
+Introduction
+
+Genetic screens or selections are commonly used to identify genes involved in a particular process or pathway. A key skill for a biomedical researcher, therefore, is to be able to analyse and interpret the results from these experiments. In this workshop, you will look at the sequences from 4 candidate genes to determine whether there have been any changes to the nucleotide sequence of each gene. You will then analyse the sequence of any mutated gene(s) to determine what effect the mutation has on the protein(s) encoded by those genes. 
+
+Protocol W1: Analyse mutant alleles. 
+
+
+1.	A number of mutants were selected, purified, and candidate genes sequenced to search for any potential mutations. You will be provided with this sequence data (available on MyPlace).
+
+2.	For each sequence of a gene from a mutated strain, determine the following:
+a.	whether the gene has been mutated
+b.	the amino acid change(s) that result from this mutation, if any
+
+3.	Predict the effect(s) that these amino acid changes might have on the protein 
+
+4.	Upload your results to share with your classmates.

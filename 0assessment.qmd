@@ -2,7 +2,7 @@
 
 ## Summative assessment: Laboratory Report
 
-The assessment for the BM327 semester 1 microbiology block of laboratories will be based on labs 1, 2, and 4. The pro forma that you should complete for this assessment is available on MyPlace. It is due on {{< var assessment_date >}}, at noon, and should be submitted via MyPlace.
+The assessment for the BM327 semester 1 microbiology block of laboratories will be based on labs 1, 2, and 4. The pro forma that you should complete for this assessment is available on MyPlace. It is due on {{< var assessment_due >}}, at noon, and should be submitted via MyPlace.
 
 ### Summative assessment: General Guidelines
 

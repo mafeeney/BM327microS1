@@ -1,0 +1,34 @@
+Aims
+
+•	To understand how to identify the sites of transposon insertions and make predictions about how transposon insertions can affect gene function
+
+Learning Outcomes
+
+At the end of this workshop, you should understand:
+
+•	How to analyse transposon mutagenesis data.
+
+Competencies
+
+•	Performing data analysis
+•	Using online tools to analyse DNA sequences
+•	Teamwork
+•	Keeping detailed and accurate records
+
+
+Introduction
+
+Transposon mutagenesis is a very commonly used technique in microbiology and in the biological sciences more generally. A key skill for a biomedical researcher, therefore, is to be able to analyse and interpret the results from these experiments. In this workshop, you will look at the sequences obtained from a plasmid rescue experiment performed to determine the site of a transposon insertion. You will determine the disrupted gene/sequence, then predict the potential effect(s) that this transposon insertion might have in the context of your experiment.
+
+Protocol W3: Analyse transposon insertion sites.
+
+1.	You have been provided with a set of data with the sequencing results for your Tn5 insertions (available on MyPlace). 
+2.	Use EcoCyc or another sequence database to determine the site of the Tn5 insertions. 
+3.	Compare the result obtained in (2) with your data from last week: does the Tn5 insertion site (determined by arbitrary PCR and sequencing) agree with the mapping you did using interrupted mating? What might explain any differences?
+
+
+
+Form a hypothesis: why are these mutant strains resistant to the antibiotic?
+1.	Record the gene(s) disrupted by your Tn5 insertion (identified in Task 4B).
+2.	Use EcoCyc, PubMed, or other tools, to research the disrupted genes. 
+3.	Why do you think the disruption of these genes gives rise to antibiotic resistance? Based on your data, what do you think is the mode of action of the antibiotic?

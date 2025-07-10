@@ -1,6 +1,32 @@
 ---
- title: "5data"
+ title: "Experiment 5 Data Analysis"
  format: html
 ---
 
- Write your content here.
+In addition to the Candida experiment you performed in the lab, we have also grown E. coli cells (wild-type and antibiotic X-resistant) in the presence and absence of antibiotic X. You have 3 sets of data to analyse for Experiment 5:
+	antibiotic X-treated wild-type E. coli cells (TASK 5A)
+	a time course showing wild-type E. coli cells after antibiotic X treatment (TASK 5B)
+mutant (antibiotic-resistant) E. coli cells treated with antibiotic X (TASK 5C)
+
+TASK 5A-C. Microscopy of antibiotic-treated cells.
+
+1.	You have been provided with a set of data for each task (available on MyPlace).
+2.	You should also download the program ImageJ (instructions available on MyPlace).
+3.	Open each image in ImageJ.
+4.	You may wish to rotate or zoom to adjust the image. 
+5.	Set a scale bar. 
+6.	Measure cell lengths in m. 
+7.	Determine the best way to present your data. Are any statistical tests needed? How will you format and present any images?
+8.	How do these data compare with the data that you acquired in the lab?
+
+DISCUSSION QUESTIONS.
+We used microscopy to determine the effect of the unknown antibiotic “X” on Candida albicans and on Escherichia coli strains (both wild-type E. coli and an X-resistant strain). What conclusion(s) can you draw based on the results of this experiment?
+
+Are there any other techniques you could have used to determine the effect of antibiotic “X” on E. coli? on C. albicans?
+
+
+What conclusions can you draw based upon all of the experiments that you have performed (Labs 1-5)?
+
+
+What further experiments might you do (and why?)
+

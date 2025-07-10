@@ -1,3 +1,24 @@
 ---
 title: Experiment 4 - Data Analysis
 ---
+
+You have 2 sets of data to analyse for Experiment 4:
+	The images of the agarose gels you ran in the lab (available for you on MyPlace)  You will use these data in TASK 4A.
+	Sequence data from these plasmids (available for you on MyPlace)  You will use these data in workshop 3.
+
+TASK 4A. Plasmid rescue.
+1.	The data from the lab (your agarose gel pictures) will be made available for you on MyPlace. Download the image of your gel, and label the lanes correctly.
+2.	Use the DNA ladder to estimate the size of the bands from your restriction digests (either by eye, or by using the DNA ladder to generate a standard curve of DNA size vs. distance migrated).
+3.	Draw a map of the plasmid, including all known restriction sites and any other pertinent information (such as the location of the Tn5), keeping in mind that the plasmid is circular.
+
+
+DISCUSSION QUESTIONS.
+We used plasmid rescue followed by sequencing to identify the location of the Tn5 insertions in your mutant E. coli strains (these Tn insertions are presumably responsible for making the strains resistant to your novel antibiotic). How well did this technique do at mapping the location of the transposons?
+
+Are there any other techniques or methods you could use (instead of plasmid rescue and sequencing)?
+
+
+What conclusions can you draw based upon the experiments performed in this lab?
+
+
+What further experiments might you do (and why?)

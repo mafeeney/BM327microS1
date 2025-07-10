@@ -1,0 +1,47 @@
+Aims
+
+•	To understand the use of reporter genes in measuring gene expression
+•	To understand that stresses affect bacterial gene expression
+
+Learning Outcomes
+
+At the end of this workshop, you should understand:
+
+•	The experimental design and the controls necessary for a -galactosidase assay
+•	How to analyse data from a -galactosidase assay
+•	How to effectively present data from a -galactosidase assay
+
+
+
+Competencies
+
+•	Performing data analysis
+•	Interpreting phenotypic data
+•	Keeping detailed and accurate records
+•	Data presentation
+
+
+Introduction
+
+Reporter genes are widely used (in eukaryotic and microbial systems) as proxies to measure gene expression. They are generally rapid, convenient, and cheap, and they are adaptable to a range of different applications. A key skill for a biomedical researcher, therefore, is to be able to analyse and interpret the results from these experiments. 
+
+In this workshop, we will use the common reporter gene lacZ, which encodes a -galactosidase, fused to the promoters of several stress-responsive genes, to give us some insight into the mechanism of action of antibiotic X. As shown by Bianchi and Baneyx (see paper on MyPlace), antibiotics with different modes of actions (different targets) elicit different stress responses and therefore lead to the induction of different genes. We hypothesize that antibiotic X may target one of the fundamental cellular processes covered by these reporter genes.
+
+-galactosidase activity is commonly measured in Miller units. These activity assays make use of a colourimetric indicator compound (ONPG) which can be measured at 420 nm. However, the OD420 value alone is a poor measure of enzyme activity (which depends on the amount of cells and the reaction time). Therefore, we instead use Miller units, which give the change in A420/min/mL of cells/OD600. You can calculate Miller units using the following equation: 
+
+
+Miller Units = 1000 x [(OD420 - 1.75 x OD550)] / (T x V x OD600)
+•	OD420 (ONPG) and OD550 (cell debris) are read from the reaction mixture 
+•	OD600 reflects cell density in the washed cell suspension
+•	T = time of the reaction in minutes.
+•	V = volume of culture used in the assay in mLs
+
+Protocol W2: Analyse -galactosidase assay data. 
+
+
+1.	Calculate the # of Miller units for each of the samples (each well in the 96-well plate)
+2.	Calculate the average # of Miller units, and the standard deviation, for each group of samples (e.g., for all of the P3rpoH::lacZ strain + antibiotic X samples…)
+3.	Decide how you can best present these data and what conclusion(s) you can draw from your experiment
+•	How do your data compare to the literature?
+•	What conclusions (if any) can you draw about antibiotic X?
+•	Any missing controls or additional experiments you would like to perform?

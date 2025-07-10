@@ -67,6 +67,8 @@ book:
           href: 0aseptic.qmd
         - text: "Using a Microscope"
           href: 0microscope.qmd
+        - text: "Enumerating Microbes"
+          href: 0counting.qmd
 
     - part: 1section.qmd
       chapters: 
@@ -108,6 +110,11 @@ book:
         - 5data.qmd
         - 5further.qmd
         
+    - part: workshops.qmd
+      chapters: 
+        - workshop1.qmd
+        - workshop2.qmd
+        - workshop3.qmd
 
 # Location of BibTeX format reference file; may not need to be changed
 bibliography: references.bib

@@ -4,12 +4,19 @@ title: "Experiment 1 Aims and Overview"
 
 ## Aims 
 
-
+* To understand how exposure to mutagens can affect the ability of microorganisms to survive and produce antibiotics.
 
 ## Learning Outcomes
-At the end of this laboratory session, you should understand:
+At the end of this experiment, you should understand:
 
-- 
+*	How mutagenesis can affect the phenotype of an organism.
+
+*	That caffeine is a potent mutagen.
+
+*	That mutagens act in a dose-dependent manner.
+
+*	How to analyse a mutagenesis data set.
+
 
 
 ## Competencies 
@@ -18,12 +25,14 @@ At the end of this laboratory session, you should understand:
 
 ## Importance
 
-This laboratory session 
+This practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: bacterial genetics, mutagenesis, establishing kill kinetics in sterilisation processes, the induction of DNA damage by mutagens in industrial microbiology and strain improvement.
+
+Mutagens like caffeine and UV damage DNA and, at high enough doses, are lethal. Caffeine and UV have long been used as potent, effective mutagens by bacterial geneticists: UV causes the formation of pyrimidine-pyrimidine dimers, and inhibits excision-repair mechanisms for DNA. If left unrepaired pyrimidine-pyrimidine dimers lead to DNA replication errors (mutations). Caffeine and UV are relatively non-site specific mutagens, and can be used to introduce mutations randomly throughout a genome. These mutations may cause different phenotypic changes in the bacteria being studied, depending on the location and nature of the mutation.
 
 
 ## Overview of Experiment 1
 
-In this experiment, you will be :
+You will perform Protocol 1.1 in the Week 2 lab and collect your data the following session (Week 4). Perform the data analysis tasks (Task 1A and Task 1B) using your own data/the class data or the sample data available on MyPlace.
 
 
 

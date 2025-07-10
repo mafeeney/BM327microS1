@@ -1,15 +1,21 @@
 ---
 title: "Experiment 2 Aims and Overview"
 ---
+# Experiment 2: Determination of minimum inhibitory concentration (MIC), minimum bacteriocidal concentration (MBC) and bacterial susceptibility to antibiotics
 
 ## Aims 
 
-
+* To understand how the susceptibility of bacteria to certain antibiotics is determined.
 
 ## Learning Outcomes
 At the end of this laboratory session, you should understand:
 
-- 
+*	How the susceptibility of bacteria to certain antibiotics is determined.
+
+*	How to design an experiment to determine the MIC of an antibacterial agent.
+
+*	How to be able to calculate MIC and MBC.
+
 
 
 ## Competencies 
@@ -18,12 +24,14 @@ At the end of this laboratory session, you should understand:
 
 ## Importance
 
-This laboratory session 
+This practical aligns with the BM330 lecture “Killing Microorganisms” by Dr. Arnaud Javelle and with lectures in BM329 Biomedical Microbiology, and reinforces material relating to: biomedical microbiology, antibiotic use, antibiotic resistance, clinical assessment of antibiotic resistance, mechanisms of resistance, use of antimicrobials.
+
+Minimum inhibitory concentrations (MICs) are defined as the lowest concentration of antimicrobial that will inhibit the visible growth of a micro-organism after overnight incubation. MICs are used by diagnostic laboratories, mainly to confirm resistance, but most often as a research tool to determine the in-vitro activity of new antimicrobials. Minimum bacteriocidal concentration (MBC) indicates the lowest concentration of antimicrobial that causes cell death and is often different to MIC. The Kirby-Bauer Disk-Diffusion Method is used to assess the susceptibility of a bacterial strain to a variety of antibiotics. A lawn of the test organism is spread on an agar plate and 3-4 antibiotic-containing paper discs are placed on it. After incubation, zones of inhibition appear around each zone and the diameter of each zone indicates if the test organism is resistant or susceptible to a specific antibiotic.
 
 
 ## Overview of Experiment 2
 
-In this experiment, you will be :
+You will perform Protocols 2.1 and 2.4 in the Week 4 lab and collect your data in the following sessions (Weeks 6 & 8). Perform the data analysis tasks (Tasks 2A-C) using your own data or the sample data available on MyPlace.
 
 
 

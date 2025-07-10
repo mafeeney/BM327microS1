@@ -1,3 +1,33 @@
 ---
 title: Experiment 3 - Data Analysis
 ---
+
+	Plate counts from the interrupted mating experiment you performed in week 6 (your data; the plates you counted in week 8)  You will use these data in TASK 3A and 3B
+	Plate counts from a similar interrupted mating experiment that included the Tn mutant strains (available for you on MyPlace)  You will use these data in TASK 3A and 3B
+
+TASK 3A. Data analysis (interrupted mating).
+
+1.	You have colony counts from your own experiment (for the 4 auxotrophic markers) and have been provided with a set of data for the Tn insertions (available on MyPlace). Count the colonies on your plates/the images of the plates and record the data. Fill the table with the number of colonies that you have on each plate.
+
+Table 3.1 Colonies counted on the interrupted mating plates. TNTC = Too Numerous To Count; TFTC = Too Few To Count.
+
+1.	Using the data from the table above, draw a map of the E. coli chromosome, taking into account that it is circular and 100 minutes long.
+2.	Map the location of each auxotrophic mutation as well as the tetracycline resistant mutation (Tn5).  
+
+3.	Analyse the region of the chromosome you have identified using EcoCyc. Where on the chromosome do you think your mutation is? (answer in # of minutes) What gene(s) are present at that location?
+
+DISCUSSION QUESTIONS.
+
+We used interrupted mating to map the location of the Tn5 insertions in your mutant E. coli strains (these Tn insertions are presumably responsible for making the strains resistant to your novel antibiotic). How well did this technique do at mapping the location of the transposons?
+
+Are there any other techniques you could use to identify the location of the Tn5 insertions?
+
+What conclusions can you draw based upon the experiments performed in this lab?
+
+
+What further experiments might you do (and why?)
+
+
+How does your experiment relate to other observations of antibiotic resistance genes being transferred between bacteria by horizontal gene transfer?
+
+

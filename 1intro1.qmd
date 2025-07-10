@@ -3,3 +3,11 @@
  format: html
 ---
 
+You have isolated a mutant strain of Streptomyces coelicolor A3(2) that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. However, the Streptomyces species only produces small amounts of the antibiotic.
+
+In order to study this antibiotic further, you carry out a UV mutagenesis experiment, and screen for mutants that produce more antibiotic.
+
+Your task is to determine the most effective dose of UV radiation to use for isolating mutants (Data Analysis Task 1A). You will then analyse the phenotypes of mutants isolated at this dose (Data Analysis Task 1B). 
+
+The genomes of several mutant strains have been sequenced and examined for mutations that might cause antibiotic production. Your final task in this lab is to examine the mutant allele sequences, and identify the amino acid change(s) compared to the wild-type sequence (Workshop 1).
+

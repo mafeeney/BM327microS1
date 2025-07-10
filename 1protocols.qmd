@@ -2,6 +2,66 @@
 title: Experiment 1 Protocols
 ---
 
-You can view the handout for lab 1 below, or download it [here](./handouts/Lab1.pdf). 
+Lab 1: Caffeine Mutagenesis of Streptomyces Protocol (Week 2)
 
-{{< pdf ./handouts/Lab1.pdf width=100% height=400 >}}
+Materials required (per pair of students)
+
+•	Bunsen burner
+•	Frozen spore suspension of Streptomyces in 20% Glycerol (2 mL per student)
+•	Sterile distilled water in 9 ml aliquots in universal bottles (for dilutions)
+(29 per student [4 series of 7 dilutions + 1 for initial dilution of spores])
+•	Nutrient agar plates (8 plates per student)
+•	Disposable plastic spreaders (4 per student)
+•	Sterile microfuge tubes
+•	1 ml pipettes and tips
+•	30°C incubator room
+•	Marker pen to write on microfuge tubes and plates
+•	10 mg/mL caffeine solution (1 mL per student)
+
+Protocol 1.1
+
+All steps should be carried out aseptically. Where directed to mix well, close the microfuge tube and invert it 5-6 times to mix.
+
+1.	Pipet 0.5 mL of the spore suspension into a microfuge tube. Add 0.5 mL sterile distilled water. Mix well. This is your control (label the tube, “0 CAFF”).
+
+Prepare your experimental (+CAFF) treatments as follows: 
+a.	Pipet 0.5 mL of the spore suspension into a microfuge tube. Add 0.5 mL 10 mg/mL caffeine. Mix well. Label the tube, “5 mg/mL CAFF”.
+b.	Pipet 0.5 mL of the spore suspension in to a microfuge tube. Add 0.25 mL 10 mg/mL caffeine and 0.25 mL distilled water. Mix well. Label the tube, “2.5 mg/mL CAFF”.
+c.	Pipet 0.5 mL of the spore suspension into a microfuge tube. Add 0.125 mL 10 mg/mL caffeine and 0.375 mL distilled water. Mix well. Label the tube, “1.25 mg/mL CAFF”.
+
+Incubate your +CAFF treatments on the benchtop for 10 minutes. While you wait, label your tubes and plates as described for steps 2 and 3. (See the Note on Labelling Technique, p. 7.)
+2.	Dilute the control and + CAFF spore suspensions using the 9 mL aliquots of sterile distilled water.
+
+a.	To do this, first label your tubes (10-1 through 10-7 for both the control and + CAFF samples. (You should have 28 tubes in total.))
+b.	Take the 1 ml of the spore suspension, and add this to 9 ml of sterile distilled water in the 10-1 tube, and mix well. 
+
+c.	Using a new pipet tip, remove 1 ml from the 10-1 tube and add this to 9 mL of sterile distilled water in the 10-2 tube, and mix well.
+d.	Repeat steps b and c until you reach the 10-7 dilution.
+e.	At this point you should have four dilution series (0 CAFF, 1.25 CAFF, 2.5 CAFF, and 5 CAFF, with 7 tubes each) of Streptomyces spores ready for plating onto agar plates.
+
+3.	Label agar plates with your initials and the date and along with the following:
+
+a.	0 CAFF, 10-6
+b.	0 CAFF, 10-7
+c.	1.25 mg/mL CAFF, 10-6
+d.	1.25 mg/mL CAFF, 10-7
+e.	2.5 mg/mL CAFF, 10-6
+f.	2.5 mg/mL CAFF, 10-7
+g.	5 mg/mL CAFF, 10-6
+h.	5 mg/mL CAFF, 10-7
+
+4.	Aseptically add 0.1 ml of the corresponding dilution to your labelled agar plate and spread across the surface using a plastic disposable spreader. (Plate the 10-7 dilution first, and then use the same spreader to plate the 10-6 dilution, to minimize the amount of plastic waste. Use a new spreader for the control and for each of the different + CAFF treatments.)
+
+5.	Allow the plates dry for 10 minutes, invert and then place in boxes for incubation at 30°C for 3 days.
+
+
+Protocol 1.2 - In the next laboratory session (Week 4)
+
+1.	Remove plates from the incubation boxes and count the plate dilutions that have between 30 and 300 colonies per plate. Do this for all samples.
+
+2.	Compare the colonies obtained on the 10-7 plates for the untreated plates and those on the equivalent dilutions of +CAFF plates. Can you identify over-producing mutants of the pigmented antibiotic Actinorhodin (Blue) or undecylprodigiosin (Red)?
+
+3.	Enter your data in Table 1.1 and upload your data to MyPlace to share with the class.
+
+4.	Using the class data, work out the mean CFU survival for each caffeine concentration.
+a.	Using these data, plot a caffeine concentration versus survival graph (x-axis = caffeine concentration; y-axis = CFU/ml). Determine which caffeine concentration gives 99% killing.

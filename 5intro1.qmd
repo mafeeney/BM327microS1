@@ -3,4 +3,6 @@
  format: html
 ---
 
+Cell size and shape are key phenotypes in bacteria and fungi, important for survival in a variety of environments. Bacteria actively modify and adapt their cell size/shape in response to environmental cues including nutrient availability, to adapt to different environmental niches, or as part of developmental pathways. For fungi, the transition between yeast and hyphal growth is often associated with virulence. In order to monitor and understand these changes in cell size and shape, microbiologists use a variety of techniques, including basic light microscopy – using the same principles that allowed the first visualization of microbial cells. 
+
 
