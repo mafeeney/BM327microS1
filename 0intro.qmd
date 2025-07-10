@@ -1,6 +1,9 @@
 ## Aim of the BM327 Semester 1 Microbiology laboratory sessions
 
-The aim of this laboratory is 
+The aim of this block of laboratory sessions is to introduce students to fundamental molecular biology and microbiology methods, such as UV mutagenesis, plasmid transfer, antibiotic assays and microscopy.
+
+Within the block of five three-hour laboratory sessions, there are five distinct experimental elements. Each experimental element is linked to the others as part of an overall research project. Most of the experimental elements will take place over the course of several different laboratory sections (because of the need to incubate plates and allow microbes to grow). There are also two workshops to supplement your learning – details of these will be made available on MyPlace.
+
 
 ## Microbiology Laboratories Competency Skills
 
@@ -25,4 +28,10 @@ You will be assessed for your competency in the following:
 
 ## Overall learning outcomes
 
-* 
+*	To understand how exposure to UV radiation can affect the ability of microorganisms to survive and produce antibiotics.
+
+*	To understand how genetic elements are transferred between bacteria.
+
+*	To understand how the susceptibility of bacteria to certain antibiotics is determined.
+
+*	To observe how bacterial cells can change their morphology as a result of certain environmental stimuli.
