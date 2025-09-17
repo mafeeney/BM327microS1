@@ -7,15 +7,16 @@ title: "Experiment 5 Aims and Overview"
 * To demonstrate the ability of some microorganisms to alter their cellular morphology in response to environmental stimuli.
 
 ## Learning Outcomes
+
 At the end of this laboratory session, you should understand:
 
 *	How to visualise cells using a light microscope 
 
 *	How to use ImageJ to process and analyse microscopy data.
 
-*	The process of E. coli filamentation.
+*	The process of *E. coli* filamentation.
 
-*	The process of Candida filamentation.
+*	The process of *Candida* filamentation.
 
 
 
@@ -27,15 +28,15 @@ At the end of this laboratory session, you should understand:
 
 This practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: bacterial morphology, killing bacteria, microbial growth kinetics. 
 
-You have isolated a species of Streptomyces that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. In the previous labs, you isolated resistant E. coli strains and generated a hypothesis about the mechanism of action of the antibiotic.
+You have isolated a species of *Streptomyces* that produces a novel antibiotic that can kill *Escherichia coli* and other Gram-negative bacteria. In the previous labs, you isolated resistant *E. coli* strains and generated a hypothesis about the mechanism of action of the antibiotic.
 
-In order to further study the antibiotic mechanism of action, you will use microscopy to determine whether antibiotic X has any effect on an unrelated species (Candida albicans). You will set up cultures with varying concentrations of Antibiotic X and examine the phenotype of antibiotic-treated cells (Protocols 5.1 and 5.2). For comparison’s sake, we have provided you with micrographs of antibiotic X-treated E. coli cells (Task 5A). You will look at a time course of the response of wild-type E. coli to the antibiotic (Task 5B), and also, will analyse the phenotype of your mutant E. coli strain treated with the antibiotic (Task 5C). 
+In order to further study the antibiotic mechanism of action, you will use microscopy to determine whether antibiotic X has any effect on an unrelated species (*Candida albicans*). You will set up cultures with varying concentrations of Antibiotic X and examine the phenotype of antibiotic-treated cells (Protocols 5.1 and 5.2). For comparison’s sake, we have provided you with micrographs of antibiotic X-treated *E. coli* cells (@sec-data5). You will look at a time course of the response of wild-type *E. coli* to the antibiotic, and also, will analyse the phenotype of your mutant *E. coli* strain treated with the antibiotic. 
 
 
 
 ## Overview of Experiment 5
 
-You will set up the cultures needed for this experiment in Week 8, and perform the experiment (protocol 5.2) in the following session (Week 10). You will compare/contrast the data you collect in this experiment with the data collected in a similar experiment performed on E. coli (posted on MyPlace for you) – Tasks 5A-C).
+You will set up the cultures needed for this experiment in Week 8, and perform the experiment (protocol 5.2) in the following session (Week 10). You will compare/contrast the data you collect in this experiment with the data collected in a similar experiment performed on *E. coli* (posted on MyPlace for you) – Tasks 5A-C).
 
 
 
