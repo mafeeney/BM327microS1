@@ -2,6 +2,6 @@
 title: Experiment 2 Protocols
 ---
 
-You can view the handout for lab 1 below, or download it [here](./handouts/Lab2.pdf). 
+You can view the protocols for experiment 2 below, or download it [here](./assets/Experiment2protocols.pdf). 
 
-{{< pdf ./handouts/Lab2.pdf width=100% height=400 >}}
+{{< pdf ./assets/Experiment2protocols.pdf width=100% height=400 >}}

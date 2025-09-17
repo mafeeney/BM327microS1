@@ -2,6 +2,6 @@
 title: Experiment 3 Protocols
 ---
 
-You can view the handout for lab 3 below, or download it [here](./handouts/Lab3.pdf). 
+You can view the protocols for experiment 3 below, or download it [here](./assets/Experiment3protocols.pdf). 
 
-{{< pdf ./handouts/Lab3.pdf width=100% height=400 >}}
+{{< pdf ./assets/Experiment3protocols.pdf width=100% height=400 >}}

@@ -1,0 +1,36 @@
+---
+ title: "Bacterial Mutagenesis"
+ format: html
+---
+
+## Bacterial Mutagenesis - Introduction {#sec-intro3}
+
+Mutagenesis is the process by which the genetic material of an organism is changed, resulting in changes (mutations) from the original ("wild-type") genetic sequence. In bacteria, mutagenesis is widely used as a tool to generate genetic diversity, study gene function, and create strains with desirable traits (e.g., improved growth characteristics in bioreactors/industrial fermentations, resistance to environmental stresses, or enhanced production of compounds such as antibiotics). 
+
+Researchers often apply mutagenic treatments to large populations of bacterial cells, then **screen** or **select** for mutants showing altered phenotypes. Two of the most commonly used methods are **UV mutagenesis** and **chemical mutagenesis**, which produce random, untargeted mutations throughout the genome.
+
+**UV mutagenesis** exposes bacterial cultures to ultraviolet (UV) light, typically UV-C (around 254 nm), which induces the formation of pyrimidine dimers in DNA. These lesions can lead to errors during DNA replication, generating mutations.
+
+::: {.callout-important title="UV mutagenesis - dose"}
+
+Because UV light is lethal at high doses, it is important to experimentally determine the correct dose of UV that should be administered to a particular bacterial species or strain during a UV mutagenesis experiment. If the dose is too high, all of the bacteria in the sample will be killed; however, if it is too low, there will be a large number of unmutated bacteria still present, and it becomes tedious to screen through all of these for the desired phenotype. Therefore, UV treatments are usually calibrated by determining a “kill curve” that leaves only a small fraction of surviving, potentially mutated cells.
+
+:::
+
+**Chemical mutagenesis** uses chemicals that interact with DNA to cause base substitutions, insertions, or deletions. Common agents include alkylating compounds such as ethyl methanesulfonate (EMS) or nitrosoguanidine (NTG), which modify DNA bases and increase replication errors. Chemical mutagens can produce a high density of random mutations throughout the genome, creating a broad pool of genetic variants. However, each particular chemical mutagen will have a specific signature (the type of mutation that it causes, based on its chemical structure and mode of action - for example, EMS alkylates guanine residues, resulting in G:C to A:T **transition** mutations.)
+
+**Transposon (Tn) mutagenesis**, by contrast, introduces mutations by inserting a mobile genetic element (transposon) into random sites in the genome. Because the sequence of the transposon is known, the exact location of the mutation can be easily identified afterwards using techniques such as inverse PCR or sequencing across the transposon–genome junction. This makes Tn mutagenesis especially powerful because it can be used to rapidly link genotype to phenotype (whereas UV and chemical mutagenesis often require additional mapping steps to locate the relevant mutation).
+
+:::
+
+Random mutagenesis (UV, chemical, or Tn-based) can reveal new genetic variants that would not arise under natural mutation rates or that would not be discovered using targeted (site-directed) mutagenesis approaches, making it a powerful approach for basic research and applied biotechnology.
+
+::: {#discussion-questions .discussion title="Bacterial Mutagenesis"}
+
+* Why does the UV dose ("kill curve") need to be determined experimentally for each particular bacterial species or strain?
+
+* When carrying out a bacterial mutagenesis experiment, would you prefer to screen or select for a phenotype of interest? Why?
+
+* How can we determine if there is a causal link between a particular mutation and a phenotype of interest?
+
+:::

@@ -1,26 +1,32 @@
 ---
-title: "Additional Resources/Further Reading for Experiment 1"
+title: "Additional Resources/Suggested Further Reading for Experiment 1"
 ---
 
-## Microbiology Society "Techniques" videos
+## Streptomyces 
 
-These videos illustrate many of the techniques used in this lab, you may find it helpful to watch them to prepare for the lab (or as review afterwards)
+* Bentley SD, Chater KF, Cerdeño-Tárraga AM, et al. Complete genome sequence of the model actinomycete *Streptomyces coelicolor* A3(2). Nature. 2002;417(6885):141-147. doi:10.1038/417141a
 
-* <a href="https://youtu.be/5eRhLVPJ37E?si=SHbJLyF0a5Ypuvcw">Transferring agar to a Petri dish</a>
+* Hoskisson PA, van Wezel GP. *Streptomyces coelicolor*. Trends Microbiol. 2019;27(5):468-469. doi:10.1016/j.tim.2018.12.008
 
-* <a href="https://youtu.be/5k6yShM_Avo?si=FSaXNRxFfkXoO-4g">Using a sterile inoculating loop</a>
+* Challis GL. Exploitation of the *Streptomyces coelicolor* A3(2) genome sequence for discovery of new natural products and biosynthetic pathways. J Ind Microbiol Biotechnol. 2014;41(2):219-232. doi:10.1007/s10295-013-1383-2
 
-* <a href="https://youtu.be/800uUVu0aY4?si=Qt5yxhBSUaCteF9i">Making a Streak Plate</a>
-
-* <a href="https://youtu.be/ss_AIXee8Lc?si=4J3NJuqmDsnX2AQx">Serial Dilution</a>
-
-* <a href="https://youtu.be/-RQOZNv160c?si=jZmntHe7y8-YskVd">Using a Pipette and Spreader</a>
-
-## Streak Plates
-
-* <a href="https://asm.org/ASM/media/Protocol-Images/The-Streak-Plate-Protocol.pdf">The Streak Plate Protocol (American Society for Microbiology)</a>: Some good historical background and a detailed protocol
+* Schlimpert S, Elliot MA. The Best of Both Worlds-*Streptomyces coelicolor* and *Streptomyces venezuelae* as Model Species for Studying Antibiotic Production and Bacterial Multicellular Development. J Bacteriol. 2023;205(7):e0015323. doi:10.1128/jb.00153-23
 
 
-## Bacterial Plasmids
+## Bacterial mutagenesis
 
-* <a href="https://blog.addgene.org/plasmids-101-what-is-a-plasmid">Addgene: Plasmids 101</a>: helpful introduction to the basics of plasmid biology
+* Nolan LM, Webber MA, Filloux A. Throwing a spotlight on genomic dark matter: The power and potential of transposon-insertion sequencing. J Biol Chem. 2025;301(6):110231. doi:10.1016/j.jbc.2025.110231
+
+* Banaś AK, Zgłobicki P, Kowalska E, Bażant A, Dziga D, Strzałka W. All You Need Is Light. Photorepair of UV-Induced Pyrimidine Dimers. Genes (Basel). 2020;11(11):1304. Published 2020 Nov 4. doi:10.3390/genes11111304
+
+* Cronan JE. Approaches to Study Proteins Encoded by Essential Genes. Proteins. Published online August 15, 2025. doi:10.1002/prot.70039
+
+* Shuman HA, Silhavy TJ. The art and design of genetic screens: *Escherichia coli*. Nat Rev Genet. 2003;4(6):419-431. doi:10.1038/nrg1087
+
+* Craney A, Ahmed S, Nodwell J. Towards a new science of secondary metabolism. J Antibiot (Tokyo). 2013;66(7):387-400. doi:10.1038/ja.2013.25
+
+* Bennett JA, Kandell GV, Kirk SG, McCormick JR. Visual and Microscopic Evaluation of *Streptomyces* Developmental Mutants. J Vis Exp. 2018;(139):57373. Published 2018 Sep 12. doi:10.3791/57373
+
+* [Evelyn Witkin (Rutgers): The SOS Response in Bacteria](https://youtu.be/NFSkSlDTxxs?si=OmTz1MZacFobeha8) (iBiology Science Stories) 
+
+* [Biology Simulations: Mutation](https://www.biologysimulations.com/mutation) (simulation of a bacterial mutagenesis lab)

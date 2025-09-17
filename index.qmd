@@ -14,7 +14,7 @@ Each of the experiment sections 1-5 contain a brief explanation of the theory un
 
 ### How to prepare for each lab session
 
-You should read through the relevant theory/introductory material before coming to each practical lab session, and make sure you understand it. In some instances you may wish to review the material covered in BM330 before the lab as well (or review the underpinning microbiology theory in a textbook such as [add refs]).
+You should read through the relevant theory/introductory material before coming to each practical lab session, and make sure you understand it. In some instances you may wish to review the material covered in BM330 before the lab as well (or review the underpinning microbiology theory in an introductory microbiology textbook.
 
 ::: {.todo title="To prepare for each lab"}
 

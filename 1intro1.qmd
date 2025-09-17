@@ -1,13 +1,14 @@
 ---
- title: "Experiment 1 - Intro"
+ title: "Experiment 1 - Background"
  format: html
 ---
 
-You have isolated a mutant strain of Streptomyces coelicolor A3(2) that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. However, the Streptomyces species only produces small amounts of the antibiotic.
+## Experiment 1 - Background {#sec-intro1}
 
-In order to study this antibiotic further, you carry out a UV mutagenesis experiment, and screen for mutants that produce more antibiotic.
+We have isolated a mutant strain of <i>Streptomyces coelicolor</i> A3(2) that produces a novel antibiotic that can kill <i>Escherichia coli</i> and other Gram-negative bacteria. However, the <i>Streptomyces</i> strain only produces small amounts of the antibiotic.
 
-Your task is to determine the most effective dose of UV radiation to use for isolating mutants (Data Analysis Task 1A). You will then analyse the phenotypes of mutants isolated at this dose (Data Analysis Task 1B). 
+In order to study this antibiotic further, you will carry out a UV mutagenesis experiment, and screen for mutants that produce more antibiotic (@sec-protocols1).
 
-The genomes of several mutant strains have been sequenced and examined for mutations that might cause antibiotic production. Your final task in this lab is to examine the mutant allele sequences, and identify the amino acid change(s) compared to the wild-type sequence (Workshop 1).
+Your task is to determine the most effective dose of UV radiation to use for isolating mutants (@sec-1Adata). You will then analyse the phenotypes of mutants isolated at this dose (@sec-1Bdata). 
 
+We have selected a number of candidate genes that might be involved in regulating antibiotic production, and sequenced these genes in a set of mutant strains. Your final task for this experiment is to examine the potentially mutant allele sequences, and identify any amino acid change(s) compared to the wild-type sequence (Workshop 1).

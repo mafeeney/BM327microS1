@@ -3,9 +3,9 @@
  format: html
 ---
 
-You have isolated a species of Streptomyces that produces a novel antibiotic “X” that can kill Escherichia coli and other Gram-negative bacteria. In the previous lab, you isolated mutant strains that may produce higher levels of antibiotic.
+You have isolated a strain of *Streptomyces coelicolor* A3(2) that produces a novel antibiotic “X” that can kill *Escherichia coli* and other Gram-negative bacteria. In the previous lab, you isolated mutant strains that may produce higher levels of antibiotic.
 
-In order to determine whether these strains do, in fact, produce increased amounts of antibiotic, you will examine bioassay data for the wild-type and mutant strains (Data Analysis Task 2A). Then, you will determine the MIC and MBC for the purified antibiotic against E. coli and compare the efficiency of the antibiotic “X” with other known antibiotics (Tasks A & B, Data Analysis Task 2B). 
+In order to determine whether these strains do, in fact, produce increased amounts of antibiotic, you will examine bioassay data for the wild-type and mutant strains (@sec-task2A). Then, you will determine the MIC and MBC for the purified antibiotic against *E. coli* and compare the efficiency of the antibiotic “X” with other known antibiotics (@sec-task2B). 
 
-Finally, you are interested in determining the mechanism of action of this novel antibiotic. To do so, you want to isolate a mutant strain of E. coli that is resistant to the antibiotic “X”. Your final task is to measure the MIC and MBC of the antibiotic for these mutant strain and compare to the data obtained for your wild-type strain (Data Analysis Task 2C). 
+Finally, you are interested in determining the mechanism of action of this novel antibiotic. To do so, you want to isolate a mutant strain of *E. coli* that is resistant to the antibiotic “X”. Your final task is to measure the MIC and MBC of the antibiotic for these mutant strain and compare to the data obtained for your wild-type strain (@sec-task2C). 
 

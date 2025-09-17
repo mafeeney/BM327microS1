@@ -13,5 +13,5 @@ admin:
 # These variables are used for links to the book repository
 # [C] CHANGE THESE VARIABLES TO SET THE GITHUB URLS FOR THE REPO
 github:
-  repo: "https://github.com/sipbs-compbiol/BM327microS1"
-  issues: "https://github.com/sipbs-compbiol/BM327microS1/issues"
+  repo: "https://github.com/mafeeney/BM327microS1"
+  issues: "https://github.com/mafeeney/BM327microS1/issues"

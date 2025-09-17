@@ -1,6 +1,8 @@
-*	Performing data analysis
+*	Good laboratory practice (labelling, pipetting, aseptic technique) 
 
-*	Performing basic lab calculations, e.g. serial dilutions
+* Performing basic lab calculations, e.g. serial dilutions
+
+*	Performing data analysis
 
 *	Interpreting phenotypic and genotypic data
 

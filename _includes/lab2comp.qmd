@@ -1,7 +1,9 @@
-*	Performing data analysis
+*	Good laboratory practice (aseptic technique, pipetting, spreading plates)
 
-*	Calculating antibiotic MBC and MIC values
+*	Experimentally determining antibiotic MBC and MIC values
 
 *	Teamwork
 
 *	Keeping detailed and accurate records
+
+* Performing data analysis

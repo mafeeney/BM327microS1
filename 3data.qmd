@@ -2,7 +2,7 @@
 title: Experiment 3 - Data Analysis
 ---
 
-	Plate counts from the interrupted mating experiment you performed in week 6 (your data; the plates you counted in week 8)  You will use these data in TASK 3A and 3B
+*	Plate counts from the interrupted mating experiment you performed in week 6 (your data; the plates you counted in week 8)  You will use these data in TASK 3A and 3B
 	Plate counts from a similar interrupted mating experiment that included the Tn mutant strains (available for you on MyPlace)  You will use these data in TASK 3A and 3B
 
 TASK 3A. Data analysis (interrupted mating).
@@ -16,18 +16,16 @@ Table 3.1 Colonies counted on the interrupted mating plates. TNTC = Too Numerous
 
 3.	Analyse the region of the chromosome you have identified using EcoCyc. Where on the chromosome do you think your mutation is? (answer in # of minutes) What gene(s) are present at that location?
 
-DISCUSSION QUESTIONS.
+::: {.callout-discussion title="Experiment 3 Discussion Questions"} 
 
-We used interrupted mating to map the location of the Tn5 insertions in your mutant E. coli strains (these Tn insertions are presumably responsible for making the strains resistant to your novel antibiotic). How well did this technique do at mapping the location of the transposons?
+* We used interrupted mating to map the location of the Tn*5* insertions in your mutant *E. coli* strains (these Tn insertions are presumably responsible for making the strains resistant to your novel antibiotic). How well did this technique do at mapping the location of the transposons?
 
-Are there any other techniques you could use to identify the location of the Tn5 insertions?
+* Are there any other techniques you could use to identify the location of the Tn*5* insertions?
 
-What conclusions can you draw based upon the experiments performed in this lab?
+* What conclusions can you draw based upon the experiments performed in this lab?
 
+* What further experiments might you do (and why?)
 
-What further experiments might you do (and why?)
+* How does your experiment relate to other observations of antibiotic resistance genes being transferred between bacteria by horizontal gene transfer?
 
-
-How does your experiment relate to other observations of antibiotic resistance genes being transferred between bacteria by horizontal gene transfer?
-
-
+:::

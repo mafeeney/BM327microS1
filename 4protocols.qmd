@@ -2,33 +2,6 @@
 title: Experiment 4 Protocols
 ---
 
-Selection of the correct buffer for restriction enzyme double digests
+You can view the protocols for experiment 4 below, or download it [here](./assets/Experiment4protocols.pdf). 
 
-As with any enzyme, restriction enzymes’ activity depends on temperature, and salt concentration(s). In general, commercially available restriction enzymes are sold with an appropriate buffer for their usage. When digesting DNA with multiple restriction enzymes, it is important to select the optimal buffer that maximizes the activity of all the restriction enzymes being used (see Table 4.1) – if a suitable buffer cannot be identified, it may be necessary to carry out the digests sequentially.
-
-Table 4.1 Restriction enzyme activity in NEB buffers.
-Enzyme	Buffer provided	% activity in NEBuffer r1.1	% activity in NEBuffer r2.1	% activity in NEBuffer r3.1	% activity in rCutSmart
-AflIII	NEBuffer r3.1	10	50	100	50
-EcoRV-HF	rCutSmart	25	100	100	100
-HindIII-HF	rCutSmart	10	100	10	100
-
-Considering the information in Table 4.1, which are the optimal buffers to use for each of the following digests? Fill in Table 4.2 before coming to the practical.
-
-Table 4.2. Restriction enzyme buffer selection for double digests.
-Restriction enzymes	Buffer
-AflIII-EcoRV	
-AflIII-HindIII	
-EcoRV-HindIII	
-AflIII-EcoRV-HindIII	
-
-Considering the plasmid DNA sample that you have been provided, how much DNA will you need to add to your digest in order to add 1 g? 
- 
-Initial DNA concentration: _________ 
-Volume to add: __________ 
-Final DNA amount: __________ 
- 
-
-
-You can view the handout for lab 4 below, or download it [here](./handouts/Lab4.pdf). 
-
-{{< pdf ./handouts/Lab4.pdf width=100% height=400 >}}
+{{< pdf ./assets/Experiment4protocols.pdf width=100% height=400 >}}

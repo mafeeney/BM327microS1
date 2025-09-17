@@ -4,18 +4,18 @@ title: Experiment 1 - Data Analysis
 
 ::: {.todo title="Experiment 1 - Data Analysis Tasks"}
 
-After completing all of the practical lab tasks for this experiment, you should analyse:
+After completing all of the practical lab tasks for this experiment, you should analyse (@sec-1Adata and @sec-1Bdata):
 
-* The caffeine mutagenesis experiment (your data/class data – recorded in Table 1.1)
+* The caffeine mutagenesis experiment (your data/class data on MyPlace)
 
 *	The UV mutagenesis data (experiment performed for you and data posted on MyPlace)
-
 
 :::
 
 ## Task 1A {#sec-1Adata}
 
 1. You will be provided with a set of data from the UV mutagenesis experiment (available on MyPlace). 
+
 The data shows you three plates for each time point, starting at T=0 (un-irradiated spores) and then the number of colonies present on the plates after the time indicated, and the dilution of the spores to obtain that count. The times are T = 0 (un-irradiated spores); 30 seconds (0.5 min) UV treatment; 1 min UV treatment; 2 min UV treatment; 4 min UV treatment; 8 min UV treatment and 16 UV treatment. Each plate contains 1 ml of spores.
 
 2. You should make the following calculations: 
@@ -27,9 +27,9 @@ Using the data, work out the percentage survival of spores following irradiation
 
 
 
-### Task 1B - Analyse mutant phenotypes
+### Task 1B - Analyse mutant phenotypes {#sec-1Bdata}
 
-1.	Compare the colonies obtained on the irradiated plates with those on the equivalent dilutions of irradiated plates (data available on MyPlace). 
+1.	Compare the colonies obtained on the irradiated plates with those on the equivalent dilutions of unirradiated plates (data available on MyPlace). 
 
 2.	Carefully record your data (observations) in an appropriate format.
 
@@ -37,57 +37,14 @@ Using the data, work out the percentage survival of spores following irradiation
 
 4.	We have already selected a number of mutants for further analysis – but which mutants would you have selected (and why)?
 
-Compare the two mutagens (UV and caffeine). Which is more effective in terms of killing (TASK 1A)? in terms of generating mutants with the desired phenotypes (TASK 1B)?
+::: {.callout-discussion title="Experiment 1 - discussion questions"} 
 
+* Compare the two mutagens we used (UV and caffeine). Which is more effective in terms of killing (@sec-1Adata)? in terms of generating mutants with the desired phenotypes (@sec-1Bdata)?
 
+* Which colonies would you select for further analysis?
 
+* What experiments would you like to do to characterize these mutant strains?
 
-
-
-::: {#discussion-questions .discussion title="Experiment 1 - discussion questions"}
-
-We had selected a number of candidate genes (known to affect antibiotic biosynthesis in S. coelicolor), and sequenced these genes in the mutagenized strains. Our hypothesis: mutation(s) in these genes causes the mutant strains to produce more antibiotic. 
-
-What conclusions can you draw based on your data? Do your data support your hypothesis?
-
-Which strains would you select for further analysis?
-
-What experiments would you like to do to characterize these mutant strains?
-
-What are the advantages and disadvantages of using UV mutagenesis? Caffeine mutagenesis?
-
-:::
-
-::: {.discussion-hints title="Hints - questions to consider as you discuss this experiment" collapse="true"}
-
-
-:::
-
-
- 
-
-
-
-## Task 1B -  {#sec-1Bdata}
-
-
-
-
-
-You should annotate your gel (label the DNA ladder and wells with their sample names), as for example in @fig-annotatedgel. 
-
-![Example of an annotated gel.](images/annotatedgel.jpg){#fig-annotatedgel}
-
-You can find the product information sheet for the DNA ladder which we used in this lab, including the size of each band, on the <a href="https://www.neb.com/en-gb/products/n3232-1-kb-dna-ladder">manufacturer's website</a>. 
-
-::: {#discussion-streak .discussion title="Interpreting the results from your agarose gels"}
-
-**Questions to consider/discuss with your lab partners:**
-
-1. 
-
-:::
-
-::: {.discussion-hints title="Hints - interpreting the example gel results" collapse="true"}
+* What are the advantages and disadvantages of using UV mutagenesis? Caffeine mutagenesis?
 
 :::

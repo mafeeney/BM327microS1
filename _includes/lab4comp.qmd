@@ -1,10 +1,10 @@
-* Performing calculations
+* Performing basic lab calculations
+
+* Good laboratory practice (pipetting, labelling, handling DNA, gel electrophoresis)
 
 * Performing data analysis
 
 * Formulating hypotheses
-
-* Using databases
 
 * Teamwork
 

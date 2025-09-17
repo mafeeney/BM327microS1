@@ -1,4 +1,4 @@
-*	Using appropriate software to visualize and analyze microscopy data
+*	Good laboratory practice (microscopy)
 
 *	Data analysis
 

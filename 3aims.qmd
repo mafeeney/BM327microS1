@@ -27,12 +27,11 @@ At the end of this laboratory session, you should understand:
 
 This practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: horizontal gene transfer, bacterial genetics. 
 
-Isolation of a new antibiotic from Streptomyces coelicolor:
-Mapping mutations that confer antibiotic resistance
+## Isolation of a new antibiotic from *Streptomyces coelicolor*: Mapping mutations that confer antibiotic resistance
 
-You have isolated a species of Streptomyces that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. In the previous lab, you isolated E. coli strains that are resistant to this particular antibiotic.
+You have isolated a strain of *Streptomyces coelicolor* A3(2) that produces a novel antibiotic that can kill *Escherichia coli* and other Gram-negative bacteria. In the previous lab, you isolated *E. coli* strains that are resistant to this particular antibiotic.
 
-In order to identify the mutation(s) that give rise to the antibiotic resistance phenotype, you will physically map the location of the mutations using interrupted mating. You will first analyse the data from the interrupted mating experiment (Task 3A), and then form a hypothesis about the location of the antibiotic-resistance mutation (Task 3B). 
+In order to identify the mutation(s) that give rise to the antibiotic resistance phenotype, you will physically map the location of the mutations using interrupted mating. You will first analyse the data from the interrupted mating experiment (@sec-task3A), and then form a hypothesis about the location of the antibiotic-resistance mutation (@sec-task3B). 
 
 
 

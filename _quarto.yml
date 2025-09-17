@@ -38,7 +38,7 @@ book:
         
   # Sets the URL for the repository
   # [C] GITHUB REPOSITORY URL
-  repo-url: https://github.com/sipbs-compbiol/BM327microS1
+  repo-url: https://github.com/mafeeney/BM327microS1
   repo-branch: main
   repo-actions: [edit, issue]
 
@@ -74,6 +74,8 @@ book:
       chapters: 
         - 1aims.qmd
         - 1intro1.qmd
+        - 1intro2.qmd
+        - 1intro3.qmd
         - 1protocols.qmd
         - 1data.qmd
         - 1further.qmd
@@ -110,11 +112,6 @@ book:
         - 5data.qmd
         - 5further.qmd
         
-    - part: workshops.qmd
-      chapters: 
-        - workshop1.qmd
-        - workshop2.qmd
-        - workshop3.qmd
 
 # Location of BibTeX format reference file; may not need to be changed
 bibliography: references.bib

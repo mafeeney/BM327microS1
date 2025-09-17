@@ -1,0 +1,30 @@
+---
+ title: "Streptomyces and Antibiotic Production"
+ format: html
+---
+
+## Streptomyces - Introduction {#sec-intro2}
+
+The growing antimicrobial resistance (AMR) crisis is estimated to cause or contribute to a large number of deaths annually (e.g., 1.27 million deaths in 2019 as a direct consequence of bacterial AMR^[Antimicrobial Resistance Collaborators. Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis. Lancet. 2022;399(10325):629-655. doi:10.1016/S0140-6736(21)02724-0]).
+
+One part of the scientific efforts to tackle this growing crisis includes the search for novel antibiotics. 
+
+Many of the antibiotics in current use are produced by bacteria: in particular, by actinobacteria, including *Streptomyces*.
+
+::: {.callout-microbe title="Streptomyces"} 
+
+<i>Streptomyces</i> are Gram-positive, filamentous, actinobacteria that are commonly found in the soil and many other environments. 
+
+These bacteria typically have large, linear chromosomes with a high GC content (usually >70%). They also have a unique, complex developmental life cycle. However, they are probably best known for their prolific production of antibiotics and other pharmaceutically useful compounds (e.g., anti-cancer drugs, immunosuppressants). 
+
+:::
+
+Most strains of *Streptomyces* that have been identified or sequenced contain relatively large number of biosynthetic gene clusters (BGCs) in their genome (for example, *Streptomyces coelicolor* A3(2) has >20 such BGCs). 
+
+While some of these BGCs have been linked to specific molecules (e.g., for *S. coelicolor* A3(2), antibiotics such as the (usually) blue-pigmented actinorhodin and the red-pigmented undecylprodigiosin, and other small molecules such as siderophores or signalling molecules) - many of these BGCs are not expressed under known growth conditions, and the molecules produced remain elusive.
+
+::: {#discussion-questions .discussion title="Antibiotic Discovery"}
+
+What approaches do you think could be used to discover new antibiotics from *Streptomyces* or other bacteria? What experiments would you do?
+
+:::

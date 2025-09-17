@@ -1,4 +1,6 @@
-*	Performing data analysis
+*	Good laboratory practice (aseptic technique, pipetting, labelling, spreading plates)
+
+*	Performing data analysis (mapping loci on a bacterial chromosome)
 
 *	Using online databases
 

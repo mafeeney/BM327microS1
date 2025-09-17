@@ -33,8 +33,7 @@ You should therefore always: 1. Open tip box --> 2. Take pipet tip --> 3. Close 
 
 In order to keep your work sterile and free from contamination that could interfere with your experiments, you should work near a Bunsen burner set to a blue flame (@fig-bunsen). The Bunsen creates an updraft of air, helping to maintain a “clean” zone around it. Having the Bunsen burner lit, but working several meters away from this clean zone, is ineffective and will likely result in contamination of your experiments.
 
-![A Bunsen burner set to a blue flame. Image credit: <a href="https://www.britannica.com/science/Bunsen-burner#/media/1/84759/113586
-">Encyclopedia Britannica</a>](images/Bunsen.jpg){#fig-bunsen}
+![A Bunsen burner set to a blue flame. Image credit: <a href="https://www.britannica.com/science/Bunsen-burner#/media/1/84759/113586">Encyclopedia Britannica</a>](images/Bunsen.jpg){#fig-bunsen}
 
 When working with a Bunsen burner, however, it is essential that you follow the following safety guidelines, for the safety of yourself and those working near you:
 

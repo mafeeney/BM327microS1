@@ -25,5 +25,3 @@ To calculate the number of cfu/mL present in the original sample, divide the num
 * When you've finished your calculation, double-check that your answer makes sense! For example, you can't have a fraction of a colony forming unit - so if your answer looks like 1.73 * 10<sup>-7</sup> cfu/mL, you have probably gone awry with your handling of exponents somewhere.
 :::
 
-
-### Using a haemocytometer

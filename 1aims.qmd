@@ -7,6 +7,7 @@ title: "Experiment 1 Aims and Overview"
 * To understand how exposure to mutagens can affect the ability of microorganisms to survive and produce antibiotics.
 
 ## Learning Outcomes
+
 At the end of this experiment, you should understand:
 
 *	How mutagenesis can affect the phenotype of an organism.
@@ -16,7 +17,6 @@ At the end of this experiment, you should understand:
 *	That mutagens act in a dose-dependent manner.
 
 *	How to analyse a mutagenesis data set.
-
 
 
 ## Competencies 
@@ -34,6 +34,16 @@ Mutagens like caffeine and UV damage DNA and, at high enough doses, are lethal. 
 
 You will perform Protocol 1.1 in the Week 2 lab and collect your data the following session (Week 4). Perform the data analysis tasks (Task 1A and Task 1B) using your own data/the class data or the sample data available on MyPlace.
 
+::: {.todo title="To prepare for Lab 1"}
 
+Before attending the practical lab, you should ensure that you have read and understood:
 
+* The introductory sections covering [Good Lab Practice](./0goodlab.qmd) and [Aseptic Technique](./0aseptic.qmd)
 
+* The introductory sections covering the [aim and rationale underpinning this experiment](./1intro1.qmd), the theory on [Streptomyces and Antibiotic Production](./1intro2.qmd), and [Bacterial Mutagenesis](./1intro3.qmd) 
+
+* The [Protocols](./1protocols.qmd) we will be following in the lab
+
+You also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.
+
+:::
