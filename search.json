@@ -14,7 +14,7 @@
     "href": "index.html#introduction-to-the-bm327-microbiology-semester-1-lab-manual",
     "title": "BM327 microbiology S1 lab manual",
     "section": "Introduction to the BM327 Microbiology Semester 1 Lab Manual",
-    "text": "Introduction to the BM327 Microbiology Semester 1 Lab Manual\nThis laboratory manual contains key information about each of the five practical laboratory sessions delivered as part of BM327 microbiology semester 1.\n\nHow to use this manual\nYou can navigate through this manual using the sidebar on the left.\nThe introductory section is a general section containing helpful information on good laboratory technique, working with microorganisms safely and aseptically, etc. - it also contains general information about the module, including the assessment. You should read through this section before the first lab and refer back to it when needed to refresh your memory.\nEach of the experiment sections 1-5 contain a brief explanation of the theory underpinning the experiments we will do in the practical labs, the protocols that will be used in that lab, and an explanation of any data analysis tasks that need to be performed after the lab. Links to the protocols (handouts) for each lab are provided, but please note that you do not need to print these out - they will be provided for you in the laboratories.\n\n\nHow to prepare for each lab session\nYou should read through the relevant theory/introductory material before coming to each practical lab session, and make sure you understand it. In some instances you may wish to review the material covered in BM330 before the lab as well (or review the underpinning microbiology theory in a textbook such as [add refs]).\n\n\nEach section will have a “To do” box like this, with a summary of the reading/tasks necessary to prepare for the lab.\nThe data analysis pages will have a “To do” box too - for the tasks you need to complete after the lab.\n\n\n\n\n\n\n\n\nTips for success\n\n\n\n\nYou will also find boxes throughout this lab manual with Tips, Important notes, Discussion Questions, etc (such as this one). These are intended to help you prepare for each lab (and for the assessment), so you should make sure to read through all the material.\nAs Benjamin Franklin said, “By failing to prepare, you are preparing to fail.” It is really important that you come prepared to each lab! A little bit of time spent reading through the material and performing any necessary tasks or calculations will really pay off.\n\n\n\n\n\nHow to deal with any problems, questions, or concerns\nIf you have any problems or questions, please feel free to speak with Dr. Feeney during the lab sessions or by e-mail.\nIf you are going to miss a lab session (for whatever reason), you should e-mail Dr. Feeney and also log your absence with the university using the Pegasus Personal Circumstances tool. More details can be found in your student handbook.\nIf you notice any errors (including typos, broken links, etc.) in this lab manual, please notify Dr Feeney, either by e-mail or by raising an issue on this lab manual’s github page.",
+    "text": "Introduction to the BM327 Microbiology Semester 1 Lab Manual\nThis laboratory manual contains key information about each of the five practical laboratory sessions delivered as part of BM327 microbiology semester 1.\n\nHow to use this manual\nYou can navigate through this manual using the sidebar on the left.\nThe introductory section is a general section containing helpful information on good laboratory technique, working with microorganisms safely and aseptically, etc. - it also contains general information about the module, including the assessment. You should read through this section before the first lab and refer back to it when needed to refresh your memory.\nEach of the experiment sections 1-5 contain a brief explanation of the theory underpinning the experiments we will do in the practical labs, the protocols that will be used in that lab, and an explanation of any data analysis tasks that need to be performed after the lab. Links to the protocols (handouts) for each lab are provided, but please note that you do not need to print these out - they will be provided for you in the laboratories.\n\n\nHow to prepare for each lab session\nYou should read through the relevant theory/introductory material before coming to each practical lab session, and make sure you understand it. In some instances you may wish to review the material covered in BM330 before the lab as well (or review the underpinning microbiology theory in an introductory microbiology textbook.\n\n\nEach section will have a “To do” box like this, with a summary of the reading/tasks necessary to prepare for the lab.\nThe data analysis pages will have a “To do” box too - for the tasks you need to complete after the lab.\n\n\n\n\n\n\n\n\nTipTips for success\n\n\n\n\nYou will also find boxes throughout this lab manual with Tips, Important notes, Discussion Questions, etc (such as this one). These are intended to help you prepare for each lab (and for the assessment), so you should make sure to read through all the material.\nAs Benjamin Franklin said, “By failing to prepare, you are preparing to fail.” It is really important that you come prepared to each lab! A little bit of time spent reading through the material and performing any necessary tasks or calculations will really pay off.\n\n\n\n\n\nHow to deal with any problems, questions, or concerns\nIf you have any problems or questions, please feel free to speak with Dr. Feeney during the lab sessions or by e-mail.\nIf you are going to miss a lab session (for whatever reason), you should e-mail Dr. Feeney and also log your absence with the university using the Pegasus Personal Circumstances tool. More details can be found in your student handbook.\nIf you notice any errors (including typos, broken links, etc.) in this lab manual, please notify Dr Feeney, either by e-mail or by raising an issue on this lab manual’s github page.",
     "crumbs": [
       "Preface"
     ]
@@ -34,7 +34,7 @@
     "href": "0intro.html",
     "title": "1  Aim of the BM327 Semester 1 Microbiology laboratory sessions",
     "section": "",
-    "text": "1.1 Microbiology Laboratories Competency Skills\nThe aim of this block of laboratory sessions is to introduce students to fundamental molecular biology and microbiology methods, such as UV mutagenesis, plasmid transfer, antibiotic assays and microscopy.\nWithin the block of five three-hour laboratory sessions, there are five distinct experimental elements. Each experimental element is linked to the others as part of an overall research project. Most of the experimental elements will take place over the course of several different laboratory sections (because of the need to incubate plates and allow microbes to grow). There are also two workshops to supplement your learning – details of these will be made available on MyPlace.\nGraduate recruiters look for specific job skills and competencies. Competencies are action-oriented statements of the knowledge, skills, and abilities people need to do their work successfully. They are observable and measurable. These are what you need to do the job and work in their organisation. Some are straightforward and required in many different career: communication, teamwork and problem solving are just a few. You need to show employers you have mastered essential skills such as writing, reading, numeracy, presentation, organisation and the ability to work under pressure. Graduates who demonstrate their analytical thinking during a job interview or assessment centre will stand out from other candidates. Other skills such as those gained in the laboratory are more specific and aligned to particular types of jobs e.g. ability to do a PCR.\nYou will be assessed for your competency in the following:\nLab 1 * Performing data analysis\nLab 2 * Performing data analysis\nLab 3 * Performing data analysis\nLab 4 * Performing calculations\nLab 5 * Using appropriate software to visualize and analyze microscopy data",
+    "text": "1.1 Microbiology Laboratories Competency Skills\nThe aim of this block of laboratory sessions is to introduce students to fundamental molecular biology and microbiology methods, such as UV mutagenesis, plasmid transfer, antibiotic assays and microscopy.\nWithin the block of five three-hour laboratory sessions, there are five distinct experimental elements. Each experimental element is linked to the others as part of an overall research project. Most of the experimental elements will take place over the course of several different laboratory sections (because of the need to incubate plates and allow microbes to grow). There are also three workshops (“CAL labs”) to supplement your learning – details of these will be made available on MyPlace.\nGraduate recruiters look for specific job skills and competencies. Competencies are action-oriented statements of the knowledge, skills, and abilities people need to do their work successfully. They are observable and measurable. These are what you need to do the job and work in their organisation. Some are straightforward and required in many different career: communication, teamwork and problem solving are just a few. You need to show employers you have mastered essential skills such as writing, reading, numeracy, presentation, organisation and the ability to work under pressure. Graduates who demonstrate their analytical thinking during a job interview or assessment centre will stand out from other candidates. Other skills such as those gained in the laboratory are more specific and aligned to particular types of jobs e.g. ability to do a PCR.\nYou will be assessed for your competency in the following:\nLab 1 * Good laboratory practice (labelling, pipetting, aseptic technique)\nLab 2 * Good laboratory practice (aseptic technique, pipetting, spreading plates)\nLab 3 * Good laboratory practice (aseptic technique, pipetting, labelling, spreading plates)\nLab 4 * Performing basic lab calculations\nLab 5 * Good laboratory practice (microscopy)",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overall Aims and Competencies</span>"
@@ -45,7 +45,7 @@
     "href": "0intro.html#microbiology-laboratories-competency-skills",
     "title": "1  Aim of the BM327 Semester 1 Microbiology laboratory sessions",
     "section": "",
-    "text": "Performing basic lab calculations, e.g. serial dilutions\nInterpreting phenotypic and genotypic data\nTeamwork\nKeeping detailed and accurate records\n\n\n\nCalculating antibiotic MBC and MIC values\nTeamwork\nKeeping detailed and accurate records\n\n\n\nUsing online databases\nTeamwork\nKeeping detailed and accurate records\n\n\n\nPerforming data analysis\nFormulating hypotheses\nUsing databases\nTeamwork\nKeeping detailed and accurate records\n\n\n\nData analysis\nData presentation\nTeamwork\nKeeping detailed and accurate records",
+    "text": "Performing basic lab calculations, e.g. serial dilutions\nPerforming data analysis\nInterpreting phenotypic and genotypic data\nTeamwork\nKeeping detailed and accurate records\n\n\n\nExperimentally determining antibiotic MBC and MIC values\nTeamwork\nKeeping detailed and accurate records\nPerforming data analysis\n\n\n\nPerforming data analysis (mapping loci on a bacterial chromosome)\nUsing online databases\nTeamwork\nKeeping detailed and accurate records\n\n\n\nGood laboratory practice (pipetting, labelling, handling DNA, gel electrophoresis)\nPerforming data analysis\nFormulating hypotheses\nTeamwork\nKeeping detailed and accurate records\n\n\n\nData analysis\nData presentation\nTeamwork\nKeeping detailed and accurate records",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overall Aims and Competencies</span>"
@@ -67,7 +67,7 @@
     "href": "0schedule.html",
     "title": "BM327 microbiology S1 lab manual",
     "section": "",
-    "text": "Schedule of experimental tasks\nBecause of the nature of microbiology (cultures require incubation and take time to grow), many of your experiments will take place across more than one laboratory session (as detailed in the following schedule). It is therefore essential that you keep careful track of all experimental tasks: e.g., carefully labelling your cultures and taking care to read all the relevant sections of the lab manual.\n\n\n\n\nWeek\n\n\nExperiment\n\n\nTasks\n\n\n\n\n\n\n2\n\n\nBacterial genetics 1 (Caffeine mutagenesis)\n\n\nProtocol 1.1\n\n\n\n\n4\n\n\nBacterial genetics 1 (cont.)\n\n\nProtocol 1.2\n\n\n\n\n\n\nBacterial susceptibility to antibiotics\n\n\nProtocol 2.1\n\n\n\n\n\n\n\n\nProtocol 2.4\n\n\n\n\n6\n\n\nBacterial susceptibility to antibiotics (cont.)\n\n\nProtocol 2.2\n\n\n\n\n\n\n\n\nProtocol 2.5\n\n\n\n\n\n\nBacterial genetics 2 (interrupted mating)\n\n\nProtocol 3.1\n\n\n\n\n8\n\n\nBacterial susceptibility to antibiotics (cont.)\n\n\nProtocol 2.3\n\n\n\n\n\n\nBacterial genetics 2 (cont.)\n\n\nProtocol 3.2\n\n\n\n\n\n\nBacterial genetics 3 (transposon mutagenesis)\n\n\nProtocol 4.1\n\n\n\n\n\n\n\n\nProtocol 4.2\n\n\n\n\n\n\nMicroscopy (pre)\n\n\nProtocol 5.1\n\n\n\n\n10\n\n\nMicroscopy\n\n\nProtocol 5.2\n\n\n\n\n\nBefore attending the practical lab, you should ensure that you have read and understood:\n\nThe introductory sections covering Good Lab Practice and Aseptic Technique\nThe introductory sections covering the theory on Axenic culture,\nThe Protocols we will be following in the lab\n\nYou also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.",
+    "text": "Schedule of experimental tasks\nBecause of the nature of microbiology (cultures require incubation and take time to grow), many of your experiments will take place across more than one laboratory session, as detailed in the following schedule . It is therefore essential that you keep careful track of all experimental tasks: e.g., carefully labelling your cultures and taking care to read all the relevant sections of the lab manual.\n\n\n\n\nWeek\n\n\nExperiment\n\n\nTasks\n\n\n\n\n\n\n2\n\n\nBacterial genetics 1 (Caffeine mutagenesis)\n\n\nProtocol 1.1\n\n\n\n\n4\n\n\nBacterial genetics 1 (cont.)\n\n\nProtocol 1.2\n\n\n\n\n\n\nBacterial susceptibility to antibiotics\n\n\nProtocol 2.1\n\n\n\n\n\n\n\n\nProtocol 2.4\n\n\n\n\n6\n\n\nBacterial susceptibility to antibiotics (cont.)\n\n\nProtocol 2.2\n\n\n\n\n\n\n\n\nProtocol 2.5\n\n\n\n\n\n\nBacterial genetics 2 (interrupted mating)\n\n\nProtocol 3.1\n\n\n\n\n8\n\n\nBacterial susceptibility to antibiotics (cont.)\n\n\nProtocol 2.3\n\n\n\n\n\n\nBacterial genetics 2 (cont.)\n\n\nProtocol 3.2\n\n\n\n\n\n\nBacterial genetics 3 (transposon mutagenesis)\n\n\nProtocol 4.1\n\n\n\n\n\n\n\n\nProtocol 4.2\n\n\n\n\n\n\nMicroscopy (pre)\n\n\nProtocol 5.1\n\n\n\n\n10\n\n\nMicroscopy\n\n\nProtocol 5.2",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule of Experimental Tasks</span>"
@@ -78,7 +78,7 @@
     "href": "0assessment.html",
     "title": "3  Formative assessment",
     "section": "",
-    "text": "3.1 Summative assessment: Laboratory Report\nThe assessment for the BM327 semester 1 microbiology block of laboratories will be based on labs 1, 2, and 4. The pro forma that you should complete for this assessment is available on MyPlace. It is due on November 26, at noon, and should be submitted via MyPlace.",
+    "text": "3.1 Summative assessment: Laboratory Report\nThe assessment for the BM327 semester 1 microbiology block of laboratories will be based on the labs and the workshops. The pro forma that you should complete for this assessment is available on MyPlace. It is due on November 26, at noon, and should be submitted via MyPlace.",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessment</span>"
@@ -122,7 +122,7 @@
     "href": "0goodlab.html#keeping-a-laboratory-notebook",
     "title": "5  Good Laboratory Practice",
     "section": "6.1 Keeping a Laboratory Notebook",
-    "text": "6.1 Keeping a Laboratory Notebook\nIt is essential to keep an accurate record of experiments, with details of every experiment performed, the data collected, and the data analysis that was performed. It is just as important to keep a lab notebook for experiments performed in silico as it is for experiments performed at the lab bench.\nYou should be able to come back to your notebook six months later, read your notes, and be able to recreate the experiment/understand the analyses that you performed. Human memory is fallible and it is important to keep clear, accurate records.\nMoreover, an appropriately kept lab notebook is a legal document, important for protecting your intellectual property. You should therefore be in the habit of keeping your lab notebook up to date and accurate.\n\n6.1.1 Some guidelines for keeping a good lab notebook:\n\nYour notebook may be kept in the form of a physical notebook (kept on paper) or an electronic notebook. The former should be written in clearly and legibly, using indelible ink. The latter should be saved often, with backup copies stored securely.\nInclude the date for each entry.\nEach experiment should include a title, a hypothesis or aim, a brief description of the background, protocols and details of any reagents/equipment used, observations, and any data or statistical analysis that was performed.\nAny protocols or methods should be described in enough detail that a colleague (or you in six months’ time!) can repeat the same experiment, starting from the same dataset/materials, and reach the same results.\nAny mistakes should be crossed out and explained (not erased).\nAll data should always be recorded in your lab notebook (even “failed” experiments or “outliers”).\n\n\n\n\n\n\n\nElectronic Lab Notebooks\n\n\n\n\n\nIncreasingly, researchers are using electronic lab notebooks instead of paper ones - these are more impervious to physical destruction (e.g., chemical spills, lab fires) and often more convenient (more easily legible, searchable, etc.) However, care must be taken to ensure that the data stored in an electronic lab notebook is secure and backed up.\nThere are many options for lab notebooks. One popular and widely used electronic lab notebook is Benchling.\n\nYou can join Benchling by creating an account at http://benchling.com/signup\nFor help with Benchling, including training kits and best practice guides, please see https://help.benchling.com/hc/en-us.\n\n\n\n\n\n\n6.1.2 Good Labelling Technique\nIt is essential that all tubes and plates be clearly and legibly labelled. You will often be working with these over a period of several weeks, and you will be unable to interpret/analyse the results from a previous week’s experiments if you have not labelled your samples correctly.\nSome general guidelines for good labeling practice:\n\nInclude your initials and the date of the experiment (if directed by your instructors, also include your bench number).\nIf working with microorganisms, always include the species name (abbreviations, e.g. E. coli are fine).\nIf labeling Petri plates, label around the outside rim of the plate (do not obscure the plate as it will make it hard to count colonies!), as shown in ?fig-platelabelling. You should also be sure to label the bottom of the plate (?fig-platelid). The bottom and lid may become separated, so labeling the lid is a bad idea!\n\n \n\n\n6.1.3 Other tips for good lab practice\n\nRead through each protocol thoroughly before beginning an experiment. Label all tubes and prepare any reagents needed before you begin. Stay organised and keep your space clean.\nTurn off your Bunsen burner (or set it to a visible orange flame) if you are not working aseptically.\nNever walk away from your bench and leave a lit Bunsen burner unattended.\nNever wear gloves when working with a Bunsen burner.\nPipet as accurately as possible:\n\nUse the correct pipet for the volume you intend to pipet and make sure it is set correctly (if uncertain, ask a demonstrator or member of staff)\nPipet down to the first stop when drawing up liquid into the pipet; pipet down to the second stop when expelling liquid.\nAvoid bubbles when pipetting.\nOnly insert the very tip of the pipet into the liquid when pipetting particularly viscous mixtures (e.g., polymerase or enzyme stocks).",
+    "text": "6.1 Keeping a Laboratory Notebook\nIt is essential to keep an accurate record of experiments, with details of every experiment performed, the data collected, and the data analysis that was performed. It is just as important to keep a lab notebook for experiments performed in silico as it is for experiments performed at the lab bench.\nYou should be able to come back to your notebook six months later, read your notes, and be able to recreate the experiment/understand the analyses that you performed. Human memory is fallible and it is important to keep clear, accurate records.\nMoreover, an appropriately kept lab notebook is a legal document, important for protecting your intellectual property. You should therefore be in the habit of keeping your lab notebook up to date and accurate.\n\n6.1.1 Some guidelines for keeping a good lab notebook:\n\nYour notebook may be kept in the form of a physical notebook (kept on paper) or an electronic notebook. The former should be written in clearly and legibly, using indelible ink. The latter should be saved often, with backup copies stored securely.\nInclude the date for each entry.\nEach experiment should include a title, a hypothesis or aim, a brief description of the background, protocols and details of any reagents/equipment used, observations, and any data or statistical analysis that was performed.\nAny protocols or methods should be described in enough detail that a colleague (or you in six months’ time!) can repeat the same experiment, starting from the same dataset/materials, and reach the same results.\nAny mistakes should be crossed out and explained (not erased).\nAll data should always be recorded in your lab notebook (even “failed” experiments or “outliers”).\n\n\n\n\n\n\n\nTipElectronic Lab Notebooks\n\n\n\n\n\nIncreasingly, researchers are using electronic lab notebooks instead of paper ones - these are more impervious to physical destruction (e.g., chemical spills, lab fires) and often more convenient (more easily legible, searchable, etc.) However, care must be taken to ensure that the data stored in an electronic lab notebook is secure and backed up.\nThere are many options for lab notebooks. One popular and widely used electronic lab notebook is Benchling.\n\nYou can join Benchling by creating an account at http://benchling.com/signup\nFor help with Benchling, including training kits and best practice guides, please see https://help.benchling.com/hc/en-us.\n\n\n\n\n\n\n6.1.2 Good Labelling Technique\nIt is essential that all tubes and plates be clearly and legibly labelled. You will often be working with these over a period of several weeks, and you will be unable to interpret/analyse the results from a previous week’s experiments if you have not labelled your samples correctly.\nSome general guidelines for good labeling practice:\n\nInclude your initials and the date of the experiment (if directed by your instructors, also include your bench number).\nIf working with microorganisms, always include the species name (abbreviations, e.g. E. coli are fine).\nIf labeling Petri plates, label around the outside rim of the plate (do not obscure the plate as it will make it hard to count colonies!), as shown in ?fig-platelabelling. You should also be sure to label the bottom of the plate (?fig-platelid). The bottom and lid may become separated, so labeling the lid is a bad idea!\n\n \n\n\n6.1.3 Other tips for good lab practice\n\nRead through each protocol thoroughly before beginning an experiment. Label all tubes and prepare any reagents needed before you begin. Stay organised and keep your space clean.\nTurn off your Bunsen burner (or set it to a visible orange flame) if you are not working aseptically.\nNever walk away from your bench and leave a lit Bunsen burner unattended.\nNever wear gloves when working with a Bunsen burner.\nPipet as accurately as possible:\n\nUse the correct pipet for the volume you intend to pipet and make sure it is set correctly (if uncertain, ask a demonstrator or member of staff)\nPipet down to the first stop when drawing up liquid into the pipet; pipet down to the second stop when expelling liquid.\nAvoid bubbles when pipetting.\nOnly insert the very tip of the pipet into the liquid when pipetting particularly viscous mixtures (e.g., polymerase or enzyme stocks).",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Good Laboratory Technique</span>"
@@ -144,7 +144,7 @@
     "href": "0aseptic.html#aseptic-technique",
     "title": "6  Aseptic Technique",
     "section": "",
-    "text": "Autoclaved items\n\n\n\nYou will be able to recognise that items such as tips or Eppendorf tubes have been autoclaved based on the use of autoclave tape on the containers for these items. Autoclave tape changes colour when subjected to high heat and pressure. It is essential that you use these sterilised items: do not take unsterilised pipet tips or microcentrifuge tubes from the shelves.\n\n\n\n\n\n\nFigure 6.1: The use of autoclave tape to show that the contents of a container have been sterilised (compared to unautoclaved tape, on the right). Image credit: Wikipedia\n\n\n\n\n\n\n\n\n\n\n\n\nTop Tip for Good Aseptic Technique\n\n\n\nYou should use good aseptic technique when working with all containers (including tip boxes, Eppendorf boxes, bottles of media, etc.), to prevent the contents from becoming contaminated.\nContainers should be opened for the minimum amount of time possible (the longer they are open, the greater the chance of contamination!) Close them promptly when you have removed the tip/sample.\nTip boxes should not be left open. If you leave the box open, microbes present in the air can easily contaminate the tips.\n You should therefore always: 1. Open tip box –&gt; 2. Take pipet tip –&gt; 3. Close tip box –&gt; 4. Use pipet tip\n\n\n\n6.1.1 Working with a Bunsen Burner\nIn order to keep your work sterile and free from contamination that could interfere with your experiments, you should work near a Bunsen burner set to a blue flame (Figure 6.2). The Bunsen creates an updraft of air, helping to maintain a “clean” zone around it. Having the Bunsen burner lit, but working several meters away from this clean zone, is ineffective and will likely result in contamination of your experiments.\n\n\n\n\n\n\nFigure 6.2: A Bunsen burner set to a blue flame. Image credit: Encyclopedia Britannica\n\n\n\nWhen working with a Bunsen burner, however, it is essential that you follow the following safety guidelines, for the safety of yourself and those working near you:\n\nTurn off your Bunsen burner (or set it to a visible orange flame) if you are not actively using it.\nNever walk away from your bench and leave a lit Bunsen burner unattended.\nNever wear gloves when working with a Bunsen burner.\n\n\n6.1.1.1 Using a platinum inoculating loop\nIn some cases you will need to use a platinum inoculating loop, e.g. to streak bacteria for single colonies on a new Petri plate.\nYou must make sure to sterilise your inoculating loop by flaming it (placing the platinum wire in the flame of your Bunsen burner to sterilise it). You should flame your loop both before touching it to a sample (this prevents the transfer of contaminants into your sample) and before putting it down when you have finished using it (so that you do not transfer microbes to the lab bench/other surfaces.\n\n\n\n\n\n\nImportant\n\n\n\nAn inoculating loop that has just been flamed is extremely hot - you should never allow a hot loop to touch your skin. You should also avoid touching a hot loop directly to your samples, as the heat will kill the microbes you are working with.\n\n\nThe procedure for flaming an inoculating loop is:\n\nPlace the loop in the flame of the Bunsen burner at an angle, so that the length of the loop lies along the surface between the inner and outer cones in the flame (the hottest part of the flame).\nHold the loop in the flame until the entirety of the loop turns cherry-red. It is not necessary to hold the loop there any longer than that: you are not trying to melt the metal!\nRemove the loop from the flame and allow it to cool, either by holding it in the air for several seconds (in the aseptic working zone near the Bunsen burner), or by touching it to a sterile surface (i.e. the inside of a culture tube or the agar in an uninoculated Petri dish.)\n\n\n\n\n6.1.2 Top tips for working with good aseptic technique:\n\nWork near a Bunsen burner set to a blue flame (Many students end up working miles away from their Bunsen, which is not very helpful.)\nOpen all containers (including tip boxes, Eppendorf boxes, bottles of media, etc.) for the minimum amount of time possible (the longer they are open, the greater the chance of contamination!) Close them promptly when you have removed the tip/sample. Tip boxes should not be left open.\nBe careful not to allow your pipet tips to come into contact with any non-sterile surfaces (i.e., your bench top, fingers, the lids or outsides of bottles).",
+    "text": "TipAutoclaved items\n\n\n\nYou will be able to recognise that items such as tips or Eppendorf tubes have been autoclaved based on the use of autoclave tape on the containers for these items. Autoclave tape changes colour when subjected to high heat and pressure. It is essential that you use these sterilised items: do not take unsterilised pipet tips or microcentrifuge tubes from the shelves.\n\n\n\n\n\n\nFigure 6.1: The use of autoclave tape to show that the contents of a container have been sterilised (compared to unautoclaved tape, on the right). Image credit: Wikipedia\n\n\n\n\n\n\n\n\n\n\n\n\nTipTop Tip for Good Aseptic Technique\n\n\n\nYou should use good aseptic technique when working with all containers (including tip boxes, Eppendorf boxes, bottles of media, etc.), to prevent the contents from becoming contaminated.\nContainers should be opened for the minimum amount of time possible (the longer they are open, the greater the chance of contamination!) Close them promptly when you have removed the tip/sample.\nTip boxes should not be left open. If you leave the box open, microbes present in the air can easily contaminate the tips.\n You should therefore always: 1. Open tip box –&gt; 2. Take pipet tip –&gt; 3. Close tip box –&gt; 4. Use pipet tip\n\n\n\n6.1.1 Working with a Bunsen Burner\nIn order to keep your work sterile and free from contamination that could interfere with your experiments, you should work near a Bunsen burner set to a blue flame (Figure 6.2). The Bunsen creates an updraft of air, helping to maintain a “clean” zone around it. Having the Bunsen burner lit, but working several meters away from this clean zone, is ineffective and will likely result in contamination of your experiments.\n\n\n\n\n\n\nFigure 6.2: A Bunsen burner set to a blue flame. Image credit: Encyclopedia Britannica\n\n\n\nWhen working with a Bunsen burner, however, it is essential that you follow the following safety guidelines, for the safety of yourself and those working near you:\n\nTurn off your Bunsen burner (or set it to a visible orange flame) if you are not actively using it.\nNever walk away from your bench and leave a lit Bunsen burner unattended.\nNever wear gloves when working with a Bunsen burner.\n\n\n6.1.1.1 Using a platinum inoculating loop\nIn some cases you will need to use a platinum inoculating loop, e.g. to streak bacteria for single colonies on a new Petri plate.\nYou must make sure to sterilise your inoculating loop by flaming it (placing the platinum wire in the flame of your Bunsen burner to sterilise it). You should flame your loop both before touching it to a sample (this prevents the transfer of contaminants into your sample) and before putting it down when you have finished using it (so that you do not transfer microbes to the lab bench/other surfaces.\n\n\n\n\n\n\nImportant\n\n\n\nAn inoculating loop that has just been flamed is extremely hot - you should never allow a hot loop to touch your skin. You should also avoid touching a hot loop directly to your samples, as the heat will kill the microbes you are working with.\n\n\nThe procedure for flaming an inoculating loop is:\n\nPlace the loop in the flame of the Bunsen burner at an angle, so that the length of the loop lies along the surface between the inner and outer cones in the flame (the hottest part of the flame).\nHold the loop in the flame until the entirety of the loop turns cherry-red. It is not necessary to hold the loop there any longer than that: you are not trying to melt the metal!\nRemove the loop from the flame and allow it to cool, either by holding it in the air for several seconds (in the aseptic working zone near the Bunsen burner), or by touching it to a sterile surface (i.e. the inside of a culture tube or the agar in an uninoculated Petri dish.)\n\n\n\n\n6.1.2 Top tips for working with good aseptic technique:\n\nWork near a Bunsen burner set to a blue flame (Many students end up working miles away from their Bunsen, which is not very helpful.)\nOpen all containers (including tip boxes, Eppendorf boxes, bottles of media, etc.) for the minimum amount of time possible (the longer they are open, the greater the chance of contamination!) Close them promptly when you have removed the tip/sample. Tip boxes should not be left open.\nBe careful not to allow your pipet tips to come into contact with any non-sterile surfaces (i.e., your bench top, fingers, the lids or outsides of bottles).",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Aseptic Technique</span>"
@@ -166,7 +166,7 @@
     "href": "0microscope.html#correct-use-of-a-microscope",
     "title": "7  Using a Microscope",
     "section": "",
-    "text": "Safety tip for working with microscopes\n\n\n\nPlease note that you should not wear gloves while working with a microscope: you do not want to inadvertently transfer staining reagents (or other chemicals) onto it.\n\n\n\n\nRaise the stage using the coarse focusing knob so that the slide is about 5 mm away from the objective.\nBring the slide into focus as best you can, first using the coarse focusing knob and then the fine focusing knob. You will be slowly lowering the stage so as to increase the distance between the slide and objective.\nOnce you have focussed as best you can using this objective, you should move on to the next highest power objective.\n\n\n\n\n\n\n\nFinding the focal plane\n\n\n\nOften the plane of focus is extremely narrow, so that small, faint objects like stained bacteria may be easily missed as the focus passes through the plane.\nThus, a good technique is to constantly move the focus up and down while also slowly moving the slide up/down or left/right on the stage. In this way, objects that flash in and out of focus tend to be more easily noticed by the eye.\n\n\n\n\nAdjust the “interocular separation” of the eyepieces so that they are comfortably aligned with your eyes.\nAdjust the lamp voltage at any time when using a microscope in order to get a comfortable level of light.\n\n\n7.1.1 Use of oil with the microscope:\n\nThe 100x objective is designed to be used with oil (it will have “oil” explicitly written on it), whereas the other objectives are not.\nNever use oil with any objective other than the 100x. Once you have added oil to your sample, never return to using a smaller magnification objective!\nOnly a very small amount of oil is needed, only add a tiny drop. Don’t flood the slide!\nWhen you have found your focus and optimised set-up with the 40x objective, swing the objectives half-way between the 40x and 100x. DO NOT move the stage or change the focus as you do this! Then gently add a very small drop of oil onto the spot of light you can see in your sample. Gently swing the 100x objective into place.\nYou will most likely have to adjust the focus a little, but only use the fine adjustment at this stage. Ask for help if you have trouble finding the focus. Under no circumstances go back to the 40x, as it does not tolerate getting in contact to the immersion oil.\nResidual oil will cling to the 100X objective after use, so make sure you clean it off with a lens tissue (specifically designed for this purpose) before putting the objective away. DO NOT use any other tissue to clean the lens.",
+    "text": "ImportantSafety tip for working with microscopes\n\n\n\nPlease note that you should not wear gloves while working with a microscope: you do not want to inadvertently transfer staining reagents (or other chemicals) onto it.\n\n\n\n\nRaise the stage using the coarse focusing knob so that the slide is about 5 mm away from the objective.\nBring the slide into focus as best you can, first using the coarse focusing knob and then the fine focusing knob. You will be slowly lowering the stage so as to increase the distance between the slide and objective.\nOnce you have focussed as best you can using this objective, you should move on to the next highest power objective.\n\n\n\n\n\n\n\nTipFinding the focal plane\n\n\n\nOften the plane of focus is extremely narrow, so that small, faint objects like stained bacteria may be easily missed as the focus passes through the plane.\nThus, a good technique is to constantly move the focus up and down while also slowly moving the slide up/down or left/right on the stage. In this way, objects that flash in and out of focus tend to be more easily noticed by the eye.\n\n\n\n\nAdjust the “interocular separation” of the eyepieces so that they are comfortably aligned with your eyes.\nAdjust the lamp voltage at any time when using a microscope in order to get a comfortable level of light.\n\n\n7.1.1 Use of oil with the microscope:\n\nThe 100x objective is designed to be used with oil (it will have “oil” explicitly written on it), whereas the other objectives are not.\nNever use oil with any objective other than the 100x. Once you have added oil to your sample, never return to using a smaller magnification objective!\nOnly a very small amount of oil is needed, only add a tiny drop. Don’t flood the slide!\nWhen you have found your focus and optimised set-up with the 40x objective, swing the objectives half-way between the 40x and 100x. DO NOT move the stage or change the focus as you do this! Then gently add a very small drop of oil onto the spot of light you can see in your sample. Gently swing the 100x objective into place.\nYou will most likely have to adjust the focus a little, but only use the fine adjustment at this stage. Ask for help if you have trouble finding the focus. Under no circumstances go back to the 40x, as it does not tolerate getting in contact to the immersion oil.\nResidual oil will cling to the 100X objective after use, so make sure you clean it off with a lens tissue (specifically designed for this purpose) before putting the objective away. DO NOT use any other tissue to clean the lens.",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Using a Microscope</span>"
@@ -177,7 +177,7 @@
     "href": "0counting.html",
     "title": "8  Serial Dilutions",
     "section": "",
-    "text": "It is often necessary or desirable to work backwards from the number of colonies on a plate, in order to work out the number of viable microbes that were present in the original (undiluted) sample. (Note that any microbes present in the sample that were dead, or viable-but-not-culturable, will not give rise to colonies on the plate - so you are enumerating the number of viable microbes, not the number of cells.)\nWe calculate and express the number of viable microbes in the original sample in colony forming units (cfu) - usually in cfu/mL.\nFor example, if you performed a decimal serial dilution, plated 0.1 mL of the 10-4 dilution, and counted 173 colonies on the resulting plate (Figure 8.1) - how many viable bacterial cells were present in the original culture?\n\n\n\n\n\n\nFigure 8.1: Examples of plating and counting colonies from a decimal serial dilution\n\n\n\nHere, we had 173 colonies in 0.1 mL of the dilution present in the 10-4 dilution tube.\nTo calculate the number of cfu/mL present in the original sample, divide the number of colonies on your plate by the total dilution factor: in this case, 173 colonies/(0.1 mL * 10-4) = 1.73 * 107 cfu/mL.\n\n\n\n\n\n\nTop tips for calculating cfu/mL\n\n\n\n\nMake sure you label your plates with the dilution factor - you will need this for the calculations!\nIdeally, you want to count colonies on a plate that has 30-300 colonies. We normally consider &lt;30 colonies to be Too Few To Count (TFTC) and more than 300 colonies to be Too Numerous To Count (TNTC). You will get more accurate estimates of your viable cell count if you use a countable plate.\nMake sure you use the correct number of significant figures in your answer - you can’t be more precise than your initial measurement (number of colonies counted).\nMake sure you express your answer in scientific notation (e.g., 1.73 * 107 cfu/mL, not 17300000) and include units.\nWhen you’ve finished your calculation, double-check that your answer makes sense! For example, you can’t have a fraction of a colony forming unit - so if your answer looks like 1.73 * 10-7 cfu/mL, you have probably gone awry with your handling of exponents somewhere.\n\n\n\n\n8.0.1 Using a haemocytometer",
+    "text": "It is often necessary or desirable to work backwards from the number of colonies on a plate, in order to work out the number of viable microbes that were present in the original (undiluted) sample. (Note that any microbes present in the sample that were dead, or viable-but-not-culturable, will not give rise to colonies on the plate - so you are enumerating the number of viable microbes, not the number of cells.)\nWe calculate and express the number of viable microbes in the original sample in colony forming units (cfu) - usually in cfu/mL.\nFor example, if you performed a decimal serial dilution, plated 0.1 mL of the 10-4 dilution, and counted 173 colonies on the resulting plate (Figure 8.1) - how many viable bacterial cells were present in the original culture?\n\n\n\n\n\n\nFigure 8.1: Examples of plating and counting colonies from a decimal serial dilution\n\n\n\nHere, we had 173 colonies in 0.1 mL of the dilution present in the 10-4 dilution tube.\nTo calculate the number of cfu/mL present in the original sample, divide the number of colonies on your plate by the total dilution factor: in this case, 173 colonies/(0.1 mL * 10-4) = 1.73 * 107 cfu/mL.\n\n\n\n\n\n\nTipTop tips for calculating cfu/mL\n\n\n\n\nMake sure you label your plates with the dilution factor - you will need this for the calculations!\nIdeally, you want to count colonies on a plate that has 30-300 colonies. We normally consider &lt;30 colonies to be Too Few To Count (TFTC) and more than 300 colonies to be Too Numerous To Count (TNTC). You will get more accurate estimates of your viable cell count if you use a countable plate.\nMake sure you use the correct number of significant figures in your answer - you can’t be more precise than your initial measurement (number of colonies counted).\nMake sure you express your answer in scientific notation (e.g., 1.73 * 107 cfu/mL, not 17300000) and include units.\nWhen you’ve finished your calculation, double-check that your answer makes sense! For example, you can’t have a fraction of a colony forming unit - so if your answer looks like 1.73 * 10-7 cfu/mL, you have probably gone awry with your handling of exponents somewhere.",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Enumerating Microbes</span>"
@@ -186,11 +186,11 @@
   {
     "objectID": "1section.html",
     "href": "1section.html",
-    "title": "Experiment 1 -",
+    "title": "Experiment 1",
     "section": "",
-    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 1.\n\nAims and Overview\nBackground: Axenic culture; Serial Dilutions; Plasmid DNA\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 1.\n\nAims and Overview\nBackground: Experiment 1 - Background; Streptomyces and Antibiotic Production; Bacterial Mutagenesis\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
     "crumbs": [
-      "Experiment 1 -"
+      "Experiment 1"
     ]
   },
   {
@@ -200,7 +200,7 @@
     "section": "",
     "text": "9.1 Aims",
     "crumbs": [
-      "Experiment 1 -",
+      "Experiment 1",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment 1 Aims and Overview</span>"
     ]
   },
@@ -211,7 +211,7 @@
     "section": "",
     "text": "To understand how exposure to mutagens can affect the ability of microorganisms to survive and produce antibiotics.",
     "crumbs": [
-      "Experiment 1 -",
+      "Experiment 1",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment 1 Aims and Overview</span>"
     ]
   },
@@ -222,7 +222,7 @@
     "section": "9.2 Learning Outcomes",
     "text": "9.2 Learning Outcomes\nAt the end of this experiment, you should understand:\n\nHow mutagenesis can affect the phenotype of an organism.\nThat caffeine is a potent mutagen.\nThat mutagens act in a dose-dependent manner.\nHow to analyse a mutagenesis data set.",
     "crumbs": [
-      "Experiment 1 -",
+      "Experiment 1",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment 1 Aims and Overview</span>"
     ]
   },
@@ -231,9 +231,9 @@
     "href": "1aims.html#competencies",
     "title": "9  Experiment 1 Aims and Overview",
     "section": "9.3 Competencies",
-    "text": "9.3 Competencies\n\nPerforming data analysis\nPerforming basic lab calculations, e.g. serial dilutions\nInterpreting phenotypic and genotypic data\nTeamwork\nKeeping detailed and accurate records",
+    "text": "9.3 Competencies\n\nGood laboratory practice (labelling, pipetting, aseptic technique)\nPerforming basic lab calculations, e.g. serial dilutions\nPerforming data analysis\nInterpreting phenotypic and genotypic data\nTeamwork\nKeeping detailed and accurate records",
     "crumbs": [
-      "Experiment 1 -",
+      "Experiment 1",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment 1 Aims and Overview</span>"
     ]
   },
@@ -244,7 +244,7 @@
     "section": "9.4 Importance",
     "text": "9.4 Importance\nThis practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: bacterial genetics, mutagenesis, establishing kill kinetics in sterilisation processes, the induction of DNA damage by mutagens in industrial microbiology and strain improvement.\nMutagens like caffeine and UV damage DNA and, at high enough doses, are lethal. Caffeine and UV have long been used as potent, effective mutagens by bacterial geneticists: UV causes the formation of pyrimidine-pyrimidine dimers, and inhibits excision-repair mechanisms for DNA. If left unrepaired pyrimidine-pyrimidine dimers lead to DNA replication errors (mutations). Caffeine and UV are relatively non-site specific mutagens, and can be used to introduce mutations randomly throughout a genome. These mutations may cause different phenotypic changes in the bacteria being studied, depending on the location and nature of the mutation.",
     "crumbs": [
-      "Experiment 1 -",
+      "Experiment 1",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment 1 Aims and Overview</span>"
     ]
   },
@@ -253,218 +253,284 @@
     "href": "1aims.html#overview-of-experiment-1",
     "title": "9  Experiment 1 Aims and Overview",
     "section": "9.5 Overview of Experiment 1",
-    "text": "9.5 Overview of Experiment 1\nYou will perform Protocol 1.1 in the Week 2 lab and collect your data the following session (Week 4). Perform the data analysis tasks (Task 1A and Task 1B) using your own data/the class data or the sample data available on MyPlace.",
+    "text": "9.5 Overview of Experiment 1\nYou will perform Protocol 1.1 in the Week 2 lab and collect your data the following session (Week 4). Perform the data analysis tasks (Task 1A and Task 1B) using your own data/the class data or the sample data available on MyPlace.\n\nBefore attending the practical lab, you should ensure that you have read and understood:\n\nThe introductory sections covering Good Lab Practice and Aseptic Technique\nThe introductory sections covering the aim and rationale underpinning this experiment, the theory on Streptomyces and Antibiotic Production, and Bacterial Mutagenesis\nThe Protocols we will be following in the lab\n\nYou also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.",
     "crumbs": [
-      "Experiment 1 -",
+      "Experiment 1",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment 1 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "1intro1.html",
     "href": "1intro1.html",
-    "title": "10  Experiment 1 - Intro",
+    "title": "10  Experiment 1 - Background",
     "section": "",
-    "text": "You have isolated a mutant strain of Streptomyces coelicolor A3(2) that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. However, the Streptomyces species only produces small amounts of the antibiotic.\nIn order to study this antibiotic further, you carry out a UV mutagenesis experiment, and screen for mutants that produce more antibiotic.\nYour task is to determine the most effective dose of UV radiation to use for isolating mutants (Data Analysis Task 1A). You will then analyse the phenotypes of mutants isolated at this dose (Data Analysis Task 1B).\nThe genomes of several mutant strains have been sequenced and examined for mutations that might cause antibiotic production. Your final task in this lab is to examine the mutant allele sequences, and identify the amino acid change(s) compared to the wild-type sequence (Workshop 1).",
+    "text": "10.1 Experiment 1 - Background\nWe have isolated a mutant strain of Streptomyces coelicolor A3(2) that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. However, the Streptomyces strain only produces small amounts of the antibiotic.\nIn order to study this antibiotic further, you will carry out a UV mutagenesis experiment, and screen for mutants that produce more antibiotic (?sec-protocols1).\nYour task is to determine the most effective dose of UV radiation to use for isolating mutants (Section 14.1). You will then analyse the phenotypes of mutants isolated at this dose (Section 14.1.1).\nWe have selected a number of candidate genes that might be involved in regulating antibiotic production, and sequenced these genes in a set of mutant strains. Your final task for this experiment is to examine the potentially mutant allele sequences, and identify any amino acid change(s) compared to the wild-type sequence (Workshop 1).",
     "crumbs": [
-      "Experiment 1 -",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Experiment 1 - Intro</span>"
+      "Experiment 1",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Experiment 1 - Background</span>"
+    ]
+  },
+  {
+    "objectID": "1intro2.html",
+    "href": "1intro2.html",
+    "title": "11  Streptomyces and Antibiotic Production",
+    "section": "",
+    "text": "11.1 Streptomyces - Introduction\nThe growing antimicrobial resistance (AMR) crisis is estimated to cause or contribute to a large number of deaths annually (e.g., 1.27 million deaths in 2019 as a direct consequence of bacterial AMR1).\nOne part of the scientific efforts to tackle this growing crisis includes the search for novel antibiotics.\nMany of the antibiotics in current use are produced by bacteria: in particular, by actinobacteria, including Streptomyces.\nMost strains of Streptomyces that have been identified or sequenced contain relatively large number of biosynthetic gene clusters (BGCs) in their genome (for example, Streptomyces coelicolor A3(2) has &gt;20 such BGCs).\nWhile some of these BGCs have been linked to specific molecules (e.g., for S. coelicolor A3(2), antibiotics such as the (usually) blue-pigmented actinorhodin and the red-pigmented undecylprodigiosin, and other small molecules such as siderophores or signalling molecules) - many of these BGCs are not expressed under known growth conditions, and the molecules produced remain elusive.",
+    "crumbs": [
+      "Experiment 1",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Streptomyces and Antibiotic Production</span>"
+    ]
+  },
+  {
+    "objectID": "1intro2.html#sec-intro2",
+    "href": "1intro2.html#sec-intro2",
+    "title": "11  Streptomyces and Antibiotic Production",
+    "section": "",
+    "text": "Callout-microbeStreptomyces\n\n\n\nStreptomyces are Gram-positive, filamentous, actinobacteria that are commonly found in the soil and many other environments.\nThese bacteria typically have large, linear chromosomes with a high GC content (usually &gt;70%). They also have a unique, complex developmental life cycle. However, they are probably best known for their prolific production of antibiotics and other pharmaceutically useful compounds (e.g., anti-cancer drugs, immunosuppressants).\n\n\n\n\n\nWhat approaches do you think could be used to discover new antibiotics from Streptomyces or other bacteria? What experiments would you do?",
+    "crumbs": [
+      "Experiment 1",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Streptomyces and Antibiotic Production</span>"
+    ]
+  },
+  {
+    "objectID": "1intro2.html#footnotes",
+    "href": "1intro2.html#footnotes",
+    "title": "11  Streptomyces and Antibiotic Production",
+    "section": "",
+    "text": "Antimicrobial Resistance Collaborators. Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis. Lancet. 2022;399(10325):629-655. doi:10.1016/S0140-6736(21)02724-0↩︎",
+    "crumbs": [
+      "Experiment 1",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Streptomyces and Antibiotic Production</span>"
+    ]
+  },
+  {
+    "objectID": "1intro3.html",
+    "href": "1intro3.html",
+    "title": "12  Bacterial Mutagenesis",
+    "section": "",
+    "text": "12.1 Bacterial Mutagenesis - Introduction\nMutagenesis is the process by which the genetic material of an organism is changed, resulting in changes (mutations) from the original (“wild-type”) genetic sequence. In bacteria, mutagenesis is widely used as a tool to generate genetic diversity, study gene function, and create strains with desirable traits (e.g., improved growth characteristics in bioreactors/industrial fermentations, resistance to environmental stresses, or enhanced production of compounds such as antibiotics).\nResearchers often apply mutagenic treatments to large populations of bacterial cells, then screen or select for mutants showing altered phenotypes. Two of the most commonly used methods are UV mutagenesis and chemical mutagenesis, which produce random, untargeted mutations throughout the genome.\nUV mutagenesis exposes bacterial cultures to ultraviolet (UV) light, typically UV-C (around 254 nm), which induces the formation of pyrimidine dimers in DNA. These lesions can lead to errors during DNA replication, generating mutations.\nChemical mutagenesis uses chemicals that interact with DNA to cause base substitutions, insertions, or deletions. Common agents include alkylating compounds such as ethyl methanesulfonate (EMS) or nitrosoguanidine (NTG), which modify DNA bases and increase replication errors. Chemical mutagens can produce a high density of random mutations throughout the genome, creating a broad pool of genetic variants. However, each particular chemical mutagen will have a specific signature (the type of mutation that it causes, based on its chemical structure and mode of action - for example, EMS alkylates guanine residues, resulting in G:C to A:T transition mutations.)\nTransposon (Tn) mutagenesis, by contrast, introduces mutations by inserting a mobile genetic element (transposon) into random sites in the genome. Because the sequence of the transposon is known, the exact location of the mutation can be easily identified afterwards using techniques such as inverse PCR or sequencing across the transposon–genome junction. This makes Tn mutagenesis especially powerful because it can be used to rapidly link genotype to phenotype (whereas UV and chemical mutagenesis often require additional mapping steps to locate the relevant mutation).\n:::\nRandom mutagenesis (UV, chemical, or Tn-based) can reveal new genetic variants that would not arise under natural mutation rates or that would not be discovered using targeted (site-directed) mutagenesis approaches, making it a powerful approach for basic research and applied biotechnology.",
+    "crumbs": [
+      "Experiment 1",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Bacterial Mutagenesis</span>"
+    ]
+  },
+  {
+    "objectID": "1intro3.html#sec-intro3",
+    "href": "1intro3.html#sec-intro3",
+    "title": "12  Bacterial Mutagenesis",
+    "section": "",
+    "text": "ImportantUV mutagenesis - dose\n\n\n\nBecause UV light is lethal at high doses, it is important to experimentally determine the correct dose of UV that should be administered to a particular bacterial species or strain during a UV mutagenesis experiment. If the dose is too high, all of the bacteria in the sample will be killed; however, if it is too low, there will be a large number of unmutated bacteria still present, and it becomes tedious to screen through all of these for the desired phenotype. Therefore, UV treatments are usually calibrated by determining a “kill curve” that leaves only a small fraction of surviving, potentially mutated cells.\n\n\n\n\n\n\n\n\nWhy does the UV dose (“kill curve”) need to be determined experimentally for each particular bacterial species or strain?\nWhen carrying out a bacterial mutagenesis experiment, would you prefer to screen or select for a phenotype of interest? Why?\nHow can we determine if there is a causal link between a particular mutation and a phenotype of interest?",
+    "crumbs": [
+      "Experiment 1",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Bacterial Mutagenesis</span>"
     ]
   },
   {
     "objectID": "1protocols.html",
     "href": "1protocols.html",
-    "title": "11  Experiment 1 Protocols",
+    "title": "13  Experiment 1 Protocols",
     "section": "",
-    "text": "Lab 1: Caffeine Mutagenesis of Streptomyces Protocol (Week 2)\nMaterials required (per pair of students)\n• Bunsen burner • Frozen spore suspension of Streptomyces in 20% Glycerol (2 mL per student) • Sterile distilled water in 9 ml aliquots in universal bottles (for dilutions) (29 per student [4 series of 7 dilutions + 1 for initial dilution of spores]) • Nutrient agar plates (8 plates per student) • Disposable plastic spreaders (4 per student) • Sterile microfuge tubes • 1 ml pipettes and tips • 30°C incubator room • Marker pen to write on microfuge tubes and plates • 10 mg/mL caffeine solution (1 mL per student)\nProtocol 1.1\nAll steps should be carried out aseptically. Where directed to mix well, close the microfuge tube and invert it 5-6 times to mix.\n\nPipet 0.5 mL of the spore suspension into a microfuge tube. Add 0.5 mL sterile distilled water. Mix well. This is your control (label the tube, “0 CAFF”).\n\nPrepare your experimental (+CAFF) treatments as follows: a. Pipet 0.5 mL of the spore suspension into a microfuge tube. Add 0.5 mL 10 mg/mL caffeine. Mix well. Label the tube, “5 mg/mL CAFF”. b. Pipet 0.5 mL of the spore suspension in to a microfuge tube. Add 0.25 mL 10 mg/mL caffeine and 0.25 mL distilled water. Mix well. Label the tube, “2.5 mg/mL CAFF”. c. Pipet 0.5 mL of the spore suspension into a microfuge tube. Add 0.125 mL 10 mg/mL caffeine and 0.375 mL distilled water. Mix well. Label the tube, “1.25 mg/mL CAFF”.\nIncubate your +CAFF treatments on the benchtop for 10 minutes. While you wait, label your tubes and plates as described for steps 2 and 3. (See the Note on Labelling Technique, p. 7.) 2. Dilute the control and + CAFF spore suspensions using the 9 mL aliquots of sterile distilled water.\n\nTo do this, first label your tubes (10-1 through 10-7 for both the control and + CAFF samples. (You should have 28 tubes in total.))\nTake the 1 ml of the spore suspension, and add this to 9 ml of sterile distilled water in the 10-1 tube, and mix well.\nUsing a new pipet tip, remove 1 ml from the 10-1 tube and add this to 9 mL of sterile distilled water in the 10-2 tube, and mix well.\nRepeat steps b and c until you reach the 10-7 dilution.\nAt this point you should have four dilution series (0 CAFF, 1.25 CAFF, 2.5 CAFF, and 5 CAFF, with 7 tubes each) of Streptomyces spores ready for plating onto agar plates.\n\n\nLabel agar plates with your initials and the date and along with the following:\n\n\n0 CAFF, 10-6\n0 CAFF, 10-7\n1.25 mg/mL CAFF, 10-6\n1.25 mg/mL CAFF, 10-7\n2.5 mg/mL CAFF, 10-6\n2.5 mg/mL CAFF, 10-7\n5 mg/mL CAFF, 10-6\n5 mg/mL CAFF, 10-7\n\n\nAseptically add 0.1 ml of the corresponding dilution to your labelled agar plate and spread across the surface using a plastic disposable spreader. (Plate the 10-7 dilution first, and then use the same spreader to plate the 10-6 dilution, to minimize the amount of plastic waste. Use a new spreader for the control and for each of the different + CAFF treatments.)\nAllow the plates dry for 10 minutes, invert and then place in boxes for incubation at 30°C for 3 days.\n\nProtocol 1.2 - In the next laboratory session (Week 4)\n\nRemove plates from the incubation boxes and count the plate dilutions that have between 30 and 300 colonies per plate. Do this for all samples.\nCompare the colonies obtained on the 10-7 plates for the untreated plates and those on the equivalent dilutions of +CAFF plates. Can you identify over-producing mutants of the pigmented antibiotic Actinorhodin (Blue) or undecylprodigiosin (Red)?\nEnter your data in Table 1.1 and upload your data to MyPlace to share with the class.\nUsing the class data, work out the mean CFU survival for each caffeine concentration.\n\n\nUsing these data, plot a caffeine concentration versus survival graph (x-axis = caffeine concentration; y-axis = CFU/ml). Determine which caffeine concentration gives 99% killing.",
+    "text": "You can view the protocols for experiment 1 below, or download it here.\nDownload PDF file.",
     "crumbs": [
-      "Experiment 1 -",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Experiment 1 Protocols</span>"
+      "Experiment 1",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Experiment 1 Protocols</span>"
     ]
   },
   {
     "objectID": "1data.html",
     "href": "1data.html",
-    "title": "12  Experiment 1 - Data Analysis",
+    "title": "14  Experiment 1 - Data Analysis",
     "section": "",
-    "text": "12.1 Task 1A\nUsing the data, work out the percentage survival of spores following irradiation or caffeine treatment. Establish the time-point that gives &gt;99% spore killing. (x-axis = time; y-axis = percentage spore survival). Un-irradiated spores will be 100%",
+    "text": "14.1 Task 1A\nThe data shows you three plates for each time point, starting at T=0 (un-irradiated spores) and then the number of colonies present on the plates after the time indicated, and the dilution of the spores to obtain that count. The times are T = 0 (un-irradiated spores); 30 seconds (0.5 min) UV treatment; 1 min UV treatment; 2 min UV treatment; 4 min UV treatment; 8 min UV treatment and 16 UV treatment. Each plate contains 1 ml of spores.\nUsing the data, work out the percentage survival of spores following irradiation or caffeine treatment. Establish the time-point that gives &gt;99% spore killing. (x-axis = time; y-axis = percentage spore survival). Un-irradiated spores will be 100%",
     "crumbs": [
-      "Experiment 1 -",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Experiment 1 - Data Analysis</span>"
+      "Experiment 1",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 1 - Data Analysis</span>"
     ]
   },
   {
     "objectID": "1data.html#sec-1Adata",
     "href": "1data.html#sec-1Adata",
-    "title": "12  Experiment 1 - Data Analysis",
+    "title": "14  Experiment 1 - Data Analysis",
     "section": "",
-    "text": "You will be provided with a set of data from the UV mutagenesis experiment (available on MyPlace). The data shows you three plates for each time point, starting at T=0 (un-irradiated spores) and then the number of colonies present on the plates after the time indicated, and the dilution of the spores to obtain that count. The times are T = 0 (un-irradiated spores); 30 seconds (0.5 min) UV treatment; 1 min UV treatment; 2 min UV treatment; 4 min UV treatment; 8 min UV treatment and 16 UV treatment. Each plate contains 1 ml of spores.\nYou should make the following calculations:\n\n\nUsing the triplicate counts for each time point, work out the mean CFU survival following UV irradiation or caffeine treatment of the spores for each time point.\nUsing these data plot a UV dose versus survival graph of your data (x-axis = time; y-axis = CFU/ml).\n\n\n\n12.1.1 Task 1B - Analyse mutant phenotypes\n\nCompare the colonies obtained on the irradiated plates with those on the equivalent dilutions of irradiated plates (data available on MyPlace).\nCarefully record your data (observations) in an appropriate format.\nCan you identify over-producing mutants of the pigmented antibiotic Actinorhodin (Blue) or undecylprodigiosin (Red)? Do the colonies look different after UV mutagenesis?\nWe have already selected a number of mutants for further analysis – but which mutants would you have selected (and why)?\n\nCompare the two mutagens (UV and caffeine). Which is more effective in terms of killing (TASK 1A)? in terms of generating mutants with the desired phenotypes (TASK 1B)?\n\nWe had selected a number of candidate genes (known to affect antibiotic biosynthesis in S. coelicolor), and sequenced these genes in the mutagenized strains. Our hypothesis: mutation(s) in these genes causes the mutant strains to produce more antibiotic.\nWhat conclusions can you draw based on your data? Do your data support your hypothesis?\nWhich strains would you select for further analysis?\nWhat experiments would you like to do to characterize these mutant strains?\nWhat are the advantages and disadvantages of using UV mutagenesis? Caffeine mutagenesis?",
+    "text": "You will be provided with a set of data from the UV mutagenesis experiment (available on MyPlace).\n\n\n\nYou should make the following calculations:\n\n\nUsing the triplicate counts for each time point, work out the mean CFU survival following UV irradiation or caffeine treatment of the spores for each time point.\nUsing these data plot a UV dose versus survival graph of your data (x-axis = time; y-axis = CFU/ml).\n\n\n\n14.1.1 Task 1B - Analyse mutant phenotypes\n\nCompare the colonies obtained on the irradiated plates with those on the equivalent dilutions of unirradiated plates (data available on MyPlace).\nCarefully record your data (observations) in an appropriate format.\nCan you identify over-producing mutants of the pigmented antibiotic Actinorhodin (Blue) or undecylprodigiosin (Red)? Do the colonies look different after UV mutagenesis?\nWe have already selected a number of mutants for further analysis – but which mutants would you have selected (and why)?\n\n\n\n\n\n\n\nCallout-discussionExperiment 1 - discussion questions\n\n\n\n\nCompare the two mutagens we used (UV and caffeine). Which is more effective in terms of killing (Section 14.1)? in terms of generating mutants with the desired phenotypes (Section 14.1.1)?\nWhich colonies would you select for further analysis?\nWhat experiments would you like to do to characterize these mutant strains?\nWhat are the advantages and disadvantages of using UV mutagenesis? Caffeine mutagenesis?",
     "crumbs": [
-      "Experiment 1 -",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Experiment 1 - Data Analysis</span>"
-    ]
-  },
-  {
-    "objectID": "1data.html#sec-1Bdata",
-    "href": "1data.html#sec-1Bdata",
-    "title": "12  Experiment 1 - Data Analysis",
-    "section": "12.2 Task 1B -",
-    "text": "12.2 Task 1B -\nYou should annotate your gel (label the DNA ladder and wells with their sample names), as for example in Figure 12.1.\n\n\n\n\n\n\nFigure 12.1: Example of an annotated gel.\n\n\n\nYou can find the product information sheet for the DNA ladder which we used in this lab, including the size of each band, on the manufacturer’s website.\n\nQuestions to consider/discuss with your lab partners:",
-    "crumbs": [
-      "Experiment 1 -",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Experiment 1 - Data Analysis</span>"
+      "Experiment 1",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 1 - Data Analysis</span>"
     ]
   },
   {
     "objectID": "1further.html",
     "href": "1further.html",
-    "title": "13  Additional Resources/Further Reading for Experiment 1",
+    "title": "15  Additional Resources/Suggested Further Reading for Experiment 1",
     "section": "",
-    "text": "13.1 Microbiology Society “Techniques” videos\nThese videos illustrate many of the techniques used in this lab, you may find it helpful to watch them to prepare for the lab (or as review afterwards)",
+    "text": "15.1 Streptomyces",
     "crumbs": [
-      "Experiment 1 -",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Additional Resources/Further Reading for Experiment 1</span>"
+      "Experiment 1",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Additional Resources/Suggested Further Reading for Experiment 1</span>"
     ]
   },
   {
-    "objectID": "1further.html#microbiology-society-techniques-videos",
-    "href": "1further.html#microbiology-society-techniques-videos",
-    "title": "13  Additional Resources/Further Reading for Experiment 1",
+    "objectID": "1further.html#streptomyces",
+    "href": "1further.html#streptomyces",
+    "title": "15  Additional Resources/Suggested Further Reading for Experiment 1",
     "section": "",
-    "text": "Transferring agar to a Petri dish\nUsing a sterile inoculating loop\nMaking a Streak Plate\nSerial Dilution\nUsing a Pipette and Spreader",
+    "text": "Bentley SD, Chater KF, Cerdeño-Tárraga AM, et al. Complete genome sequence of the model actinomycete Streptomyces coelicolor A3(2). Nature. 2002;417(6885):141-147. doi:10.1038/417141a\nHoskisson PA, van Wezel GP. Streptomyces coelicolor. Trends Microbiol. 2019;27(5):468-469. doi:10.1016/j.tim.2018.12.008\nChallis GL. Exploitation of the Streptomyces coelicolor A3(2) genome sequence for discovery of new natural products and biosynthetic pathways. J Ind Microbiol Biotechnol. 2014;41(2):219-232. doi:10.1007/s10295-013-1383-2\nSchlimpert S, Elliot MA. The Best of Both Worlds-Streptomyces coelicolor and Streptomyces venezuelae as Model Species for Studying Antibiotic Production and Bacterial Multicellular Development. J Bacteriol. 2023;205(7):e0015323. doi:10.1128/jb.00153-23",
     "crumbs": [
-      "Experiment 1 -",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Additional Resources/Further Reading for Experiment 1</span>"
+      "Experiment 1",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Additional Resources/Suggested Further Reading for Experiment 1</span>"
     ]
   },
   {
-    "objectID": "1further.html#streak-plates",
-    "href": "1further.html#streak-plates",
-    "title": "13  Additional Resources/Further Reading for Experiment 1",
-    "section": "13.2 Streak Plates",
-    "text": "13.2 Streak Plates\n\nThe Streak Plate Protocol (American Society for Microbiology): Some good historical background and a detailed protocol",
+    "objectID": "1further.html#bacterial-mutagenesis",
+    "href": "1further.html#bacterial-mutagenesis",
+    "title": "15  Additional Resources/Suggested Further Reading for Experiment 1",
+    "section": "15.2 Bacterial mutagenesis",
+    "text": "15.2 Bacterial mutagenesis\n\nNolan LM, Webber MA, Filloux A. Throwing a spotlight on genomic dark matter: The power and potential of transposon-insertion sequencing. J Biol Chem. 2025;301(6):110231. doi:10.1016/j.jbc.2025.110231\nBanaś AK, Zgłobicki P, Kowalska E, Bażant A, Dziga D, Strzałka W. All You Need Is Light. Photorepair of UV-Induced Pyrimidine Dimers. Genes (Basel). 2020;11(11):1304. Published 2020 Nov 4. doi:10.3390/genes11111304\nCronan JE. Approaches to Study Proteins Encoded by Essential Genes. Proteins. Published online August 15, 2025. doi:10.1002/prot.70039\nShuman HA, Silhavy TJ. The art and design of genetic screens: Escherichia coli. Nat Rev Genet. 2003;4(6):419-431. doi:10.1038/nrg1087\nCraney A, Ahmed S, Nodwell J. Towards a new science of secondary metabolism. J Antibiot (Tokyo). 2013;66(7):387-400. doi:10.1038/ja.2013.25\nBennett JA, Kandell GV, Kirk SG, McCormick JR. Visual and Microscopic Evaluation of Streptomyces Developmental Mutants. J Vis Exp. 2018;(139):57373. Published 2018 Sep 12. doi:10.3791/57373\nEvelyn Witkin (Rutgers): The SOS Response in Bacteria (iBiology Science Stories)\nBiology Simulations: Mutation (simulation of a bacterial mutagenesis lab)",
     "crumbs": [
-      "Experiment 1 -",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Additional Resources/Further Reading for Experiment 1</span>"
-    ]
-  },
-  {
-    "objectID": "1further.html#bacterial-plasmids",
-    "href": "1further.html#bacterial-plasmids",
-    "title": "13  Additional Resources/Further Reading for Experiment 1",
-    "section": "13.3 Bacterial Plasmids",
-    "text": "13.3 Bacterial Plasmids\n\nAddgene: Plasmids 101: helpful introduction to the basics of plasmid biology",
-    "crumbs": [
-      "Experiment 1 -",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Additional Resources/Further Reading for Experiment 1</span>"
+      "Experiment 1",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Additional Resources/Suggested Further Reading for Experiment 1</span>"
     ]
   },
   {
     "objectID": "2section.html",
     "href": "2section.html",
-    "title": "Experiment 2 -",
+    "title": "Experiment 2",
     "section": "",
     "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 2.\n\nAims and Overview\nBackground: Axenic culture;\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
     "crumbs": [
-      "Experiment 2 -"
+      "Experiment 2"
     ]
   },
   {
     "objectID": "2aims.html",
     "href": "2aims.html",
-    "title": "14  Experiment 2 Aims and Overview",
+    "title": "16  Experiment 2 Aims and Overview",
     "section": "",
-    "text": "15 Experiment 2: Determination of minimum inhibitory concentration (MIC), minimum bacteriocidal concentration (MBC) and bacterial susceptibility to antibiotics",
+    "text": "17 Experiment 2: Determination of minimum inhibitory concentration (MIC), minimum bacteriocidal concentration (MBC) and bacterial susceptibility to antibiotics",
     "crumbs": [
-      "Experiment 2 -",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
+      "Experiment 2",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "2aims.html#aims",
     "href": "2aims.html#aims",
-    "title": "14  Experiment 2 Aims and Overview",
-    "section": "15.1 Aims",
-    "text": "15.1 Aims\n\nTo understand how the susceptibility of bacteria to certain antibiotics is determined.",
+    "title": "16  Experiment 2 Aims and Overview",
+    "section": "17.1 Aims",
+    "text": "17.1 Aims\n\nTo understand how the susceptibility of bacteria to certain antibiotics is determined.",
     "crumbs": [
-      "Experiment 2 -",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
+      "Experiment 2",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "2aims.html#learning-outcomes",
     "href": "2aims.html#learning-outcomes",
-    "title": "14  Experiment 2 Aims and Overview",
-    "section": "15.2 Learning Outcomes",
-    "text": "15.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nHow the susceptibility of bacteria to certain antibiotics is determined.\nHow to design an experiment to determine the MIC of an antibacterial agent.\nHow to be able to calculate MIC and MBC.",
+    "title": "16  Experiment 2 Aims and Overview",
+    "section": "17.2 Learning Outcomes",
+    "text": "17.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nHow the susceptibility of bacteria to certain antibiotics is determined.\nHow to design an experiment to determine the MIC of an antibacterial agent.\nHow to be able to calculate MIC and MBC.",
     "crumbs": [
-      "Experiment 2 -",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
+      "Experiment 2",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "2aims.html#competencies",
     "href": "2aims.html#competencies",
-    "title": "14  Experiment 2 Aims and Overview",
-    "section": "15.3 Competencies",
-    "text": "15.3 Competencies\n\nPerforming data analysis\nCalculating antibiotic MBC and MIC values\nTeamwork\nKeeping detailed and accurate records",
+    "title": "16  Experiment 2 Aims and Overview",
+    "section": "17.3 Competencies",
+    "text": "17.3 Competencies\n\nGood laboratory practice (aseptic technique, pipetting, spreading plates)\nExperimentally determining antibiotic MBC and MIC values\nTeamwork\nKeeping detailed and accurate records\nPerforming data analysis",
     "crumbs": [
-      "Experiment 2 -",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
+      "Experiment 2",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "2aims.html#importance",
     "href": "2aims.html#importance",
-    "title": "14  Experiment 2 Aims and Overview",
-    "section": "15.4 Importance",
-    "text": "15.4 Importance\nThis practical aligns with the BM330 lecture “Killing Microorganisms” by Dr. Arnaud Javelle and with lectures in BM329 Biomedical Microbiology, and reinforces material relating to: biomedical microbiology, antibiotic use, antibiotic resistance, clinical assessment of antibiotic resistance, mechanisms of resistance, use of antimicrobials.\nMinimum inhibitory concentrations (MICs) are defined as the lowest concentration of antimicrobial that will inhibit the visible growth of a micro-organism after overnight incubation. MICs are used by diagnostic laboratories, mainly to confirm resistance, but most often as a research tool to determine the in-vitro activity of new antimicrobials. Minimum bacteriocidal concentration (MBC) indicates the lowest concentration of antimicrobial that causes cell death and is often different to MIC. The Kirby-Bauer Disk-Diffusion Method is used to assess the susceptibility of a bacterial strain to a variety of antibiotics. A lawn of the test organism is spread on an agar plate and 3-4 antibiotic-containing paper discs are placed on it. After incubation, zones of inhibition appear around each zone and the diameter of each zone indicates if the test organism is resistant or susceptible to a specific antibiotic.",
+    "title": "16  Experiment 2 Aims and Overview",
+    "section": "17.4 Importance",
+    "text": "17.4 Importance\nThis practical aligns with the BM330 lecture “Killing Microorganisms” by Dr. Arnaud Javelle and with lectures in BM329 Biomedical Microbiology, and reinforces material relating to: biomedical microbiology, antibiotic use, antibiotic resistance, clinical assessment of antibiotic resistance, mechanisms of resistance, use of antimicrobials.\nMinimum inhibitory concentrations (MICs) are defined as the lowest concentration of antimicrobial that will inhibit the visible growth of a micro-organism after overnight incubation. MICs are used by diagnostic laboratories, mainly to confirm resistance, but most often as a research tool to determine the in-vitro activity of new antimicrobials. Minimum bacteriocidal concentration (MBC) indicates the lowest concentration of antimicrobial that causes cell death and is often different to MIC. The Kirby-Bauer Disk-Diffusion Method is used to assess the susceptibility of a bacterial strain to a variety of antibiotics. A lawn of the test organism is spread on an agar plate and 3-4 antibiotic-containing paper discs are placed on it. After incubation, zones of inhibition appear around each zone and the diameter of each zone indicates if the test organism is resistant or susceptible to a specific antibiotic.",
     "crumbs": [
-      "Experiment 2 -",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
+      "Experiment 2",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "2aims.html#overview-of-experiment-2",
     "href": "2aims.html#overview-of-experiment-2",
-    "title": "14  Experiment 2 Aims and Overview",
-    "section": "15.5 Overview of Experiment 2",
-    "text": "15.5 Overview of Experiment 2\nYou will perform Protocols 2.1 and 2.4 in the Week 4 lab and collect your data in the following sessions (Weeks 6 & 8). Perform the data analysis tasks (Tasks 2A-C) using your own data or the sample data available on MyPlace.",
+    "title": "16  Experiment 2 Aims and Overview",
+    "section": "17.5 Overview of Experiment 2",
+    "text": "17.5 Overview of Experiment 2\nYou will perform Protocols 2.1 and 2.4 in the Week 4 lab and collect your data in the following sessions (Weeks 6 & 8). Perform the data analysis tasks (Tasks 2A-C) using your own data or the sample data available on MyPlace.",
     "crumbs": [
-      "Experiment 2 -",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
+      "Experiment 2",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "2intro1.html",
     "href": "2intro1.html",
-    "title": "15  Experiment 2 - Intro",
+    "title": "17  Experiment 2 - Intro",
     "section": "",
-    "text": "You have isolated a species of Streptomyces that produces a novel antibiotic “X” that can kill Escherichia coli and other Gram-negative bacteria. In the previous lab, you isolated mutant strains that may produce higher levels of antibiotic.\nIn order to determine whether these strains do, in fact, produce increased amounts of antibiotic, you will examine bioassay data for the wild-type and mutant strains (Data Analysis Task 2A). Then, you will determine the MIC and MBC for the purified antibiotic against E. coli and compare the efficiency of the antibiotic “X” with other known antibiotics (Tasks A & B, Data Analysis Task 2B).\nFinally, you are interested in determining the mechanism of action of this novel antibiotic. To do so, you want to isolate a mutant strain of E. coli that is resistant to the antibiotic “X”. Your final task is to measure the MIC and MBC of the antibiotic for these mutant strain and compare to the data obtained for your wild-type strain (Data Analysis Task 2C).",
+    "text": "You have isolated a strain of Streptomyces coelicolor A3(2) that produces a novel antibiotic “X” that can kill Escherichia coli and other Gram-negative bacteria. In the previous lab, you isolated mutant strains that may produce higher levels of antibiotic.\nIn order to determine whether these strains do, in fact, produce increased amounts of antibiotic, you will examine bioassay data for the wild-type and mutant strains (Section 19.1). Then, you will determine the MIC and MBC for the purified antibiotic against E. coli and compare the efficiency of the antibiotic “X” with other known antibiotics (Section 19.2).\nFinally, you are interested in determining the mechanism of action of this novel antibiotic. To do so, you want to isolate a mutant strain of E. coli that is resistant to the antibiotic “X”. Your final task is to measure the MIC and MBC of the antibiotic for these mutant strain and compare to the data obtained for your wild-type strain (Section 19.3).",
     "crumbs": [
-      "Experiment 2 -",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Experiment 2 - Intro</span>"
+      "Experiment 2",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Experiment 2 - Intro</span>"
     ]
   },
   {
     "objectID": "2protocols.html",
     "href": "2protocols.html",
-    "title": "16  Experiment 2 Protocols",
+    "title": "18  Experiment 2 Protocols",
     "section": "",
-    "text": "You can view the handout for lab 1 below, or download it here.\nDownload PDF file.",
+    "text": "You can view the protocols for experiment 2 below, or download it here.\nDownload PDF file.",
     "crumbs": [
-      "Experiment 2 -",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Experiment 2 Protocols</span>"
+      "Experiment 2",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Experiment 2 Protocols</span>"
     ]
   },
   {
     "objectID": "2data.html",
     "href": "2data.html",
-    "title": "17  Experiment 2 - Data Analysis",
+    "title": "19  Experiment 2 - Data Analysis",
     "section": "",
-    "text": "You have 2 sets of data to analyse for Experiment 2:  Streptomyces bioassay data (available for you on MyPlace)  You will use these data in TASK 2A.  Your own MIC and MBC data for Antibiotic X (Table 2.1 and Table 2.2) (back-up data available on MyPlace)  MIC/MBC data for antibiotic X against mutant E. coli strains\nTASK 2A. Analyse Streptomyces bioassay data. 1. You will be provided with a set of data (pictures of bioassays) posted on MyPlace. 2. Note the zone of inhibition around the Streptomyces and carefully record your data (observations). 3. What conclusions can you draw about the mutant strains? 4. Which further experiments might you perform to prove that the mutated strain produces more antibiotic “X” than its parent wild-type strain?\nTASK 2B. Determine the MIC and MBC for the purified antibiotic 1. You should have a set of your own data, but there are backup data available on MyPlace in case you need them: a. Broth Tube Dilution Method b. Pictures of plates for the MBC determination c. Pictures of Kirby-Bauer disk diffusion plate to evaluate antibiotic efficiency. a. For the MIC data, determine the lowest concentration of antibiotic that inhibits growth (measured by turbidity in the culture tube). This corresponds to the MIC of the antibiotic X for this strain of E. coli. You will need to calculate the final concentration of “X” in each tube! b. For the MBC data, determine the lowest concentration of antibiotic that causes cell death (measured by plates where no growth is observable). This corresponds to the MBC of the antibiotic X for this strain of E. coli. c. For each Kirby-Bauer disk diffusion plate, measure the diameter of the zone of growth inhibition around each disk to the nearest whole mm.\nTASK 2C. Determine the MIC and MBC for the purified antibiotic against mutant E. coli strains\n\nWe have used transposon mutagenesis to isolate some mutant E. coli strains that may be more resistant to Antibiotic X. You will be provided with a set of data posted on MyPlace.\nPerform the same steps as outlined in Task 2B, for this set of data.\n\nDISCUSSION QUESTIONS.\nWe hypothesized that we could use UV mutagenesis to isolate mutants of S. coelicolor that produce more antibiotic, and transposon mutagenesis to isolate mutants of E. coli that are antibiotic-resistant. Do our data support these hypotheses? (Why/why not?)\nWe used transposon mutagenesis to isolate some mutant strains of E. coli that may be more resistant to Antibiotic X. How does this method work?\nAre there other approaches we could have used (apart from transposon mutagenesis)? What are their advantages/disadvantages?\nWhat conclusions can you draw based upon the experiments performed in this lab?\nWhat further experiments might you do (and why?)",
+    "text": "19.1 TASK 2A. Analyse Streptomyces bioassay data\nYou have 2 sets of data to analyse for Experiment 2: * Streptomyces bioassay data (available for you on MyPlace) * You will use these data in TASK 2A. * Your own MIC and MBC data for Antibiotic X (Table 2.1 and Table 2.2) (back-up data available on MyPlace) * MIC/MBC data for antibiotic X against mutant E. coli strains",
     "crumbs": [
-      "Experiment 2 -",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Experiment 2 - Data Analysis</span>"
+      "Experiment 2",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 2 - Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "2data.html#sec-task2A",
+    "href": "2data.html#sec-task2A",
+    "title": "19  Experiment 2 - Data Analysis",
+    "section": "",
+    "text": "You will be provided with a set of data (pictures of bioassays) posted on MyPlace.\nNote the zone of inhibition around the Streptomyces and carefully record your data (observations).\nWhat conclusions can you draw about the mutant strains?\nWhich further experiments might you perform to prove that the mutated strain produces more antibiotic “X” than its parent wild-type strain?",
+    "crumbs": [
+      "Experiment 2",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 2 - Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "2data.html#sec-task2B",
+    "href": "2data.html#sec-task2B",
+    "title": "19  Experiment 2 - Data Analysis",
+    "section": "19.2 TASK 2B. Determine the MIC and MBC for the purified antibiotic",
+    "text": "19.2 TASK 2B. Determine the MIC and MBC for the purified antibiotic\n\nYou should have a set of your own data, but there are backup data available on MyPlace in case you need them:\n\n\nBroth Tube Dilution Method\nPictures of plates for the MBC determination\nPictures of Kirby-Bauer disk diffusion plate to evaluate antibiotic efficiency.\nFor the MIC data, determine the lowest concentration of antibiotic that inhibits growth (measured by turbidity in the culture tube). This corresponds to the MIC of the antibiotic X for this strain of E. coli. You will need to calculate the final concentration of “X” in each tube!\nFor the MBC data, determine the lowest concentration of antibiotic that causes cell death (measured by plates where no growth is observable). This corresponds to the MBC of the antibiotic X for this strain of E. coli.\nFor each Kirby-Bauer disk diffusion plate, measure the diameter of the zone of growth inhibition around each disk to the nearest whole mm.",
+    "crumbs": [
+      "Experiment 2",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 2 - Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "2data.html#sec-task2C",
+    "href": "2data.html#sec-task2C",
+    "title": "19  Experiment 2 - Data Analysis",
+    "section": "19.3 TASK 2C. Determine the MIC and MBC for the purified antibiotic against mutant E. coli strains",
+    "text": "19.3 TASK 2C. Determine the MIC and MBC for the purified antibiotic against mutant E. coli strains\n\nWe have used transposon mutagenesis to isolate some mutant E. coli strains that may be more resistant to Antibiotic X. You will be provided with a set of data posted on MyPlace.\nPerform the same steps as outlined in Task 2B, for this set of data.\n\n\n\n\n\n\n\nCallout-discussionExperiment 2 - Discussion questions\n\n\n\n\nWe hypothesized that we could use UV mutagenesis to isolate mutants of S. coelicolor that produce more antibiotic, and transposon mutagenesis to isolate mutants of E. coli that are antibiotic-resistant. Do our data support these hypotheses? (Why/why not?)\nWe used transposon mutagenesis to isolate some mutant strains of E. coli that may be more resistant to Antibiotic X. How does this method work?\nAre there other approaches we could have used (apart from transposon mutagenesis)? What are their advantages/disadvantages?\nWhat conclusions can you draw based upon the experiments we performed?\n\n\n\nWhat further experiments might you do (and why?)",
+    "crumbs": [
+      "Experiment 2",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 2 - Data Analysis</span>"
     ]
   },
   {
@@ -480,100 +546,111 @@
   {
     "objectID": "3aims.html",
     "href": "3aims.html",
-    "title": "19  Experiment 3 Aims and Overview",
+    "title": "21  Experiment 3 Aims and Overview",
     "section": "",
-    "text": "19.1 Aims",
+    "text": "21.1 Aims",
     "crumbs": [
       "Experiment 3 -",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "3aims.html#aims",
     "href": "3aims.html#aims",
-    "title": "19  Experiment 3 Aims and Overview",
+    "title": "21  Experiment 3 Aims and Overview",
     "section": "",
     "text": "To understand how genetic elements are transferred between bacteria.",
     "crumbs": [
       "Experiment 3 -",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "3aims.html#learning-outcomes",
     "href": "3aims.html#learning-outcomes",
-    "title": "19  Experiment 3 Aims and Overview",
-    "section": "19.2 Learning Outcomes",
-    "text": "19.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nThat horizontal gene transfer (HGT) can occur between two strains of bacteria\nThat HGT can affect the phenotype of an organism\nThat plasmid transfer occurs in a specific order\nHow to analyse the results of a conjugative transfer experiment",
+    "title": "21  Experiment 3 Aims and Overview",
+    "section": "21.2 Learning Outcomes",
+    "text": "21.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nThat horizontal gene transfer (HGT) can occur between two strains of bacteria\nThat HGT can affect the phenotype of an organism\nThat plasmid transfer occurs in a specific order\nHow to analyse the results of a conjugative transfer experiment",
     "crumbs": [
       "Experiment 3 -",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "3aims.html#competencies",
     "href": "3aims.html#competencies",
-    "title": "19  Experiment 3 Aims and Overview",
-    "section": "19.3 Competencies",
-    "text": "19.3 Competencies\n\nPerforming data analysis\nUsing online databases\nTeamwork\nKeeping detailed and accurate records",
+    "title": "21  Experiment 3 Aims and Overview",
+    "section": "21.3 Competencies",
+    "text": "21.3 Competencies\n\nGood laboratory practice (aseptic technique, pipetting, labelling, spreading plates)\nPerforming data analysis (mapping loci on a bacterial chromosome)\nUsing online databases\nTeamwork\nKeeping detailed and accurate records",
     "crumbs": [
       "Experiment 3 -",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "3aims.html#importance",
     "href": "3aims.html#importance",
-    "title": "19  Experiment 3 Aims and Overview",
-    "section": "19.4 Importance",
-    "text": "19.4 Importance\nThis practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: horizontal gene transfer, bacterial genetics.\nIsolation of a new antibiotic from Streptomyces coelicolor: Mapping mutations that confer antibiotic resistance\nYou have isolated a species of Streptomyces that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. In the previous lab, you isolated E. coli strains that are resistant to this particular antibiotic.\nIn order to identify the mutation(s) that give rise to the antibiotic resistance phenotype, you will physically map the location of the mutations using interrupted mating. You will first analyse the data from the interrupted mating experiment (Task 3A), and then form a hypothesis about the location of the antibiotic-resistance mutation (Task 3B).",
+    "title": "21  Experiment 3 Aims and Overview",
+    "section": "21.4 Importance",
+    "text": "21.4 Importance\nThis practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: horizontal gene transfer, bacterial genetics.",
     "crumbs": [
       "Experiment 3 -",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "3aims.html#isolation-of-a-new-antibiotic-from-streptomyces-coelicolor-mapping-mutations-that-confer-antibiotic-resistance",
+    "href": "3aims.html#isolation-of-a-new-antibiotic-from-streptomyces-coelicolor-mapping-mutations-that-confer-antibiotic-resistance",
+    "title": "21  Experiment 3 Aims and Overview",
+    "section": "21.5 Isolation of a new antibiotic from Streptomyces coelicolor: Mapping mutations that confer antibiotic resistance",
+    "text": "21.5 Isolation of a new antibiotic from Streptomyces coelicolor: Mapping mutations that confer antibiotic resistance\nYou have isolated a strain of Streptomyces coelicolor A3(2) that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. In the previous lab, you isolated E. coli strains that are resistant to this particular antibiotic.\nIn order to identify the mutation(s) that give rise to the antibiotic resistance phenotype, you will physically map the location of the mutations using interrupted mating. You will first analyse the data from the interrupted mating experiment (?sec-task3A), and then form a hypothesis about the location of the antibiotic-resistance mutation (?sec-task3B).",
+    "crumbs": [
+      "Experiment 3 -",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "3aims.html#overview-of-experiment-3",
     "href": "3aims.html#overview-of-experiment-3",
-    "title": "19  Experiment 3 Aims and Overview",
-    "section": "19.5 Overview of Experiment 3",
-    "text": "19.5 Overview of Experiment 3\nYou will perform Protocol 3.1 in the Week 6 lab and collect your data the following session (Week 8). Perform the data analysis tasks (Task 3A and Task 3B) using your own data/the class data or the sample data available on MyPlace.",
+    "title": "21  Experiment 3 Aims and Overview",
+    "section": "21.6 Overview of Experiment 3",
+    "text": "21.6 Overview of Experiment 3\nYou will perform Protocol 3.1 in the Week 6 lab and collect your data the following session (Week 8). Perform the data analysis tasks (Task 3A and Task 3B) using your own data/the class data or the sample data available on MyPlace.",
     "crumbs": [
       "Experiment 3 -",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Experiment 3 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "3intro1.html",
     "href": "3intro1.html",
-    "title": "20  Experiment 3 - Intro",
+    "title": "22  Experiment 3 - Intro",
     "section": "",
     "text": "In this practical we will be using the unidirectional exchange of genes between strains of the gut bacterium Escherichia coli, in order to map the location of the mutations isolated in the previous lab. You will be provided with an Hfr donor strain which is streptomycin sensitive and nalidixic acid resistant and which carries the sex factor F integrated into the bacterial chromosome. The Hfr donor strain carries the Tn5 insertion that confers resistance to your novel antibiotic.\nThe Hfr strain is prototrophic and grows on minimal media in the absence of the antibiotic streptomycin.\nThe second strain provided is a recipient strain F- ser- trp- his- cys-, naladixic acid sensitive and streptomycin resistant. The F- strain is auxotrophic and will only grow in the presence of supplements of serine, tryptophan, histidine and cysteine. The F- strain is sensitive to your novel antibiotic.\nWhen the Hfr and F- strains are mixed together, mating occurs and conjugation tubes are formed between strains. The presence of the F factor in the Hfr strain mobilises the bacterial chromosome and it is transferred down the conjugation tube into the F- strain. Thus gene transfer occurs in a unidirectional manner. In this practical we will be measuring the transfer of genes for serine, tryptophan, histidine and cysteine requirements, as well as the transfer of the Tn5s. Each individual Hfr strain transfers its genes in a specific orientation and we will be determining this order for the five genes.\nIf the mating mixtures are allowed to remain undisturbed a copy of the Hfr chromosome will eventually be transferred to the F- strain. However, if the mating figures are broken apart by physical agitation then only those genes transferred up to the time of agitation will be transferred to the F- strain. Thus, whether or not a gene has been transferred to the F- provides a measure of the order of transfer by the Hfr. If mating figures are broken at specific times, the frequency of each gene transferred provides a measure of the time of transfer. This is called an “interrupted mating experiment.”",
     "crumbs": [
       "Experiment 3 -",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Experiment 3 - Intro</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Experiment 3 - Intro</span>"
     ]
   },
   {
     "objectID": "3protocols.html",
     "href": "3protocols.html",
-    "title": "21  Experiment 3 Protocols",
+    "title": "23  Experiment 3 Protocols",
     "section": "",
-    "text": "You can view the handout for lab 3 below, or download it here.\nDownload PDF file.",
+    "text": "You can view the protocols for experiment 3 below, or download it here.\nDownload PDF file.",
     "crumbs": [
       "Experiment 3 -",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Experiment 3 Protocols</span>"
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Experiment 3 Protocols</span>"
     ]
   },
   {
     "objectID": "3data.html",
     "href": "3data.html",
-    "title": "22  Experiment 3 - Data Analysis",
+    "title": "24  Experiment 3 - Data Analysis",
     "section": "",
-    "text": " Plate counts from the interrupted mating experiment you performed in week 6 (your data; the plates you counted in week 8)  You will use these data in TASK 3A and 3B  Plate counts from a similar interrupted mating experiment that included the Tn mutant strains (available for you on MyPlace)  You will use these data in TASK 3A and 3B\nTASK 3A. Data analysis (interrupted mating).\n\nYou have colony counts from your own experiment (for the 4 auxotrophic markers) and have been provided with a set of data for the Tn insertions (available on MyPlace). Count the colonies on your plates/the images of the plates and record the data. Fill the table with the number of colonies that you have on each plate.\n\nTable 3.1 Colonies counted on the interrupted mating plates. TNTC = Too Numerous To Count; TFTC = Too Few To Count.\n\nUsing the data from the table above, draw a map of the E. coli chromosome, taking into account that it is circular and 100 minutes long.\nMap the location of each auxotrophic mutation as well as the tetracycline resistant mutation (Tn5).\nAnalyse the region of the chromosome you have identified using EcoCyc. Where on the chromosome do you think your mutation is? (answer in # of minutes) What gene(s) are present at that location?\n\nDISCUSSION QUESTIONS.\nWe used interrupted mating to map the location of the Tn5 insertions in your mutant E. coli strains (these Tn insertions are presumably responsible for making the strains resistant to your novel antibiotic). How well did this technique do at mapping the location of the transposons?\nAre there any other techniques you could use to identify the location of the Tn5 insertions?\nWhat conclusions can you draw based upon the experiments performed in this lab?\nWhat further experiments might you do (and why?)\nHow does your experiment relate to other observations of antibiotic resistance genes being transferred between bacteria by horizontal gene transfer?",
+    "text": "Plate counts from the interrupted mating experiment you performed in week 6 (your data; the plates you counted in week 8)  You will use these data in TASK 3A and 3B  Plate counts from a similar interrupted mating experiment that included the Tn mutant strains (available for you on MyPlace)  You will use these data in TASK 3A and 3B\n\nTASK 3A. Data analysis (interrupted mating).\n\nYou have colony counts from your own experiment (for the 4 auxotrophic markers) and have been provided with a set of data for the Tn insertions (available on MyPlace). Count the colonies on your plates/the images of the plates and record the data. Fill the table with the number of colonies that you have on each plate.\n\nTable 3.1 Colonies counted on the interrupted mating plates. TNTC = Too Numerous To Count; TFTC = Too Few To Count.\n\nUsing the data from the table above, draw a map of the E. coli chromosome, taking into account that it is circular and 100 minutes long.\nMap the location of each auxotrophic mutation as well as the tetracycline resistant mutation (Tn5).\nAnalyse the region of the chromosome you have identified using EcoCyc. Where on the chromosome do you think your mutation is? (answer in # of minutes) What gene(s) are present at that location?\n\n\n\n\n\n\n\nCallout-discussionExperiment 3 Discussion Questions\n\n\n\n\nWe used interrupted mating to map the location of the Tn5 insertions in your mutant E. coli strains (these Tn insertions are presumably responsible for making the strains resistant to your novel antibiotic). How well did this technique do at mapping the location of the transposons?\nAre there any other techniques you could use to identify the location of the Tn5 insertions?\nWhat conclusions can you draw based upon the experiments performed in this lab?\nWhat further experiments might you do (and why?)\nHow does your experiment relate to other observations of antibiotic resistance genes being transferred between bacteria by horizontal gene transfer?",
     "crumbs": [
       "Experiment 3 -",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Experiment 3 - Data Analysis</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Experiment 3 - Data Analysis</span>"
     ]
   },
   {
@@ -589,100 +666,100 @@
   {
     "objectID": "4aims.html",
     "href": "4aims.html",
-    "title": "24  Experiment 4 Aims and Overview",
+    "title": "26  Experiment 4 Aims and Overview",
     "section": "",
-    "text": "24.1 Aims",
+    "text": "26.1 Aims",
     "crumbs": [
       "Experiment 4 -",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "4aims.html#aims",
     "href": "4aims.html#aims",
-    "title": "24  Experiment 4 Aims and Overview",
+    "title": "26  Experiment 4 Aims and Overview",
     "section": "",
     "text": "To understand how mutagenesis can be used in the laboratory to understand the phenotype of a microorganism",
     "crumbs": [
       "Experiment 4 -",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "4aims.html#learning-outcomes",
     "href": "4aims.html#learning-outcomes",
-    "title": "24  Experiment 4 Aims and Overview",
-    "section": "24.2 Learning Outcomes",
-    "text": "24.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nHow transposon mutagenesis can affect the phenotype of an organism.\nHow to identify the insertion site of a transposon.\nHow to predict the effects of a transposon insertion.\nHow to correlate physical mapping data (interrupted mating) and sequencing data (plasmid rescue)",
+    "title": "26  Experiment 4 Aims and Overview",
+    "section": "26.2 Learning Outcomes",
+    "text": "26.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nHow transposon mutagenesis can affect the phenotype of an organism.\nHow to identify the insertion site of a transposon.\nHow to predict the effects of a transposon insertion.\nHow to correlate physical mapping data (interrupted mating) and sequencing data (plasmid rescue)",
     "crumbs": [
       "Experiment 4 -",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "4aims.html#competencies",
     "href": "4aims.html#competencies",
-    "title": "24  Experiment 4 Aims and Overview",
-    "section": "24.3 Competencies",
-    "text": "24.3 Competencies\n\nPerforming calculations\nPerforming data analysis\nFormulating hypotheses\nUsing databases\nTeamwork\nKeeping detailed and accurate records",
+    "title": "26  Experiment 4 Aims and Overview",
+    "section": "26.3 Competencies",
+    "text": "26.3 Competencies\n\nPerforming basic lab calculations\nGood laboratory practice (pipetting, labelling, handling DNA, gel electrophoresis)\nPerforming data analysis\nFormulating hypotheses\nTeamwork\nKeeping detailed and accurate records",
     "crumbs": [
       "Experiment 4 -",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "4aims.html#importance",
     "href": "4aims.html#importance",
-    "title": "24  Experiment 4 Aims and Overview",
-    "section": "24.4 Importance",
-    "text": "24.4 Importance\nThis practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: horizontal gene transfer, bacterial genetics.\nYou have isolated a species of Streptomyces that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. In the previous labs, you isolated E. coli strains that are resistant to this particular antibiotic and identified the location of these antibiotic resistance mutations on the chromosome using interrupted mating.\nIn order to identify the mutation(s) that give rise to the antibiotic resistance phenotype, you will use a plasmid rescue experiment to identify the insertion site of the Tn5 transposon in your mutant strain. You will map the plasmid by using restriction digest (Protocol 4.1 and Task 4A). You will then analyse DNA sequences derived from the plasmid (Task 4B) and generate a hypothesis as to why your mutant strain is resistant to the antibiotic (Task 4C).\nTo “rescue” the Tn5 from the chromosomes of your mutant strains, we digested chromosomal DNA with the restriction enzyme AflIII, then ligated this into a similarly-digested vector plasmid. We will now check the resulting plasmid by restriction digest: plasmids with insert should produce a band upon AflIII digestion; and we also know that the enzyme HindIII cuts within the Tn5 sequence.",
+    "title": "26  Experiment 4 Aims and Overview",
+    "section": "26.4 Importance",
+    "text": "26.4 Importance\nThis practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: horizontal gene transfer, bacterial genetics.\nYou have isolated a species of Streptomyces that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. In the previous labs, you isolated E. coli strains that are resistant to this particular antibiotic and identified the location of these antibiotic resistance mutations on the chromosome using interrupted mating.\nIn order to identify the mutation(s) that give rise to the antibiotic resistance phenotype, you will use a plasmid rescue experiment to identify the insertion site of the Tn5 transposon in your mutant strain. You will map the plasmid by using restriction digest (Protocol 4.1 and Task 4A). You will then analyse DNA sequences derived from the plasmid (Task 4B) and generate a hypothesis as to why your mutant strain is resistant to the antibiotic (Task 4C).\nTo “rescue” the Tn5 from the chromosomes of your mutant strains, we digested chromosomal DNA with the restriction enzyme AflIII, then ligated this into a similarly-digested vector plasmid. We will now check the resulting plasmid by restriction digest: plasmids with insert should produce a band upon AflIII digestion; and we also know that the enzyme HindIII cuts within the Tn5 sequence.",
     "crumbs": [
       "Experiment 4 -",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "4aims.html#overview-of-experiment-4",
     "href": "4aims.html#overview-of-experiment-4",
-    "title": "24  Experiment 4 Aims and Overview",
-    "section": "24.5 Overview of Experiment 4",
-    "text": "24.5 Overview of Experiment 4\nYou will perform Protocol 4.1 and 4.2 in the Week 8 lab and your data will be posted to MyPlace for you. Perform the data analysis tasks (Tasks 4A-C) using your agarose gel data/sequence data posted on MyPlace.",
+    "title": "26  Experiment 4 Aims and Overview",
+    "section": "26.5 Overview of Experiment 4",
+    "text": "26.5 Overview of Experiment 4\nYou will perform Protocol 4.1 and 4.2 in the Week 8 lab and your data will be posted to MyPlace for you. Perform the data analysis tasks (Tasks 4A-C) using your agarose gel data/sequence data posted on MyPlace.",
     "crumbs": [
       "Experiment 4 -",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Experiment 4 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "4intro1.html",
     "href": "4intro1.html",
-    "title": "25  Experiment 4 - Intro",
+    "title": "27  Experiment 4 - Intro",
     "section": "",
     "text": "A fundamental difficulty in biology lies in our ability to link genotype and phenotype: shown in this experiment as we link the known phenotype (antibiotic resistance) with the unknown mutation causing the phenotype (location of the Tn5 insertion).\nIn this lab we will be performing a “plasmid rescue” experiment to “rescue” the Tn5 inserted into the chromosome of the mutant strains. This technique uses restriction enzymes that randomly cut chromosomal DNA isolated from the mutant bacteria; this is then ligated into a vector, and E. coli DH5 cells are transformed with this ligation mixture. Transformed cells which carry the region of the chromosome carrying the Tn5 insertion, will be resistant to tetracycline. The plasmid containing this DNA is isolated from the transformants and Sanger sequencing used to identify the exact position of the Tn5 insertion.\nRestriction enzymes are invaluable tools in molecular microbiology. These enzymes make site-specific cuts in DNA (at positions termed restriction sites), and are a key part of the innate immune defences that bacteria use to protect themselves against incoming foreign DNA. Restriction enzymes have found a multitude of applications in molecular biology labs, including their use in cloning, digestion of DNA for Southern blotting, identification of nucleotide differences using restriction fragment length polymorphism (RFLP) analysis, etc. Being able to carry out a restriction digest of DNA, and analyse the results, is therefore a key skill for any microbiologist or molecular biologist.",
     "crumbs": [
       "Experiment 4 -",
-      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Experiment 4 - Intro</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Experiment 4 - Intro</span>"
     ]
   },
   {
     "objectID": "4protocols.html",
     "href": "4protocols.html",
-    "title": "26  Experiment 4 Protocols",
+    "title": "28  Experiment 4 Protocols",
     "section": "",
-    "text": "Selection of the correct buffer for restriction enzyme double digests\nAs with any enzyme, restriction enzymes’ activity depends on temperature, and salt concentration(s). In general, commercially available restriction enzymes are sold with an appropriate buffer for their usage. When digesting DNA with multiple restriction enzymes, it is important to select the optimal buffer that maximizes the activity of all the restriction enzymes being used (see Table 4.1) – if a suitable buffer cannot be identified, it may be necessary to carry out the digests sequentially.\nTable 4.1 Restriction enzyme activity in NEB buffers. Enzyme Buffer provided % activity in NEBuffer r1.1 % activity in NEBuffer r2.1 % activity in NEBuffer r3.1 % activity in rCutSmart AflIII NEBuffer r3.1 10 50 100 50 EcoRV-HF rCutSmart 25 100 100 100 HindIII-HF rCutSmart 10 100 10 100\nConsidering the information in Table 4.1, which are the optimal buffers to use for each of the following digests? Fill in Table 4.2 before coming to the practical.\nTable 4.2. Restriction enzyme buffer selection for double digests. Restriction enzymes Buffer AflIII-EcoRV\nAflIII-HindIII\nEcoRV-HindIII\nAflIII-EcoRV-HindIII\nConsidering the plasmid DNA sample that you have been provided, how much DNA will you need to add to your digest in order to add 1 g?\nInitial DNA concentration: _________ Volume to add: __________ Final DNA amount: __________\nYou can view the handout for lab 4 below, or download it here.\nDownload PDF file.",
+    "text": "You can view the protocols for experiment 4 below, or download it here.\nDownload PDF file.",
     "crumbs": [
       "Experiment 4 -",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Experiment 4 Protocols</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Experiment 4 Protocols</span>"
     ]
   },
   {
     "objectID": "4data.html",
     "href": "4data.html",
-    "title": "27  Experiment 4 - Data Analysis",
+    "title": "29  Experiment 4 - Data Analysis",
     "section": "",
     "text": "You have 2 sets of data to analyse for Experiment 4:  The images of the agarose gels you ran in the lab (available for you on MyPlace)  You will use these data in TASK 4A.  Sequence data from these plasmids (available for you on MyPlace)  You will use these data in workshop 3.\nTASK 4A. Plasmid rescue. 1. The data from the lab (your agarose gel pictures) will be made available for you on MyPlace. Download the image of your gel, and label the lanes correctly. 2. Use the DNA ladder to estimate the size of the bands from your restriction digests (either by eye, or by using the DNA ladder to generate a standard curve of DNA size vs. distance migrated). 3. Draw a map of the plasmid, including all known restriction sites and any other pertinent information (such as the location of the Tn5), keeping in mind that the plasmid is circular.\nDISCUSSION QUESTIONS. We used plasmid rescue followed by sequencing to identify the location of the Tn5 insertions in your mutant E. coli strains (these Tn insertions are presumably responsible for making the strains resistant to your novel antibiotic). How well did this technique do at mapping the location of the transposons?\nAre there any other techniques or methods you could use (instead of plasmid rescue and sequencing)?\nWhat conclusions can you draw based upon the experiments performed in this lab?\nWhat further experiments might you do (and why?)",
     "crumbs": [
       "Experiment 4 -",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Experiment 4 - Data Analysis</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Experiment 4 - Data Analysis</span>"
     ]
   },
   {
@@ -698,133 +775,100 @@
   {
     "objectID": "5aims.html",
     "href": "5aims.html",
-    "title": "29  Experiment 5 Aims and Overview",
+    "title": "31  Experiment 5 Aims and Overview",
     "section": "",
-    "text": "29.1 Aims",
+    "text": "31.1 Aims",
     "crumbs": [
       "Experiment 5 -",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "5aims.html#aims",
     "href": "5aims.html#aims",
-    "title": "29  Experiment 5 Aims and Overview",
+    "title": "31  Experiment 5 Aims and Overview",
     "section": "",
     "text": "To demonstrate the ability of some microorganisms to alter their cellular morphology in response to environmental stimuli.",
     "crumbs": [
       "Experiment 5 -",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "5aims.html#learning-outcomes",
     "href": "5aims.html#learning-outcomes",
-    "title": "29  Experiment 5 Aims and Overview",
-    "section": "29.2 Learning Outcomes",
-    "text": "29.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nHow to visualise cells using a light microscope\nHow to use ImageJ to process and analyse microscopy data.\nThe process of E. coli filamentation.\nThe process of Candida filamentation.",
+    "title": "31  Experiment 5 Aims and Overview",
+    "section": "31.2 Learning Outcomes",
+    "text": "31.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nHow to visualise cells using a light microscope\nHow to use ImageJ to process and analyse microscopy data.\nThe process of E. coli filamentation.\nThe process of Candida filamentation.",
     "crumbs": [
       "Experiment 5 -",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "5aims.html#competencies",
     "href": "5aims.html#competencies",
-    "title": "29  Experiment 5 Aims and Overview",
-    "section": "29.3 Competencies",
-    "text": "29.3 Competencies\n\nUsing appropriate software to visualize and analyze microscopy data\nData analysis\nData presentation\nTeamwork\nKeeping detailed and accurate records",
+    "title": "31  Experiment 5 Aims and Overview",
+    "section": "31.3 Competencies",
+    "text": "31.3 Competencies\n\nGood laboratory practice (microscopy)\nData analysis\nData presentation\nTeamwork\nKeeping detailed and accurate records",
     "crumbs": [
       "Experiment 5 -",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "5aims.html#importance",
     "href": "5aims.html#importance",
-    "title": "29  Experiment 5 Aims and Overview",
-    "section": "29.4 Importance",
-    "text": "29.4 Importance\nThis practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: bacterial morphology, killing bacteria, microbial growth kinetics.\nYou have isolated a species of Streptomyces that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. In the previous labs, you isolated resistant E. coli strains and generated a hypothesis about the mechanism of action of the antibiotic.\nIn order to further study the antibiotic mechanism of action, you will use microscopy to determine whether antibiotic X has any effect on an unrelated species (Candida albicans). You will set up cultures with varying concentrations of Antibiotic X and examine the phenotype of antibiotic-treated cells (Protocols 5.1 and 5.2). For comparison’s sake, we have provided you with micrographs of antibiotic X-treated E. coli cells (Task 5A). You will look at a time course of the response of wild-type E. coli to the antibiotic (Task 5B), and also, will analyse the phenotype of your mutant E. coli strain treated with the antibiotic (Task 5C).",
+    "title": "31  Experiment 5 Aims and Overview",
+    "section": "31.4 Importance",
+    "text": "31.4 Importance\nThis practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: bacterial morphology, killing bacteria, microbial growth kinetics.\nYou have isolated a species of Streptomyces that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. In the previous labs, you isolated resistant E. coli strains and generated a hypothesis about the mechanism of action of the antibiotic.\nIn order to further study the antibiotic mechanism of action, you will use microscopy to determine whether antibiotic X has any effect on an unrelated species (Candida albicans). You will set up cultures with varying concentrations of Antibiotic X and examine the phenotype of antibiotic-treated cells (Protocols 5.1 and 5.2). For comparison’s sake, we have provided you with micrographs of antibiotic X-treated E. coli cells (Task 5A). You will look at a time course of the response of wild-type E. coli to the antibiotic (Task 5B), and also, will analyse the phenotype of your mutant E. coli strain treated with the antibiotic (Task 5C).",
     "crumbs": [
       "Experiment 5 -",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "5aims.html#overview-of-experiment-5",
     "href": "5aims.html#overview-of-experiment-5",
-    "title": "29  Experiment 5 Aims and Overview",
-    "section": "29.5 Overview of Experiment 5",
-    "text": "29.5 Overview of Experiment 5\nYou will set up the cultures needed for this experiment in Week 8, and perform the experiment (protocol 5.2) in the following session (Week 10). You will compare/contrast the data you collect in this experiment with the data collected in a similar experiment performed on E. coli (posted on MyPlace for you) – Tasks 5A-C).",
+    "title": "31  Experiment 5 Aims and Overview",
+    "section": "31.5 Overview of Experiment 5",
+    "text": "31.5 Overview of Experiment 5\nYou will set up the cultures needed for this experiment in Week 8, and perform the experiment (protocol 5.2) in the following session (Week 10). You will compare/contrast the data you collect in this experiment with the data collected in a similar experiment performed on E. coli (posted on MyPlace for you) – Tasks 5A-C).",
     "crumbs": [
       "Experiment 5 -",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
     ]
   },
   {
     "objectID": "5intro1.html",
     "href": "5intro1.html",
-    "title": "30  Experiment 5 - Intro",
+    "title": "32  Experiment 5 - Intro",
     "section": "",
     "text": "Cell size and shape are key phenotypes in bacteria and fungi, important for survival in a variety of environments. Bacteria actively modify and adapt their cell size/shape in response to environmental cues including nutrient availability, to adapt to different environmental niches, or as part of developmental pathways. For fungi, the transition between yeast and hyphal growth is often associated with virulence. In order to monitor and understand these changes in cell size and shape, microbiologists use a variety of techniques, including basic light microscopy – using the same principles that allowed the first visualization of microbial cells.",
     "crumbs": [
       "Experiment 5 -",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Experiment 5 - Intro</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Experiment 5 - Intro</span>"
     ]
   },
   {
     "objectID": "5protocols.html",
     "href": "5protocols.html",
-    "title": "31  Experiment 5 Protocols",
+    "title": "33  Experiment 5 Protocols",
     "section": "",
-    "text": "You can view the handout for lab 5 below, or download it here.\nDownload PDF file.",
+    "text": "You can view the protocols for experiment 5 below, or download it here.\nDownload PDF file.",
     "crumbs": [
       "Experiment 5 -",
-      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Experiment 5 Protocols</span>"
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>Experiment 5 Protocols</span>"
     ]
   },
   {
     "objectID": "5data.html",
     "href": "5data.html",
-    "title": "32  Experiment 5 Data Analysis",
+    "title": "34  Experiment 5 Data Analysis",
     "section": "",
     "text": "In addition to the Candida experiment you performed in the lab, we have also grown E. coli cells (wild-type and antibiotic X-resistant) in the presence and absence of antibiotic X. You have 3 sets of data to analyse for Experiment 5:  antibiotic X-treated wild-type E. coli cells (TASK 5A)  a time course showing wild-type E. coli cells after antibiotic X treatment (TASK 5B) mutant (antibiotic-resistant) E. coli cells treated with antibiotic X (TASK 5C)\nTASK 5A-C. Microscopy of antibiotic-treated cells.\n\nYou have been provided with a set of data for each task (available on MyPlace).\nYou should also download the program ImageJ (instructions available on MyPlace).\nOpen each image in ImageJ.\nYou may wish to rotate or zoom to adjust the image.\nSet a scale bar.\nMeasure cell lengths in m.\nDetermine the best way to present your data. Are any statistical tests needed? How will you format and present any images?\nHow do these data compare with the data that you acquired in the lab?\n\nDISCUSSION QUESTIONS. We used microscopy to determine the effect of the unknown antibiotic “X” on Candida albicans and on Escherichia coli strains (both wild-type E. coli and an X-resistant strain). What conclusion(s) can you draw based on the results of this experiment?\nAre there any other techniques you could have used to determine the effect of antibiotic “X” on E. coli? on C. albicans?\nWhat conclusions can you draw based upon all of the experiments that you have performed (Labs 1-5)?\nWhat further experiments might you do (and why?)",
     "crumbs": [
       "Experiment 5 -",
-      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Experiment 5 Data Analysis</span>"
-    ]
-  },
-  {
-    "objectID": "workshop1.html",
-    "href": "workshop1.html",
-    "title": "BM327 microbiology S1 lab manual",
-    "section": "",
-    "text": "Aims\n• To understand how mutagens can cause changes in DNA • To understand the different types of mutations that can occur and predict the effects of mutations\nLearning Outcomes\nAt the end of this workshop, you should understand:\n• How to analyse a mutagenesis data set.\nCompetencies\n• Performing data analysis • Using online tools to analyse DNA and protein sequences • Interpreting genotypic data • Teamwork • Keeping detailed and accurate records\nIntroduction\nGenetic screens or selections are commonly used to identify genes involved in a particular process or pathway. A key skill for a biomedical researcher, therefore, is to be able to analyse and interpret the results from these experiments. In this workshop, you will look at the sequences from 4 candidate genes to determine whether there have been any changes to the nucleotide sequence of each gene. You will then analyse the sequence of any mutated gene(s) to determine what effect the mutation has on the protein(s) encoded by those genes.\nProtocol W1: Analyse mutant alleles.\n\nA number of mutants were selected, purified, and candidate genes sequenced to search for any potential mutations. You will be provided with this sequence data (available on MyPlace).\nFor each sequence of a gene from a mutated strain, determine the following:\n\n\nwhether the gene has been mutated\nthe amino acid change(s) that result from this mutation, if any\n\n\nPredict the effect(s) that these amino acid changes might have on the protein\nUpload your results to share with your classmates.",
-    "crumbs": [
-      "workshops.html",
-      "<span class='chapter-number'>34</span>  <span class='chapter-title'>workshop1.html</span>"
-    ]
-  },
-  {
-    "objectID": "workshop2.html",
-    "href": "workshop2.html",
-    "title": "BM327 microbiology S1 lab manual",
-    "section": "",
-    "text": "Aims\n• To understand the use of reporter genes in measuring gene expression • To understand that stresses affect bacterial gene expression\nLearning Outcomes\nAt the end of this workshop, you should understand:\n• The experimental design and the controls necessary for a -galactosidase assay • How to analyse data from a -galactosidase assay • How to effectively present data from a -galactosidase assay\nCompetencies\n• Performing data analysis • Interpreting phenotypic data • Keeping detailed and accurate records • Data presentation\nIntroduction\nReporter genes are widely used (in eukaryotic and microbial systems) as proxies to measure gene expression. They are generally rapid, convenient, and cheap, and they are adaptable to a range of different applications. A key skill for a biomedical researcher, therefore, is to be able to analyse and interpret the results from these experiments.\nIn this workshop, we will use the common reporter gene lacZ, which encodes a -galactosidase, fused to the promoters of several stress-responsive genes, to give us some insight into the mechanism of action of antibiotic X. As shown by Bianchi and Baneyx (see paper on MyPlace), antibiotics with different modes of actions (different targets) elicit different stress responses and therefore lead to the induction of different genes. We hypothesize that antibiotic X may target one of the fundamental cellular processes covered by these reporter genes.\n-galactosidase activity is commonly measured in Miller units. These activity assays make use of a colourimetric indicator compound (ONPG) which can be measured at 420 nm. However, the OD420 value alone is a poor measure of enzyme activity (which depends on the amount of cells and the reaction time). Therefore, we instead use Miller units, which give the change in A420/min/mL of cells/OD600. You can calculate Miller units using the following equation:\nMiller Units = 1000 x [(OD420 - 1.75 x OD550)] / (T x V x OD600) • OD420 (ONPG) and OD550 (cell debris) are read from the reaction mixture • OD600 reflects cell density in the washed cell suspension • T = time of the reaction in minutes. • V = volume of culture used in the assay in mLs\nProtocol W2: Analyse -galactosidase assay data.\n\nCalculate the # of Miller units for each of the samples (each well in the 96-well plate)\nCalculate the average # of Miller units, and the standard deviation, for each group of samples (e.g., for all of the P3rpoH::lacZ strain + antibiotic X samples…)\nDecide how you can best present these data and what conclusion(s) you can draw from your experiment • How do your data compare to the literature? • What conclusions (if any) can you draw about antibiotic X? • Any missing controls or additional experiments you would like to perform?",
-    "crumbs": [
-      "workshops.html",
-      "<span class='chapter-number'>35</span>  <span class='chapter-title'>workshop2.html</span>"
-    ]
-  },
-  {
-    "objectID": "workshop3.html",
-    "href": "workshop3.html",
-    "title": "BM327 microbiology S1 lab manual",
-    "section": "",
-    "text": "Aims\n• To understand how to identify the sites of transposon insertions and make predictions about how transposon insertions can affect gene function\nLearning Outcomes\nAt the end of this workshop, you should understand:\n• How to analyse transposon mutagenesis data.\nCompetencies\n• Performing data analysis • Using online tools to analyse DNA sequences • Teamwork • Keeping detailed and accurate records\nIntroduction\nTransposon mutagenesis is a very commonly used technique in microbiology and in the biological sciences more generally. A key skill for a biomedical researcher, therefore, is to be able to analyse and interpret the results from these experiments. In this workshop, you will look at the sequences obtained from a plasmid rescue experiment performed to determine the site of a transposon insertion. You will determine the disrupted gene/sequence, then predict the potential effect(s) that this transposon insertion might have in the context of your experiment.\nProtocol W3: Analyse transposon insertion sites.\n\nYou have been provided with a set of data with the sequencing results for your Tn5 insertions (available on MyPlace).\nUse EcoCyc or another sequence database to determine the site of the Tn5 insertions.\nCompare the result obtained in (2) with your data from last week: does the Tn5 insertion site (determined by arbitrary PCR and sequencing) agree with the mapping you did using interrupted mating? What might explain any differences?\n\nForm a hypothesis: why are these mutant strains resistant to the antibiotic? 1. Record the gene(s) disrupted by your Tn5 insertion (identified in Task 4B). 2. Use EcoCyc, PubMed, or other tools, to research the disrupted genes. 3. Why do you think the disruption of these genes gives rise to antibiotic resistance? Based on your data, what do you think is the mode of action of the antibiotic?",
-    "crumbs": [
-      "workshops.html",
-      "<span class='chapter-number'>36</span>  <span class='chapter-title'>workshop3.html</span>"
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Experiment 5 Data Analysis</span>"
     ]
   }
 ]
