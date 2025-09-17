@@ -2,6 +2,8 @@
 title: Experiment 1 - Data Analysis
 ---
 
+# Experiment 1 - Data Analysis {#sec-data1}
+
 ::: {.todo title="Experiment 1 - Data Analysis Tasks"}
 
 After completing all of the practical lab tasks for this experiment, you should analyse (@sec-1Adata and @sec-1Bdata):

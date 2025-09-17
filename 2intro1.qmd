@@ -1,9 +1,11 @@
 ---
- title: "Experiment 2 - Intro"
+ title: "Experiment 2 - Background"
  format: html
 ---
 
-You have isolated a strain of *Streptomyces coelicolor* A3(2) that produces a novel antibiotic “X” that can kill *Escherichia coli* and other Gram-negative bacteria. In the previous lab, you isolated mutant strains that may produce higher levels of antibiotic.
+## Experiment 1 - Background {#sec-intro2}
+
+We have isolated a strain of *Streptomyces coelicolor* A3(2) that produces a novel antibiotic “X” that can kill *Escherichia coli* and other Gram-negative bacteria. In the previous lab, you isolated mutant strains that may produce higher levels of antibiotic.
 
 In order to determine whether these strains do, in fact, produce increased amounts of antibiotic, you will examine bioassay data for the wild-type and mutant strains (@sec-task2A). Then, you will determine the MIC and MBC for the purified antibiotic against *E. coli* and compare the efficiency of the antibiotic “X” with other known antibiotics (@sec-task2B). 
 

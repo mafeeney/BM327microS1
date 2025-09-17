@@ -1,6 +1,7 @@
 ---
 title: "Experiment 2 Aims and Overview"
 ---
+
 # Experiment 2: Determination of minimum inhibitory concentration (MIC), minimum bacteriocidal concentration (MBC) and bacterial susceptibility to antibiotics
 
 ## Aims 
@@ -31,4 +32,4 @@ Minimum inhibitory concentrations (MICs) are defined as the lowest concentration
 
 ## Overview of Experiment 2
 
-You will perform Protocols 2.1 and 2.4 in the Week 4 lab and collect your data in the following sessions (Weeks 6 & 8). Perform the data analysis tasks (Tasks 2A-C) using your own data or the sample data available on MyPlace.
+You will perform Protocols 2.1 and 2.4 in the Week 4 lab and collect your data in the following sessions (Weeks 6 & 8). Perform the data analysis tasks (@sec-data2) using your own data or the sample data available on MyPlace.

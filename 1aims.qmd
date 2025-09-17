@@ -32,7 +32,7 @@ Mutagens like caffeine and UV damage DNA and, at high enough doses, are lethal. 
 
 ## Overview of Experiment 1
 
-You will perform Protocol 1.1 in the Week 2 lab and collect your data the following session (Week 4). Perform the data analysis tasks (Task 1A and Task 1B) using your own data/the class data or the sample data available on MyPlace.
+You will perform Protocol 1.1 in the Week 2 lab and collect your data the following session (Week 4). Perform the data analysis tasks (@sec-data1) using your own data/the class data or the sample data available on MyPlace.
 
 ::: {.todo title="To prepare for Lab 1"}
 

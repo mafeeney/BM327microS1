@@ -2,45 +2,50 @@
 title: Experiment 2 - Data Analysis
 ---
 
+# Experiment 2 - Data Analysis {#sec-data2}
+
 You have 2 sets of data to analyse for Experiment 2:
-*	Streptomyces bioassay data (available for you on MyPlace) * You will use these data in TASK 2A.
-*	Your own MIC and MBC data for Antibiotic X (Table 2.1 and Table 2.2) (back-up data available on MyPlace)
-*	MIC/MBC data for antibiotic X against mutant E. coli strains
+
+*	*Streptomyces* bioassay data (available for you on MyPlace) - you will use these data in @sec-task2A.
+
+*	Your own MIC and MBC data for Antibiotic X (or the class data available on MyPlace) - you will use these data in @sec-task2B and @sec-2C
+
+*	MIC/MBC data for antibiotic X against mutant *E. coli* strains 
 
 
-## TASK 2A. Analyse Streptomyces bioassay data {#sec-task2A}
+## TASK 2A. Analyse *Streptomyces* bioassay data {#sec-task2A}
 1.	You will be provided with a set of data (pictures of bioassays) posted on MyPlace.
-2.	Note the zone of inhibition around the Streptomyces and carefully record your data (observations).
+2.	Note the zone of inhibition around the *Streptomyces* and carefully record your data (observations).
 3.	What conclusions can you draw about the mutant strains?
 4.	Which further experiments might you perform to prove that the mutated strain produces more antibiotic “X” than its parent wild-type strain?
 
 ## TASK 2B. Determine the MIC and MBC for the purified antibiotic {#sec-task2B}
-1.	You should have a set of your own data, but there are backup data available on MyPlace in case you need them:
-a.	Broth Tube Dilution Method 
-b.	Pictures of plates for the MBC determination
-c.	Pictures of Kirby-Bauer disk diffusion plate to evaluate antibiotic efficiency. 
-a.	For the MIC data, determine the lowest concentration of antibiotic that inhibits growth (measured by turbidity in the culture tube). This corresponds to the MIC of the antibiotic X for this strain of E. coli. You will need to calculate the final concentration of “X” in each tube!
-b.	For the MBC data, determine the lowest concentration of antibiotic that causes cell death (measured by plates where no growth is observable). This corresponds to the MBC of the antibiotic X for this strain of E. coli.
-c.	For each Kirby-Bauer disk diffusion plate, measure the diameter of the zone of growth inhibition around each disk to the nearest whole mm. 
+
+1.	You should have a set of your own data, but there are backup data available on MyPlace in case you need them.
+
+*	For the MIC data, determine the lowest concentration of antibiotic that inhibits growth (measured by turbidity in the culture tube). This corresponds to the MIC of the antibiotic X for this strain of *E. coli*. You will need to calculate the final concentration of “X” in each tube!
+
+*	For the MBC data, determine the lowest concentration of antibiotic that causes cell death (measured by plates where no growth is observable). This corresponds to the MBC of the antibiotic X for this strain of *E. coli*.
+
+*	For each Kirby-Bauer disk diffusion plate, measure the diameter of the zone of growth inhibition around each disk to the nearest whole mm. 
 
 ## TASK 2C. Determine the MIC and MBC for the purified antibiotic against mutant *E. coli* strains {#sec-task2C}
 
 1.	We have used transposon mutagenesis to isolate some mutant *E. coli* strains that may be more resistant to Antibiotic X. You will be provided with a set of data posted on MyPlace.
+
 2.	Perform the same steps as outlined in Task 2B, for this set of data.
 
 ::: {.callout-discussion title="Experiment 2 - Discussion questions"}
-
-* We hypothesized that we could use UV mutagenesis to isolate mutants of *S. coelicolor* that produce more antibiotic, and transposon mutagenesis to isolate mutants of *E. coli* that are antibiotic-resistant. Do our data support these hypotheses? (Why/why not?)
 
 * We used transposon mutagenesis to isolate some mutant strains of *E. coli* that may be more resistant to Antibiotic X. How does this method work? 
 
 *	Are there other approaches we could have used (apart from transposon mutagenesis)? What are their advantages/disadvantages?
 
-
 * What conclusions can you draw based upon the experiments we performed?
+
+* What further experiments might you do (and why?)
 
 :::
 
 
-What further experiments might you do (and why?)
                
