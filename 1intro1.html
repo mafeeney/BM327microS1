@@ -74,6 +74,61 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
+div.callout-callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
+div.callout-callout-thumbs-up.callout {
+  border-left-color: #008000;
+}
+div.callout-callout-thumbs-up.callout-style-default > .callout-header {
+  background-color: rgba(0, 128, 0, 0.13);
+}
+div.callout-callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-callout-thumbs-up.callout-titled .callout-icon::before {
+  content: '👍';
+  background-image: none;
+}
+div.callout-callout-data.callout {
+  border-left-color: #32CD32;
+}
+div.callout-callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
+}
+div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
+  content: '📊';
+  background-image: none;
+}
+div.callout-callout-discussion.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-discussion.callout-style-default .callout-icon::before, div.callout-callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
+div.callout-callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
 div.callout-callout-questions.callout {
   border-left-color: yellow;
 }
@@ -85,15 +140,15 @@ div.callout-callout-questions.callout-style-default .callout-icon::before, div.c
   content: '🙋️';
   background-image: none;
 }
-div.callout-callout-microbe.callout {
-  border-left-color: #1E90FF;
+div.callout-callout-question.callout {
+  border-left-color: yellow;
 }
-div.callout-callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
+div.callout-callout-question.callout-style-default > .callout-header {
+  background-color: rgb(from yellow r g b / 13%);
 }
-div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
+div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
+  content: '🙋';
   background-image: none;
 }
 div.callout-callout-case-study.callout {
@@ -116,61 +171,6 @@ div.callout-callout-challenge.callout-style-default > .callout-header {
 div.callout-callout-challenge .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-callout-challenge.callout-style-default .callout-icon::before, div.callout-callout-challenge.callout-titled .callout-icon::before {
   content: '🧑‍🏫';
-  background-image: none;
-}
-div.callout-callout-todo.callout {
-  border-left-color: pink;
-}
-div.callout-callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
-}
-div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
-  background-image: none;
-}
-div.callout-callout-question.callout {
-  border-left-color: yellow;
-}
-div.callout-callout-question.callout-style-default > .callout-header {
-  background-color: rgb(from yellow r g b / 13%);
-}
-div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
-  content: '🙋';
-  background-image: none;
-}
-div.callout-callout-thumbs-up.callout {
-  border-left-color: #008000;
-}
-div.callout-callout-thumbs-up.callout-style-default > .callout-header {
-  background-color: rgba(0, 128, 0, 0.13);
-}
-div.callout-callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-callout-thumbs-up.callout-titled .callout-icon::before {
-  content: '👍';
-  background-image: none;
-}
-div.callout-callout-discussion.callout {
-  border-left-color: #BA55D3;
-}
-div.callout-callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
-}
-div.callout-callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-discussion.callout-style-default .callout-icon::before, div.callout-callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
-  background-image: none;
-}
-div.callout-callout-data.callout {
-  border-left-color: #32CD32;
-}
-div.callout-callout-data.callout-style-default > .callout-header {
-  background-color: rgba(50, 205, 50, 0.13);
-}
-div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
-  content: '📊';
   background-image: none;
 }
 </style>
@@ -364,7 +364,7 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2intro1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Experiment 2 - Intro</span></span></a>
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Experiment 2 - Background</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -550,7 +550,7 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
 <h2 data-number="10.1" class="anchored" data-anchor-id="sec-intro1"><span class="header-section-number">10.1</span> Experiment 1 - Background</h2>
 <p>We have isolated a mutant strain of <i>Streptomyces coelicolor</i> A3(2) that produces a novel antibiotic that can kill <i>Escherichia coli</i> and other Gram-negative bacteria. However, the <i>Streptomyces</i> strain only produces small amounts of the antibiotic.</p>
 <p>In order to study this antibiotic further, you will carry out a UV mutagenesis experiment, and screen for mutants that produce more antibiotic (<span class="quarto-unresolved-ref">?sec-protocols1</span>).</p>
-<p>Your task is to determine the most effective dose of UV radiation to use for isolating mutants (<a href="1data.html#sec-1Adata" class="quarto-xref"><span>Section 14.1</span></a>). You will then analyse the phenotypes of mutants isolated at this dose (<a href="1data.html#sec-1Bdata" class="quarto-xref"><span>Section 14.1.1</span></a>).</p>
+<p>Your task is to determine the most effective dose of UV radiation to use for isolating mutants (<a href="1data.html#sec-1Adata" class="quarto-xref"><span>Section 15.1</span></a>). You will then analyse the phenotypes of mutants isolated at this dose (<a href="1data.html#sec-1Bdata" class="quarto-xref"><span>Section 15.1.1</span></a>).</p>
 <p>We have selected a number of candidate genes that might be involved in regulating antibiotic production, and sequenced these genes in a set of mutant strains. Your final task for this experiment is to examine the potentially mutant allele sequences, and identify any amino acid change(s) compared to the wild-type sequence (Workshop 1).</p>
 
 

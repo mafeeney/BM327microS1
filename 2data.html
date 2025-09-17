@@ -74,15 +74,15 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-callout-data.callout {
-  border-left-color: #32CD32;
+div.callout-callout-case-study.callout {
+  border-left-color: #FFA500;
 }
-div.callout-callout-data.callout-style-default > .callout-header {
-  background-color: rgba(50, 205, 50, 0.13);
+div.callout-callout-case-study.callout-style-default > .callout-header {
+  background-color: rgba(255, 165, 0, 0.13);
 }
-div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
-  content: '📊';
+div.callout-callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-case-study.callout-style-default .callout-icon::before, div.callout-callout-case-study.callout-titled .callout-icon::before {
+  content: '🔍';
   background-image: none;
 }
 div.callout-callout-thumbs-up.callout {
@@ -96,59 +96,15 @@ div.callout-callout-thumbs-up.callout-style-default .callout-icon::before, div.c
   content: '👍';
   background-image: none;
 }
-div.callout-callout-case-study.callout {
-  border-left-color: #FFA500;
+div.callout-callout-challenge.callout {
+  border-left-color: aquamarine;
 }
-div.callout-callout-case-study.callout-style-default > .callout-header {
-  background-color: rgba(255, 165, 0, 0.13);
+div.callout-callout-challenge.callout-style-default > .callout-header {
+  background-color: rgb(from aquamarine r g b / 13%);
 }
-div.callout-callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-case-study.callout-style-default .callout-icon::before, div.callout-callout-case-study.callout-titled .callout-icon::before {
-  content: '🔍';
-  background-image: none;
-}
-div.callout-callout-microbe.callout {
-  border-left-color: #1E90FF;
-}
-div.callout-callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
-}
-div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
-  background-image: none;
-}
-div.callout-callout-question.callout {
-  border-left-color: yellow;
-}
-div.callout-callout-question.callout-style-default > .callout-header {
-  background-color: rgb(from yellow r g b / 13%);
-}
-div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
-  content: '🙋';
-  background-image: none;
-}
-div.callout-callout-discussion.callout {
-  border-left-color: #BA55D3;
-}
-div.callout-callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
-}
-div.callout-callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-discussion.callout-style-default .callout-icon::before, div.callout-callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
-  background-image: none;
-}
-div.callout-callout-todo.callout {
-  border-left-color: pink;
-}
-div.callout-callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
-}
-div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
+div.callout-callout-challenge .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-challenge.callout-style-default .callout-icon::before, div.callout-callout-challenge.callout-titled .callout-icon::before {
+  content: '🧑‍🏫';
   background-image: none;
 }
 div.callout-callout-questions.callout {
@@ -162,15 +118,59 @@ div.callout-callout-questions.callout-style-default .callout-icon::before, div.c
   content: '🙋️';
   background-image: none;
 }
-div.callout-callout-challenge.callout {
-  border-left-color: aquamarine;
+div.callout-callout-question.callout {
+  border-left-color: yellow;
 }
-div.callout-callout-challenge.callout-style-default > .callout-header {
-  background-color: rgb(from aquamarine r g b / 13%);
+div.callout-callout-question.callout-style-default > .callout-header {
+  background-color: rgb(from yellow r g b / 13%);
 }
-div.callout-callout-challenge .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-challenge.callout-style-default .callout-icon::before, div.callout-callout-challenge.callout-titled .callout-icon::before {
-  content: '🧑‍🏫';
+div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
+  content: '🙋';
+  background-image: none;
+}
+div.callout-callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
+div.callout-callout-data.callout {
+  border-left-color: #32CD32;
+}
+div.callout-callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
+}
+div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
+  content: '📊';
+  background-image: none;
+}
+div.callout-callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
+div.callout-callout-discussion.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-discussion.callout-style-default .callout-icon::before, div.callout-callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
   background-image: none;
 }
 </style>
@@ -364,7 +364,7 @@ div.callout-callout-challenge.callout-style-default .callout-icon::before, div.c
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2intro1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Experiment 2 - Intro</span></span></a>
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Experiment 2 - Background</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -520,9 +520,12 @@ div.callout-callout-challenge.callout-style-default .callout-icon::before, div.c
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#sec-task2A" id="toc-sec-task2A" class="nav-link active" data-scroll-target="#sec-task2A"><span class="header-section-number">19.1</span> TASK 2A. Analyse Streptomyces bioassay data</a></li>
-  <li><a href="#sec-task2B" id="toc-sec-task2B" class="nav-link" data-scroll-target="#sec-task2B"><span class="header-section-number">19.2</span> TASK 2B. Determine the MIC and MBC for the purified antibiotic</a></li>
-  <li><a href="#sec-task2C" id="toc-sec-task2C" class="nav-link" data-scroll-target="#sec-task2C"><span class="header-section-number">19.3</span> TASK 2C. Determine the MIC and MBC for the purified antibiotic against mutant <em>E. coli</em> strains</a></li>
+  <li><a href="#sec-data2" id="toc-sec-data2" class="nav-link active" data-scroll-target="#sec-data2"><span class="header-section-number">20</span> Experiment 2 - Data Analysis</a>
+  <ul class="collapse">
+  <li><a href="#sec-task2A" id="toc-sec-task2A" class="nav-link" data-scroll-target="#sec-task2A"><span class="header-section-number">20.1</span> TASK 2A. Analyse <em>Streptomyces</em> bioassay data</a></li>
+  <li><a href="#sec-task2B" id="toc-sec-task2B" class="nav-link" data-scroll-target="#sec-task2B"><span class="header-section-number">20.2</span> TASK 2B. Determine the MIC and MBC for the purified antibiotic</a></li>
+  <li><a href="#sec-task2C" id="toc-sec-task2C" class="nav-link" data-scroll-target="#sec-task2C"><span class="header-section-number">20.3</span> TASK 2C. Determine the MIC and MBC for the purified antibiotic against mutant <em>E. coli</em> strains</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/mafeeney/BM327microS1/edit/main/2data.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/mafeeney/BM327microS1/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -548,35 +551,39 @@ div.callout-callout-challenge.callout-style-default .callout-icon::before, div.c
 </header>
 
 
-<p>You have 2 sets of data to analyse for Experiment 2: * Streptomyces bioassay data (available for you on MyPlace) * You will use these data in TASK 2A. * Your own MIC and MBC data for Antibiotic X (Table 2.1 and Table 2.2) (back-up data available on MyPlace) * MIC/MBC data for antibiotic X against mutant E. coli strains</p>
-<section id="sec-task2A" class="level2" data-number="19.1">
-<h2 data-number="19.1" class="anchored" data-anchor-id="sec-task2A"><span class="header-section-number">19.1</span> TASK 2A. Analyse Streptomyces bioassay data</h2>
+<section id="sec-data2" class="level1" data-number="20">
+<h1 data-number="20"><span class="header-section-number">20</span> Experiment 2 - Data Analysis</h1>
+<p>You have 2 sets of data to analyse for Experiment 2:</p>
+<ul>
+<li><p><em>Streptomyces</em> bioassay data (available for you on MyPlace) - you will use these data in <a href="#sec-task2A" class="quarto-xref"><span>Section 20.1</span></a>.</p></li>
+<li><p>Your own MIC and MBC data for Antibiotic X (or the class data available on MyPlace) - you will use these data in <a href="#sec-task2B" class="quarto-xref"><span>Section 20.2</span></a> and <span class="quarto-unresolved-ref">?sec-2C</span></p></li>
+<li><p>MIC/MBC data for antibiotic X against mutant <em>E. coli</em> strains</p></li>
+</ul>
+<section id="sec-task2A" class="level2" data-number="20.1">
+<h2 data-number="20.1" class="anchored" data-anchor-id="sec-task2A"><span class="header-section-number">20.1</span> TASK 2A. Analyse <em>Streptomyces</em> bioassay data</h2>
 <ol type="1">
 <li>You will be provided with a set of data (pictures of bioassays) posted on MyPlace.</li>
-<li>Note the zone of inhibition around the Streptomyces and carefully record your data (observations).</li>
+<li>Note the zone of inhibition around the <em>Streptomyces</em> and carefully record your data (observations).</li>
 <li>What conclusions can you draw about the mutant strains?</li>
 <li>Which further experiments might you perform to prove that the mutated strain produces more antibiotic “X” than its parent wild-type strain?</li>
 </ol>
 </section>
-<section id="sec-task2B" class="level2" data-number="19.2">
-<h2 data-number="19.2" class="anchored" data-anchor-id="sec-task2B"><span class="header-section-number">19.2</span> TASK 2B. Determine the MIC and MBC for the purified antibiotic</h2>
+<section id="sec-task2B" class="level2" data-number="20.2">
+<h2 data-number="20.2" class="anchored" data-anchor-id="sec-task2B"><span class="header-section-number">20.2</span> TASK 2B. Determine the MIC and MBC for the purified antibiotic</h2>
 <ol type="1">
-<li>You should have a set of your own data, but there are backup data available on MyPlace in case you need them:</li>
+<li>You should have a set of your own data, but there are backup data available on MyPlace in case you need them.</li>
 </ol>
-<ol type="a">
-<li>Broth Tube Dilution Method</li>
-<li>Pictures of plates for the MBC determination</li>
-<li>Pictures of Kirby-Bauer disk diffusion plate to evaluate antibiotic efficiency.</li>
-<li>For the MIC data, determine the lowest concentration of antibiotic that inhibits growth (measured by turbidity in the culture tube). This corresponds to the MIC of the antibiotic X for this strain of E. coli. You will need to calculate the final concentration of “X” in each tube!</li>
-<li>For the MBC data, determine the lowest concentration of antibiotic that causes cell death (measured by plates where no growth is observable). This corresponds to the MBC of the antibiotic X for this strain of E. coli.</li>
-<li>For each Kirby-Bauer disk diffusion plate, measure the diameter of the zone of growth inhibition around each disk to the nearest whole mm.</li>
-</ol>
+<ul>
+<li><p>For the MIC data, determine the lowest concentration of antibiotic that inhibits growth (measured by turbidity in the culture tube). This corresponds to the MIC of the antibiotic X for this strain of <em>E. coli</em>. You will need to calculate the final concentration of “X” in each tube!</p></li>
+<li><p>For the MBC data, determine the lowest concentration of antibiotic that causes cell death (measured by plates where no growth is observable). This corresponds to the MBC of the antibiotic X for this strain of <em>E. coli</em>.</p></li>
+<li><p>For each Kirby-Bauer disk diffusion plate, measure the diameter of the zone of growth inhibition around each disk to the nearest whole mm.</p></li>
+</ul>
 </section>
-<section id="sec-task2C" class="level2" data-number="19.3">
-<h2 data-number="19.3" class="anchored" data-anchor-id="sec-task2C"><span class="header-section-number">19.3</span> TASK 2C. Determine the MIC and MBC for the purified antibiotic against mutant <em>E. coli</em> strains</h2>
+<section id="sec-task2C" class="level2" data-number="20.3">
+<h2 data-number="20.3" class="anchored" data-anchor-id="sec-task2C"><span class="header-section-number">20.3</span> TASK 2C. Determine the MIC and MBC for the purified antibiotic against mutant <em>E. coli</em> strains</h2>
 <ol type="1">
-<li>We have used transposon mutagenesis to isolate some mutant <em>E. coli</em> strains that may be more resistant to Antibiotic X. You will be provided with a set of data posted on MyPlace.</li>
-<li>Perform the same steps as outlined in Task 2B, for this set of data.</li>
+<li><p>We have used transposon mutagenesis to isolate some mutant <em>E. coli</em> strains that may be more resistant to Antibiotic X. You will be provided with a set of data posted on MyPlace.</p></li>
+<li><p>Perform the same steps as outlined in Task 2B, for this set of data.</p></li>
 </ol>
 <div class="callout callout-style-default callout-callout-discussion callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -589,16 +596,16 @@ div.callout-callout-challenge.callout-style-default .callout-icon::before, div.c
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><p>We hypothesized that we could use UV mutagenesis to isolate mutants of <em>S. coelicolor</em> that produce more antibiotic, and transposon mutagenesis to isolate mutants of <em>E. coli</em> that are antibiotic-resistant. Do our data support these hypotheses? (Why/why not?)</p></li>
 <li><p>We used transposon mutagenesis to isolate some mutant strains of <em>E. coli</em> that may be more resistant to Antibiotic X. How does this method work?</p></li>
 <li><p>Are there other approaches we could have used (apart from transposon mutagenesis)? What are their advantages/disadvantages?</p></li>
 <li><p>What conclusions can you draw based upon the experiments we performed?</p></li>
+<li><p>What further experiments might you do (and why?)</p></li>
 </ul>
 </div>
 </div>
-<p>What further experiments might you do (and why?)</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

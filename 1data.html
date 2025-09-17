@@ -74,6 +74,72 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
+div.callout-callout-thumbs-up.callout {
+  border-left-color: #008000;
+}
+div.callout-callout-thumbs-up.callout-style-default > .callout-header {
+  background-color: rgba(0, 128, 0, 0.13);
+}
+div.callout-callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-callout-thumbs-up.callout-titled .callout-icon::before {
+  content: '👍';
+  background-image: none;
+}
+div.callout-callout-data.callout {
+  border-left-color: #32CD32;
+}
+div.callout-callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
+}
+div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
+  content: '📊';
+  background-image: none;
+}
+div.callout-callout-question.callout {
+  border-left-color: yellow;
+}
+div.callout-callout-question.callout-style-default > .callout-header {
+  background-color: rgb(from yellow r g b / 13%);
+}
+div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
+  content: '🙋';
+  background-image: none;
+}
+div.callout-callout-questions.callout {
+  border-left-color: yellow;
+}
+div.callout-callout-questions.callout-style-default > .callout-header {
+  background-color: rgb(from yellow r g b / 13%);
+}
+div.callout-callout-questions .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-questions.callout-style-default .callout-icon::before, div.callout-callout-questions.callout-titled .callout-icon::before {
+  content: '🙋️';
+  background-image: none;
+}
+div.callout-callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
+div.callout-callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
 div.callout-callout-challenge.callout {
   border-left-color: aquamarine;
 }
@@ -96,28 +162,6 @@ div.callout-callout-discussion.callout-style-default .callout-icon::before, div.
   content: '✨';
   background-image: none;
 }
-div.callout-callout-thumbs-up.callout {
-  border-left-color: #008000;
-}
-div.callout-callout-thumbs-up.callout-style-default > .callout-header {
-  background-color: rgba(0, 128, 0, 0.13);
-}
-div.callout-callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-callout-thumbs-up.callout-titled .callout-icon::before {
-  content: '👍';
-  background-image: none;
-}
-div.callout-callout-todo.callout {
-  border-left-color: pink;
-}
-div.callout-callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
-}
-div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
-  background-image: none;
-}
 div.callout-callout-case-study.callout {
   border-left-color: #FFA500;
 }
@@ -127,50 +171,6 @@ div.callout-callout-case-study.callout-style-default > .callout-header {
 div.callout-callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-callout-case-study.callout-style-default .callout-icon::before, div.callout-callout-case-study.callout-titled .callout-icon::before {
   content: '🔍';
-  background-image: none;
-}
-div.callout-callout-question.callout {
-  border-left-color: yellow;
-}
-div.callout-callout-question.callout-style-default > .callout-header {
-  background-color: rgb(from yellow r g b / 13%);
-}
-div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
-  content: '🙋';
-  background-image: none;
-}
-div.callout-callout-microbe.callout {
-  border-left-color: #1E90FF;
-}
-div.callout-callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
-}
-div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
-  background-image: none;
-}
-div.callout-callout-questions.callout {
-  border-left-color: yellow;
-}
-div.callout-callout-questions.callout-style-default > .callout-header {
-  background-color: rgb(from yellow r g b / 13%);
-}
-div.callout-callout-questions .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-questions.callout-style-default .callout-icon::before, div.callout-callout-questions.callout-titled .callout-icon::before {
-  content: '🙋️';
-  background-image: none;
-}
-div.callout-callout-data.callout {
-  border-left-color: #32CD32;
-}
-div.callout-callout-data.callout-style-default > .callout-header {
-  background-color: rgba(50, 205, 50, 0.13);
-}
-div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
-  content: '📊';
   background-image: none;
 }
 </style>
@@ -364,7 +364,7 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2intro1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Experiment 2 - Intro</span></span></a>
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Experiment 2 - Background</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -520,9 +520,12 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#sec-1Adata" id="toc-sec-1Adata" class="nav-link active" data-scroll-target="#sec-1Adata"><span class="header-section-number">14.1</span> Task 1A</a>
+  <li><a href="#sec-data1" id="toc-sec-data1" class="nav-link active" data-scroll-target="#sec-data1"><span class="header-section-number">15</span> Experiment 1 - Data Analysis</a>
   <ul class="collapse">
-  <li><a href="#sec-1Bdata" id="toc-sec-1Bdata" class="nav-link" data-scroll-target="#sec-1Bdata"><span class="header-section-number">14.1.1</span> Task 1B - Analyse mutant phenotypes</a></li>
+  <li><a href="#sec-1Adata" id="toc-sec-1Adata" class="nav-link" data-scroll-target="#sec-1Adata"><span class="header-section-number">15.1</span> Task 1A</a>
+  <ul class="collapse">
+  <li><a href="#sec-1Bdata" id="toc-sec-1Bdata" class="nav-link" data-scroll-target="#sec-1Bdata"><span class="header-section-number">15.1.1</span> Task 1B - Analyse mutant phenotypes</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/mafeeney/BM327microS1/edit/main/1data.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/mafeeney/BM327microS1/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -549,15 +552,17 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
 </header>
 
 
+<section id="sec-data1" class="level1" data-number="15">
+<h1 data-number="15"><span class="header-section-number">15</span> Experiment 1 - Data Analysis</h1>
 <div class="todo" title="Experiment 1 - Data Analysis Tasks">
-<p>After completing all of the practical lab tasks for this experiment, you should analyse (<a href="#sec-1Adata" class="quarto-xref"><span>Section 14.1</span></a> and <a href="#sec-1Bdata" class="quarto-xref"><span>Section 14.1.1</span></a>):</p>
+<p>After completing all of the practical lab tasks for this experiment, you should analyse (<a href="#sec-1Adata" class="quarto-xref"><span>Section 15.1</span></a> and <a href="#sec-1Bdata" class="quarto-xref"><span>Section 15.1.1</span></a>):</p>
 <ul>
 <li><p>The caffeine mutagenesis experiment (your data/class data on MyPlace)</p></li>
 <li><p>The UV mutagenesis data (experiment performed for you and data posted on MyPlace)</p></li>
 </ul>
 </div>
-<section id="sec-1Adata" class="level2" data-number="14.1">
-<h2 data-number="14.1" class="anchored" data-anchor-id="sec-1Adata"><span class="header-section-number">14.1</span> Task 1A</h2>
+<section id="sec-1Adata" class="level2" data-number="15.1">
+<h2 data-number="15.1" class="anchored" data-anchor-id="sec-1Adata"><span class="header-section-number">15.1</span> Task 1A</h2>
 <ol type="1">
 <li>You will be provided with a set of data from the UV mutagenesis experiment (available on MyPlace).</li>
 </ol>
@@ -570,8 +575,8 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
 <li><p>Using these data plot a UV dose versus survival graph of your data (x-axis = time; y-axis = CFU/ml).</p></li>
 </ol>
 <p>Using the data, work out the percentage survival of spores following irradiation or caffeine treatment. Establish the time-point that gives &gt;99% spore killing. (x-axis = time; y-axis = percentage spore survival). Un-irradiated spores will be 100%</p>
-<section id="sec-1Bdata" class="level3" data-number="14.1.1">
-<h3 data-number="14.1.1" class="anchored" data-anchor-id="sec-1Bdata"><span class="header-section-number">14.1.1</span> Task 1B - Analyse mutant phenotypes</h3>
+<section id="sec-1Bdata" class="level3" data-number="15.1.1">
+<h3 data-number="15.1.1" class="anchored" data-anchor-id="sec-1Bdata"><span class="header-section-number">15.1.1</span> Task 1B - Analyse mutant phenotypes</h3>
 <ol type="1">
 <li><p>Compare the colonies obtained on the irradiated plates with those on the equivalent dilutions of unirradiated plates (data available on MyPlace).</p></li>
 <li><p>Carefully record your data (observations) in an appropriate format.</p></li>
@@ -589,7 +594,7 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><p>Compare the two mutagens we used (UV and caffeine). Which is more effective in terms of killing (<a href="#sec-1Adata" class="quarto-xref"><span>Section 14.1</span></a>)? in terms of generating mutants with the desired phenotypes (<a href="#sec-1Bdata" class="quarto-xref"><span>Section 14.1.1</span></a>)?</p></li>
+<li><p>Compare the two mutagens we used (UV and caffeine). Which is more effective in terms of killing (<a href="#sec-1Adata" class="quarto-xref"><span>Section 15.1</span></a>)? in terms of generating mutants with the desired phenotypes (<a href="#sec-1Bdata" class="quarto-xref"><span>Section 15.1.1</span></a>)?</p></li>
 <li><p>Which colonies would you select for further analysis?</p></li>
 <li><p>What experiments would you like to do to characterize these mutant strains?</p></li>
 <li><p>What are the advantages and disadvantages of using UV mutagenesis? Caffeine mutagenesis?</p></li>
@@ -598,6 +603,7 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
 </div>
 
 
+</section>
 </section>
 </section>
 

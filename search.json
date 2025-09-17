@@ -253,7 +253,7 @@
     "href": "1aims.html#overview-of-experiment-1",
     "title": "9  Experiment 1 Aims and Overview",
     "section": "9.5 Overview of Experiment 1",
-    "text": "9.5 Overview of Experiment 1\nYou will perform Protocol 1.1 in the Week 2 lab and collect your data the following session (Week 4). Perform the data analysis tasks (Task 1A and Task 1B) using your own data/the class data or the sample data available on MyPlace.\n\nBefore attending the practical lab, you should ensure that you have read and understood:\n\nThe introductory sections covering Good Lab Practice and Aseptic Technique\nThe introductory sections covering the aim and rationale underpinning this experiment, the theory on Streptomyces and Antibiotic Production, and Bacterial Mutagenesis\nThe Protocols we will be following in the lab\n\nYou also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.",
+    "text": "9.5 Overview of Experiment 1\nYou will perform Protocol 1.1 in the Week 2 lab and collect your data the following session (Week 4). Perform the data analysis tasks (Chapter 15) using your own data/the class data or the sample data available on MyPlace.\n\nBefore attending the practical lab, you should ensure that you have read and understood:\n\nThe introductory sections covering Good Lab Practice and Aseptic Technique\nThe introductory sections covering the aim and rationale underpinning this experiment, the theory on Streptomyces and Antibiotic Production, and Bacterial Mutagenesis\nThe Protocols we will be following in the lab\n\nYou also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.",
     "crumbs": [
       "Experiment 1",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment 1 Aims and Overview</span>"
@@ -264,7 +264,7 @@
     "href": "1intro1.html",
     "title": "10  Experiment 1 - Background",
     "section": "",
-    "text": "10.1 Experiment 1 - Background\nWe have isolated a mutant strain of Streptomyces coelicolor A3(2) that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. However, the Streptomyces strain only produces small amounts of the antibiotic.\nIn order to study this antibiotic further, you will carry out a UV mutagenesis experiment, and screen for mutants that produce more antibiotic (?sec-protocols1).\nYour task is to determine the most effective dose of UV radiation to use for isolating mutants (Section 14.1). You will then analyse the phenotypes of mutants isolated at this dose (Section 14.1.1).\nWe have selected a number of candidate genes that might be involved in regulating antibiotic production, and sequenced these genes in a set of mutant strains. Your final task for this experiment is to examine the potentially mutant allele sequences, and identify any amino acid change(s) compared to the wild-type sequence (Workshop 1).",
+    "text": "10.1 Experiment 1 - Background\nWe have isolated a mutant strain of Streptomyces coelicolor A3(2) that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. However, the Streptomyces strain only produces small amounts of the antibiotic.\nIn order to study this antibiotic further, you will carry out a UV mutagenesis experiment, and screen for mutants that produce more antibiotic (?sec-protocols1).\nYour task is to determine the most effective dose of UV radiation to use for isolating mutants (Section 15.1). You will then analyse the phenotypes of mutants isolated at this dose (Section 15.1.1).\nWe have selected a number of candidate genes that might be involved in regulating antibiotic production, and sequenced these genes in a set of mutant strains. Your final task for this experiment is to examine the potentially mutant allele sequences, and identify any amino acid change(s) compared to the wild-type sequence (Workshop 1).",
     "crumbs": [
       "Experiment 1",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Experiment 1 - Background</span>"
@@ -341,7 +341,7 @@
     "href": "1data.html",
     "title": "14  Experiment 1 - Data Analysis",
     "section": "",
-    "text": "14.1 Task 1A\nThe data shows you three plates for each time point, starting at T=0 (un-irradiated spores) and then the number of colonies present on the plates after the time indicated, and the dilution of the spores to obtain that count. The times are T = 0 (un-irradiated spores); 30 seconds (0.5 min) UV treatment; 1 min UV treatment; 2 min UV treatment; 4 min UV treatment; 8 min UV treatment and 16 UV treatment. Each plate contains 1 ml of spores.\nUsing the data, work out the percentage survival of spores following irradiation or caffeine treatment. Establish the time-point that gives &gt;99% spore killing. (x-axis = time; y-axis = percentage spore survival). Un-irradiated spores will be 100%",
+    "text": "15 Experiment 1 - Data Analysis",
     "crumbs": [
       "Experiment 1",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 1 - Data Analysis</span>"
@@ -351,8 +351,8 @@
     "objectID": "1data.html#sec-1Adata",
     "href": "1data.html#sec-1Adata",
     "title": "14  Experiment 1 - Data Analysis",
-    "section": "",
-    "text": "You will be provided with a set of data from the UV mutagenesis experiment (available on MyPlace).\n\n\n\nYou should make the following calculations:\n\n\nUsing the triplicate counts for each time point, work out the mean CFU survival following UV irradiation or caffeine treatment of the spores for each time point.\nUsing these data plot a UV dose versus survival graph of your data (x-axis = time; y-axis = CFU/ml).\n\n\n\n14.1.1 Task 1B - Analyse mutant phenotypes\n\nCompare the colonies obtained on the irradiated plates with those on the equivalent dilutions of unirradiated plates (data available on MyPlace).\nCarefully record your data (observations) in an appropriate format.\nCan you identify over-producing mutants of the pigmented antibiotic Actinorhodin (Blue) or undecylprodigiosin (Red)? Do the colonies look different after UV mutagenesis?\nWe have already selected a number of mutants for further analysis – but which mutants would you have selected (and why)?\n\n\n\n\n\n\n\nCallout-discussionExperiment 1 - discussion questions\n\n\n\n\nCompare the two mutagens we used (UV and caffeine). Which is more effective in terms of killing (Section 14.1)? in terms of generating mutants with the desired phenotypes (Section 14.1.1)?\nWhich colonies would you select for further analysis?\nWhat experiments would you like to do to characterize these mutant strains?\nWhat are the advantages and disadvantages of using UV mutagenesis? Caffeine mutagenesis?",
+    "section": "15.1 Task 1A",
+    "text": "15.1 Task 1A\n\nYou will be provided with a set of data from the UV mutagenesis experiment (available on MyPlace).\n\nThe data shows you three plates for each time point, starting at T=0 (un-irradiated spores) and then the number of colonies present on the plates after the time indicated, and the dilution of the spores to obtain that count. The times are T = 0 (un-irradiated spores); 30 seconds (0.5 min) UV treatment; 1 min UV treatment; 2 min UV treatment; 4 min UV treatment; 8 min UV treatment and 16 UV treatment. Each plate contains 1 ml of spores.\n\nYou should make the following calculations:\n\n\nUsing the triplicate counts for each time point, work out the mean CFU survival following UV irradiation or caffeine treatment of the spores for each time point.\nUsing these data plot a UV dose versus survival graph of your data (x-axis = time; y-axis = CFU/ml).\n\nUsing the data, work out the percentage survival of spores following irradiation or caffeine treatment. Establish the time-point that gives &gt;99% spore killing. (x-axis = time; y-axis = percentage spore survival). Un-irradiated spores will be 100%\n\n15.1.1 Task 1B - Analyse mutant phenotypes\n\nCompare the colonies obtained on the irradiated plates with those on the equivalent dilutions of unirradiated plates (data available on MyPlace).\nCarefully record your data (observations) in an appropriate format.\nCan you identify over-producing mutants of the pigmented antibiotic Actinorhodin (Blue) or undecylprodigiosin (Red)? Do the colonies look different after UV mutagenesis?\nWe have already selected a number of mutants for further analysis – but which mutants would you have selected (and why)?\n\n\n\n\n\n\n\nCallout-discussionExperiment 1 - discussion questions\n\n\n\n\nCompare the two mutagens we used (UV and caffeine). Which is more effective in terms of killing (Section 15.1)? in terms of generating mutants with the desired phenotypes (Section 15.1.1)?\nWhich colonies would you select for further analysis?\nWhat experiments would you like to do to characterize these mutant strains?\nWhat are the advantages and disadvantages of using UV mutagenesis? Caffeine mutagenesis?",
     "crumbs": [
       "Experiment 1",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 1 - Data Analysis</span>"
@@ -396,7 +396,7 @@
     "href": "2section.html",
     "title": "Experiment 2",
     "section": "",
-    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 2.\n\nAims and Overview\nBackground: Axenic culture;\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 2.\n\nAims and Overview\nBackground: Experiment 2 - Background;\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
     "crumbs": [
       "Experiment 2"
     ]
@@ -461,7 +461,7 @@
     "href": "2aims.html#overview-of-experiment-2",
     "title": "16  Experiment 2 Aims and Overview",
     "section": "17.5 Overview of Experiment 2",
-    "text": "17.5 Overview of Experiment 2\nYou will perform Protocols 2.1 and 2.4 in the Week 4 lab and collect your data in the following sessions (Weeks 6 & 8). Perform the data analysis tasks (Tasks 2A-C) using your own data or the sample data available on MyPlace.",
+    "text": "17.5 Overview of Experiment 2\nYou will perform Protocols 2.1 and 2.4 in the Week 4 lab and collect your data in the following sessions (Weeks 6 & 8). Perform the data analysis tasks (Chapter 20) using your own data or the sample data available on MyPlace.",
     "crumbs": [
       "Experiment 2",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Experiment 2 Aims and Overview</span>"
@@ -470,12 +470,12 @@
   {
     "objectID": "2intro1.html",
     "href": "2intro1.html",
-    "title": "17  Experiment 2 - Intro",
+    "title": "17  Experiment 2 - Background",
     "section": "",
-    "text": "You have isolated a strain of Streptomyces coelicolor A3(2) that produces a novel antibiotic “X” that can kill Escherichia coli and other Gram-negative bacteria. In the previous lab, you isolated mutant strains that may produce higher levels of antibiotic.\nIn order to determine whether these strains do, in fact, produce increased amounts of antibiotic, you will examine bioassay data for the wild-type and mutant strains (Section 19.1). Then, you will determine the MIC and MBC for the purified antibiotic against E. coli and compare the efficiency of the antibiotic “X” with other known antibiotics (Section 19.2).\nFinally, you are interested in determining the mechanism of action of this novel antibiotic. To do so, you want to isolate a mutant strain of E. coli that is resistant to the antibiotic “X”. Your final task is to measure the MIC and MBC of the antibiotic for these mutant strain and compare to the data obtained for your wild-type strain (Section 19.3).",
+    "text": "17.1 Experiment 1 - Background\nWe have isolated a strain of Streptomyces coelicolor A3(2) that produces a novel antibiotic “X” that can kill Escherichia coli and other Gram-negative bacteria. In the previous lab, you isolated mutant strains that may produce higher levels of antibiotic.\nIn order to determine whether these strains do, in fact, produce increased amounts of antibiotic, you will examine bioassay data for the wild-type and mutant strains (Section 20.1). Then, you will determine the MIC and MBC for the purified antibiotic against E. coli and compare the efficiency of the antibiotic “X” with other known antibiotics (Section 20.2).\nFinally, you are interested in determining the mechanism of action of this novel antibiotic. To do so, you want to isolate a mutant strain of E. coli that is resistant to the antibiotic “X”. Your final task is to measure the MIC and MBC of the antibiotic for these mutant strain and compare to the data obtained for your wild-type strain (Section 20.3).",
     "crumbs": [
       "Experiment 2",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Experiment 2 - Intro</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Experiment 2 - Background</span>"
     ]
   },
   {
@@ -494,7 +494,7 @@
     "href": "2data.html",
     "title": "19  Experiment 2 - Data Analysis",
     "section": "",
-    "text": "19.1 TASK 2A. Analyse Streptomyces bioassay data\nYou have 2 sets of data to analyse for Experiment 2: * Streptomyces bioassay data (available for you on MyPlace) * You will use these data in TASK 2A. * Your own MIC and MBC data for Antibiotic X (Table 2.1 and Table 2.2) (back-up data available on MyPlace) * MIC/MBC data for antibiotic X against mutant E. coli strains",
+    "text": "20 Experiment 2 - Data Analysis\nYou have 2 sets of data to analyse for Experiment 2:",
     "crumbs": [
       "Experiment 2",
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 2 - Data Analysis</span>"
@@ -504,8 +504,8 @@
     "objectID": "2data.html#sec-task2A",
     "href": "2data.html#sec-task2A",
     "title": "19  Experiment 2 - Data Analysis",
-    "section": "",
-    "text": "You will be provided with a set of data (pictures of bioassays) posted on MyPlace.\nNote the zone of inhibition around the Streptomyces and carefully record your data (observations).\nWhat conclusions can you draw about the mutant strains?\nWhich further experiments might you perform to prove that the mutated strain produces more antibiotic “X” than its parent wild-type strain?",
+    "section": "20.1 TASK 2A. Analyse Streptomyces bioassay data",
+    "text": "20.1 TASK 2A. Analyse Streptomyces bioassay data\n\nYou will be provided with a set of data (pictures of bioassays) posted on MyPlace.\nNote the zone of inhibition around the Streptomyces and carefully record your data (observations).\nWhat conclusions can you draw about the mutant strains?\nWhich further experiments might you perform to prove that the mutated strain produces more antibiotic “X” than its parent wild-type strain?",
     "crumbs": [
       "Experiment 2",
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 2 - Data Analysis</span>"
@@ -515,8 +515,8 @@
     "objectID": "2data.html#sec-task2B",
     "href": "2data.html#sec-task2B",
     "title": "19  Experiment 2 - Data Analysis",
-    "section": "19.2 TASK 2B. Determine the MIC and MBC for the purified antibiotic",
-    "text": "19.2 TASK 2B. Determine the MIC and MBC for the purified antibiotic\n\nYou should have a set of your own data, but there are backup data available on MyPlace in case you need them:\n\n\nBroth Tube Dilution Method\nPictures of plates for the MBC determination\nPictures of Kirby-Bauer disk diffusion plate to evaluate antibiotic efficiency.\nFor the MIC data, determine the lowest concentration of antibiotic that inhibits growth (measured by turbidity in the culture tube). This corresponds to the MIC of the antibiotic X for this strain of E. coli. You will need to calculate the final concentration of “X” in each tube!\nFor the MBC data, determine the lowest concentration of antibiotic that causes cell death (measured by plates where no growth is observable). This corresponds to the MBC of the antibiotic X for this strain of E. coli.\nFor each Kirby-Bauer disk diffusion plate, measure the diameter of the zone of growth inhibition around each disk to the nearest whole mm.",
+    "section": "20.2 TASK 2B. Determine the MIC and MBC for the purified antibiotic",
+    "text": "20.2 TASK 2B. Determine the MIC and MBC for the purified antibiotic\n\nYou should have a set of your own data, but there are backup data available on MyPlace in case you need them.\n\n\nFor the MIC data, determine the lowest concentration of antibiotic that inhibits growth (measured by turbidity in the culture tube). This corresponds to the MIC of the antibiotic X for this strain of E. coli. You will need to calculate the final concentration of “X” in each tube!\nFor the MBC data, determine the lowest concentration of antibiotic that causes cell death (measured by plates where no growth is observable). This corresponds to the MBC of the antibiotic X for this strain of E. coli.\nFor each Kirby-Bauer disk diffusion plate, measure the diameter of the zone of growth inhibition around each disk to the nearest whole mm.",
     "crumbs": [
       "Experiment 2",
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 2 - Data Analysis</span>"
@@ -526,8 +526,8 @@
     "objectID": "2data.html#sec-task2C",
     "href": "2data.html#sec-task2C",
     "title": "19  Experiment 2 - Data Analysis",
-    "section": "19.3 TASK 2C. Determine the MIC and MBC for the purified antibiotic against mutant E. coli strains",
-    "text": "19.3 TASK 2C. Determine the MIC and MBC for the purified antibiotic against mutant E. coli strains\n\nWe have used transposon mutagenesis to isolate some mutant E. coli strains that may be more resistant to Antibiotic X. You will be provided with a set of data posted on MyPlace.\nPerform the same steps as outlined in Task 2B, for this set of data.\n\n\n\n\n\n\n\nCallout-discussionExperiment 2 - Discussion questions\n\n\n\n\nWe hypothesized that we could use UV mutagenesis to isolate mutants of S. coelicolor that produce more antibiotic, and transposon mutagenesis to isolate mutants of E. coli that are antibiotic-resistant. Do our data support these hypotheses? (Why/why not?)\nWe used transposon mutagenesis to isolate some mutant strains of E. coli that may be more resistant to Antibiotic X. How does this method work?\nAre there other approaches we could have used (apart from transposon mutagenesis)? What are their advantages/disadvantages?\nWhat conclusions can you draw based upon the experiments we performed?\n\n\n\nWhat further experiments might you do (and why?)",
+    "section": "20.3 TASK 2C. Determine the MIC and MBC for the purified antibiotic against mutant E. coli strains",
+    "text": "20.3 TASK 2C. Determine the MIC and MBC for the purified antibiotic against mutant E. coli strains\n\nWe have used transposon mutagenesis to isolate some mutant E. coli strains that may be more resistant to Antibiotic X. You will be provided with a set of data posted on MyPlace.\nPerform the same steps as outlined in Task 2B, for this set of data.\n\n\n\n\n\n\n\nCallout-discussionExperiment 2 - Discussion questions\n\n\n\n\nWe used transposon mutagenesis to isolate some mutant strains of E. coli that may be more resistant to Antibiotic X. How does this method work?\nAre there other approaches we could have used (apart from transposon mutagenesis)? What are their advantages/disadvantages?\nWhat conclusions can you draw based upon the experiments we performed?\nWhat further experiments might you do (and why?)",
     "crumbs": [
       "Experiment 2",
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 2 - Data Analysis</span>"

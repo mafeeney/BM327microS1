@@ -74,15 +74,48 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-callout-microbe.callout {
-  border-left-color: #1E90FF;
+div.callout-callout-challenge.callout {
+  border-left-color: aquamarine;
 }
-div.callout-callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
+div.callout-callout-challenge.callout-style-default > .callout-header {
+  background-color: rgb(from aquamarine r g b / 13%);
 }
-div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
+div.callout-callout-challenge .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-challenge.callout-style-default .callout-icon::before, div.callout-callout-challenge.callout-titled .callout-icon::before {
+  content: '🧑‍🏫';
+  background-image: none;
+}
+div.callout-callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
+div.callout-callout-question.callout {
+  border-left-color: yellow;
+}
+div.callout-callout-question.callout-style-default > .callout-header {
+  background-color: rgb(from yellow r g b / 13%);
+}
+div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
+  content: '🙋';
+  background-image: none;
+}
+div.callout-callout-questions.callout {
+  border-left-color: yellow;
+}
+div.callout-callout-questions.callout-style-default > .callout-header {
+  background-color: rgb(from yellow r g b / 13%);
+}
+div.callout-callout-questions .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-questions.callout-style-default .callout-icon::before, div.callout-callout-questions.callout-titled .callout-icon::before {
+  content: '🙋️';
   background-image: none;
 }
 div.callout-callout-case-study.callout {
@@ -96,26 +129,15 @@ div.callout-callout-case-study.callout-style-default .callout-icon::before, div.
   content: '🔍';
   background-image: none;
 }
-div.callout-callout-challenge.callout {
-  border-left-color: aquamarine;
+div.callout-callout-microbe.callout {
+  border-left-color: #1E90FF;
 }
-div.callout-callout-challenge.callout-style-default > .callout-header {
-  background-color: rgb(from aquamarine r g b / 13%);
+div.callout-callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
 }
-div.callout-callout-challenge .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-challenge.callout-style-default .callout-icon::before, div.callout-callout-challenge.callout-titled .callout-icon::before {
-  content: '🧑‍🏫';
-  background-image: none;
-}
-div.callout-callout-question.callout {
-  border-left-color: yellow;
-}
-div.callout-callout-question.callout-style-default > .callout-header {
-  background-color: rgb(from yellow r g b / 13%);
-}
-div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
-  content: '🙋';
+div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
   background-image: none;
 }
 div.callout-callout-data.callout {
@@ -140,17 +162,6 @@ div.callout-callout-thumbs-up.callout-style-default .callout-icon::before, div.c
   content: '👍';
   background-image: none;
 }
-div.callout-callout-todo.callout {
-  border-left-color: pink;
-}
-div.callout-callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
-}
-div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
-  background-image: none;
-}
 div.callout-callout-discussion.callout {
   border-left-color: #BA55D3;
 }
@@ -160,17 +171,6 @@ div.callout-callout-discussion.callout-style-default > .callout-header {
 div.callout-callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-callout-discussion.callout-style-default .callout-icon::before, div.callout-callout-discussion.callout-titled .callout-icon::before {
   content: '✨';
-  background-image: none;
-}
-div.callout-callout-questions.callout {
-  border-left-color: yellow;
-}
-div.callout-callout-questions.callout-style-default > .callout-header {
-  background-color: rgb(from yellow r g b / 13%);
-}
-div.callout-callout-questions .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-questions.callout-style-default .callout-icon::before, div.callout-callout-questions.callout-titled .callout-icon::before {
-  content: '🙋️';
   background-image: none;
 }
 </style>
@@ -364,7 +364,7 @@ div.callout-callout-questions.callout-style-default .callout-icon::before, div.c
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2intro1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Experiment 2 - Intro</span></span></a>
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Experiment 2 - Background</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -587,7 +587,7 @@ div.callout-callout-questions.callout-style-default .callout-icon::before, div.c
 </section>
 <section id="overview-of-experiment-2" class="level2" data-number="17.5">
 <h2 data-number="17.5" class="anchored" data-anchor-id="overview-of-experiment-2"><span class="header-section-number">17.5</span> Overview of Experiment 2</h2>
-<p>You will perform Protocols 2.1 and 2.4 in the Week 4 lab and collect your data in the following sessions (Weeks 6 &amp; 8). Perform the data analysis tasks (Tasks 2A-C) using your own data or the sample data available on MyPlace.</p>
+<p>You will perform Protocols 2.1 and 2.4 in the Week 4 lab and collect your data in the following sessions (Weeks 6 &amp; 8). Perform the data analysis tasks (<a href="2data.html" class="quarto-xref"><span>Chapter 20</span></a>) using your own data or the sample data available on MyPlace.</p>
 
 
 </section>
@@ -1001,8 +1001,8 @@ div.callout-callout-questions.callout-style-default .callout-icon::before, div.c
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./2intro1.html" class="pagination-link" aria-label="Experiment 2 - Intro">
-        <span class="nav-page-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Experiment 2 - Intro</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./2intro1.html" class="pagination-link" aria-label="Experiment 2 - Background">
+        <span class="nav-page-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Experiment 2 - Background</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
