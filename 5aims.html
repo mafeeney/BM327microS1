@@ -74,15 +74,15 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-callout-question.callout {
-  border-left-color: yellow;
+div.callout-callout-todo.callout {
+  border-left-color: pink;
 }
-div.callout-callout-question.callout-style-default > .callout-header {
-  background-color: rgb(from yellow r g b / 13%);
+div.callout-callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
 }
-div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
-  content: '🙋';
+div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
   background-image: none;
 }
 div.callout-callout-discussion.callout {
@@ -96,15 +96,15 @@ div.callout-callout-discussion.callout-style-default .callout-icon::before, div.
   content: '✨';
   background-image: none;
 }
-div.callout-callout-todo.callout {
-  border-left-color: pink;
+div.callout-callout-microbe.callout {
+  border-left-color: #1E90FF;
 }
-div.callout-callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
+div.callout-callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
 }
-div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
+div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
   background-image: none;
 }
 div.callout-callout-challenge.callout {
@@ -118,26 +118,26 @@ div.callout-callout-challenge.callout-style-default .callout-icon::before, div.c
   content: '🧑‍🏫';
   background-image: none;
 }
-div.callout-callout-microbe.callout {
-  border-left-color: #1E90FF;
+div.callout-callout-question.callout {
+  border-left-color: yellow;
 }
-div.callout-callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
+div.callout-callout-question.callout-style-default > .callout-header {
+  background-color: rgb(from yellow r g b / 13%);
 }
-div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
+div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
+  content: '🙋';
   background-image: none;
 }
-div.callout-callout-thumbs-up.callout {
-  border-left-color: #008000;
+div.callout-callout-data.callout {
+  border-left-color: #32CD32;
 }
-div.callout-callout-thumbs-up.callout-style-default > .callout-header {
-  background-color: rgba(0, 128, 0, 0.13);
+div.callout-callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
 }
-div.callout-callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-callout-thumbs-up.callout-titled .callout-icon::before {
-  content: '👍';
+div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
+  content: '📊';
   background-image: none;
 }
 div.callout-callout-questions.callout {
@@ -151,6 +151,17 @@ div.callout-callout-questions.callout-style-default .callout-icon::before, div.c
   content: '🙋️';
   background-image: none;
 }
+div.callout-callout-thumbs-up.callout {
+  border-left-color: #008000;
+}
+div.callout-callout-thumbs-up.callout-style-default > .callout-header {
+  background-color: rgba(0, 128, 0, 0.13);
+}
+div.callout-callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-callout-thumbs-up.callout-titled .callout-icon::before {
+  content: '👍';
+  background-image: none;
+}
 div.callout-callout-case-study.callout {
   border-left-color: #FFA500;
 }
@@ -160,17 +171,6 @@ div.callout-callout-case-study.callout-style-default > .callout-header {
 div.callout-callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-callout-case-study.callout-style-default .callout-icon::before, div.callout-callout-case-study.callout-titled .callout-icon::before {
   content: '🔍';
-  background-image: none;
-}
-div.callout-callout-data.callout {
-  border-left-color: #32CD32;
-}
-div.callout-callout-data.callout-style-default > .callout-header {
-  background-color: rgba(50, 205, 50, 0.13);
-}
-div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
-  content: '📊';
   background-image: none;
 }
 </style>
@@ -446,7 +446,7 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./4intro1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Experiment 4 - Intro</span></span></a>
+ <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Experiment 4 - Background</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -487,7 +487,7 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5intro1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Experiment 5 - Intro</span></span></a>
+ <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Experiment 5 - Background</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -562,8 +562,8 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
 <ul>
 <li><p>How to visualise cells using a light microscope</p></li>
 <li><p>How to use ImageJ to process and analyse microscopy data.</p></li>
-<li><p>The process of E. coli filamentation.</p></li>
-<li><p>The process of Candida filamentation.</p></li>
+<li><p>The process of <em>E. coli</em> filamentation.</p></li>
+<li><p>The process of <em>Candida</em> filamentation.</p></li>
 </ul>
 </section>
 <section id="competencies" class="level2" data-number="31.3">
@@ -579,12 +579,12 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
 <section id="importance" class="level2" data-number="31.4">
 <h2 data-number="31.4" class="anchored" data-anchor-id="importance"><span class="header-section-number">31.4</span> Importance</h2>
 <p>This practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: bacterial morphology, killing bacteria, microbial growth kinetics.</p>
-<p>You have isolated a species of Streptomyces that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. In the previous labs, you isolated resistant E. coli strains and generated a hypothesis about the mechanism of action of the antibiotic.</p>
-<p>In order to further study the antibiotic mechanism of action, you will use microscopy to determine whether antibiotic X has any effect on an unrelated species (Candida albicans). You will set up cultures with varying concentrations of Antibiotic X and examine the phenotype of antibiotic-treated cells (Protocols 5.1 and 5.2). For comparison’s sake, we have provided you with micrographs of antibiotic X-treated E. coli cells (Task 5A). You will look at a time course of the response of wild-type E. coli to the antibiotic (Task 5B), and also, will analyse the phenotype of your mutant E. coli strain treated with the antibiotic (Task 5C).</p>
+<p>You have isolated a species of <em>Streptomyces</em> that produces a novel antibiotic that can kill <em>Escherichia coli</em> and other Gram-negative bacteria. In the previous labs, you isolated resistant <em>E. coli</em> strains and generated a hypothesis about the mechanism of action of the antibiotic.</p>
+<p>In order to further study the antibiotic mechanism of action, you will use microscopy to determine whether antibiotic X has any effect on an unrelated species (<em>Candida albicans</em>). You will set up cultures with varying concentrations of Antibiotic X and examine the phenotype of antibiotic-treated cells (Protocols 5.1 and 5.2). For comparison’s sake, we have provided you with micrographs of antibiotic X-treated <em>E. coli</em> cells (<a href="5data.html" class="quarto-xref"><span>Chapter 35</span></a>). You will look at a time course of the response of wild-type <em>E. coli</em> to the antibiotic, and also, will analyse the phenotype of your mutant <em>E. coli</em> strain treated with the antibiotic.</p>
 </section>
 <section id="overview-of-experiment-5" class="level2" data-number="31.5">
 <h2 data-number="31.5" class="anchored" data-anchor-id="overview-of-experiment-5"><span class="header-section-number">31.5</span> Overview of Experiment 5</h2>
-<p>You will set up the cultures needed for this experiment in Week 8, and perform the experiment (protocol 5.2) in the following session (Week 10). You will compare/contrast the data you collect in this experiment with the data collected in a similar experiment performed on E. coli (posted on MyPlace for you) – Tasks 5A-C).</p>
+<p>You will set up the cultures needed for this experiment in Week 8, and perform the experiment (protocol 5.2) in the following session (Week 10). You will compare/contrast the data you collect in this experiment with the data collected in a similar experiment performed on <em>E. coli</em> (posted on MyPlace for you) – Tasks 5A-C).</p>
 
 
 </section>
@@ -997,8 +997,8 @@ div.callout-callout-data.callout-style-default .callout-icon::before, div.callou
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./5intro1.html" class="pagination-link" aria-label="Experiment 5 - Intro">
-        <span class="nav-page-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Experiment 5 - Intro</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./5intro1.html" class="pagination-link" aria-label="Experiment 5 - Background">
+        <span class="nav-page-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Experiment 5 - Background</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

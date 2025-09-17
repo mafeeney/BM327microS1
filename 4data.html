@@ -74,15 +74,15 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-callout-microbe.callout {
-  border-left-color: #1E90FF;
+div.callout-callout-discussion.callout {
+  border-left-color: #BA55D3;
 }
-div.callout-callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
+div.callout-callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
 }
-div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
+div.callout-callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-discussion.callout-style-default .callout-icon::before, div.callout-callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
   background-image: none;
 }
 div.callout-callout-questions.callout {
@@ -96,6 +96,17 @@ div.callout-callout-questions.callout-style-default .callout-icon::before, div.c
   content: '🙋️';
   background-image: none;
 }
+div.callout-callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
 div.callout-callout-challenge.callout {
   border-left-color: aquamarine;
 }
@@ -107,17 +118,6 @@ div.callout-callout-challenge.callout-style-default .callout-icon::before, div.c
   content: '🧑‍🏫';
   background-image: none;
 }
-div.callout-callout-todo.callout {
-  border-left-color: pink;
-}
-div.callout-callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
-}
-div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
-  background-image: none;
-}
 div.callout-callout-question.callout {
   border-left-color: yellow;
 }
@@ -127,6 +127,17 @@ div.callout-callout-question.callout-style-default > .callout-header {
 div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
   content: '🙋';
+  background-image: none;
+}
+div.callout-callout-data.callout {
+  border-left-color: #32CD32;
+}
+div.callout-callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
+}
+div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
+  content: '📊';
   background-image: none;
 }
 div.callout-callout-thumbs-up.callout {
@@ -151,26 +162,15 @@ div.callout-callout-case-study.callout-style-default .callout-icon::before, div.
   content: '🔍';
   background-image: none;
 }
-div.callout-callout-data.callout {
-  border-left-color: #32CD32;
+div.callout-callout-todo.callout {
+  border-left-color: pink;
 }
-div.callout-callout-data.callout-style-default > .callout-header {
-  background-color: rgba(50, 205, 50, 0.13);
+div.callout-callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
 }
-div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
-  content: '📊';
-  background-image: none;
-}
-div.callout-callout-discussion.callout {
-  border-left-color: #BA55D3;
-}
-div.callout-callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
-}
-div.callout-callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-discussion.callout-style-default .callout-icon::before, div.callout-callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
+div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
   background-image: none;
 }
 </style>
@@ -446,7 +446,7 @@ div.callout-callout-discussion.callout-style-default .callout-icon::before, div.
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./4intro1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Experiment 4 - Intro</span></span></a>
+ <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Experiment 4 - Background</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -487,7 +487,7 @@ div.callout-callout-discussion.callout-style-default .callout-icon::before, div.
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5intro1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Experiment 5 - Intro</span></span></a>
+ <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Experiment 5 - Background</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -515,8 +515,17 @@ div.callout-callout-discussion.callout-style-default .callout-icon::before, div.
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#sec-data4" id="toc-sec-data4" class="nav-link active" data-scroll-target="#sec-data4"><span class="header-section-number">30</span> Experiment 4 - Data Analysis</a>
+  <ul class="collapse">
+  <li><a href="#sec-task4A" id="toc-sec-task4A" class="nav-link" data-scroll-target="#sec-task4A"><span class="header-section-number">30.1</span> TASK 4A. Plasmid rescue</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/mafeeney/BM327microS1/edit/main/4data.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/mafeeney/BM327microS1/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -540,14 +549,42 @@ div.callout-callout-discussion.callout-style-default .callout-icon::before, div.
 </header>
 
 
-<p>You have 2 sets of data to analyse for Experiment 4:  The images of the agarose gels you ran in the lab (available for you on MyPlace)  You will use these data in TASK 4A.  Sequence data from these plasmids (available for you on MyPlace)  You will use these data in workshop 3.</p>
-<p>TASK 4A. Plasmid rescue. 1. The data from the lab (your agarose gel pictures) will be made available for you on MyPlace. Download the image of your gel, and label the lanes correctly. 2. Use the DNA ladder to estimate the size of the bands from your restriction digests (either by eye, or by using the DNA ladder to generate a standard curve of DNA size vs.&nbsp;distance migrated). 3. Draw a map of the plasmid, including all known restriction sites and any other pertinent information (such as the location of the Tn5), keeping in mind that the plasmid is circular.</p>
-<p>DISCUSSION QUESTIONS. We used plasmid rescue followed by sequencing to identify the location of the Tn5 insertions in your mutant E. coli strains (these Tn insertions are presumably responsible for making the strains resistant to your novel antibiotic). How well did this technique do at mapping the location of the transposons?</p>
-<p>Are there any other techniques or methods you could use (instead of plasmid rescue and sequencing)?</p>
-<p>What conclusions can you draw based upon the experiments performed in this lab?</p>
-<p>What further experiments might you do (and why?)</p>
+<section id="sec-data4" class="level1" data-number="30">
+<h1 data-number="30"><span class="header-section-number">30</span> Experiment 4 - Data Analysis</h1>
+<p>You have 2 sets of data to analyse for Experiment 4:</p>
+<ul>
+<li><p>The images of the agarose gels you ran in the lab (available for you on MyPlace) - You will use these data in <a href="#sec-task4A" class="quarto-xref"><span>Section 30.1</span></a>.</p></li>
+<li><p>Sequence data from these plasmids (available for you on MyPlace) - You will use these data in workshop 3.</p></li>
+</ul>
+<section id="sec-task4A" class="level2" data-number="30.1">
+<h2 data-number="30.1" class="anchored" data-anchor-id="sec-task4A"><span class="header-section-number">30.1</span> TASK 4A. Plasmid rescue</h2>
+<ol type="1">
+<li><p>The data from the lab (your agarose gel pictures) will be made available for you on MyPlace. Download the image of your gel, and label the lanes correctly.</p></li>
+<li><p>Use the DNA ladder to estimate the size of the bands from your restriction digests (either by eye, or by using the DNA ladder to generate a standard curve of DNA size vs.&nbsp;distance migrated).</p></li>
+<li><p>Draw a map of the plasmid, including all known restriction sites and any other pertinent information (such as the location of the Tn<em>5</em>), keeping in mind that the plasmid is circular.</p></li>
+</ol>
+<div class="callout callout-style-default callout-callout-discussion callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Callout-discussion</span>Experiment 4 Discussion Questions
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>We used plasmid rescue followed by sequencing to identify the location of the Tn<em>5</em> insertions in your mutant <em>E. coli</em> strains (these Tn insertions are presumably responsible for making the strains resistant to your novel antibiotic). How well did this technique do at mapping the location of the transposons? How effective was it compared to the mapping experiment you performed (Experiment 3)?</p></li>
+<li><p>Are there any other techniques or methods you could use to identify the Tn location (instead of plasmid rescue and sequencing)?</p></li>
+<li><p>What conclusions can you draw based upon the experiments performed in this lab?</p></li>
+<li><p>What further experiments might you do (and why?)</p></li>
+</ul>
+</div>
+</div>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -970,7 +1007,7 @@ div.callout-callout-discussion.callout-style-default .callout-icon::before, div.
     </div>   
     <div class="nav-footer-center">
 <p>BM327 Microbiology Semester 1 · 2025-26 · Dr Morgan Feeney</p>
-<div class="toc-actions"><ul><li><a href="https://github.com/mafeeney/BM327microS1/edit/main/4data.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/mafeeney/BM327microS1/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/mafeeney/BM327microS1/edit/main/4data.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/mafeeney/BM327microS1/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

@@ -702,7 +702,7 @@
     "href": "4section.html",
     "title": "Experiment 4 -",
     "section": "",
-    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 4.\n\nAims and Overview\nBackground: Axenic culture;\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 4.\n\nAims and Overview\nBackground: Experiment 4 background\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
     "crumbs": [
       "Experiment 4 -"
     ]
@@ -776,12 +776,12 @@
   {
     "objectID": "4intro1.html",
     "href": "4intro1.html",
-    "title": "27  Experiment 4 - Intro",
+    "title": "27  Experiment 4 - Background",
     "section": "",
-    "text": "A fundamental difficulty in biology lies in our ability to link genotype and phenotype: shown in this experiment as we link the known phenotype (antibiotic resistance) with the unknown mutation causing the phenotype (location of the Tn5 insertion).\nIn this lab we will be performing a “plasmid rescue” experiment to “rescue” the Tn5 inserted into the chromosome of the mutant strains. This technique uses restriction enzymes that randomly cut chromosomal DNA isolated from the mutant bacteria; this is then ligated into a vector, and E. coli DH5 cells are transformed with this ligation mixture. Transformed cells which carry the region of the chromosome carrying the Tn5 insertion, will be resistant to tetracycline. The plasmid containing this DNA is isolated from the transformants and Sanger sequencing used to identify the exact position of the Tn5 insertion.\nRestriction enzymes are invaluable tools in molecular microbiology. These enzymes make site-specific cuts in DNA (at positions termed restriction sites), and are a key part of the innate immune defences that bacteria use to protect themselves against incoming foreign DNA. Restriction enzymes have found a multitude of applications in molecular biology labs, including their use in cloning, digestion of DNA for Southern blotting, identification of nucleotide differences using restriction fragment length polymorphism (RFLP) analysis, etc. Being able to carry out a restriction digest of DNA, and analyse the results, is therefore a key skill for any microbiologist or molecular biologist.",
+    "text": "27.1 Experiment 4 - Background\nA fundamental difficulty in biology lies in our ability to link genotype and phenotype: for example, as in this experiment as we try to link the known phenotype (antibiotic resistance) with the unknown mutation causing the phenotype (location of the Tn5 insertion).\nIn this lab we will be performing a “plasmid rescue” experiment to “rescue” the Tn5 inserted into the chromosome of the mutant strains. This technique uses restriction enzymes that randomly cut chromosomal DNA isolated from the mutant bacteria; this is then ligated into a vector, and E. coli DH5α cells are transformed with this ligation mixture. Transformed cells which carry the region of the chromosome carrying the Tn5 insertion, will be resistant to tetracycline. The plasmid containing this DNA is isolated from the transformants and Sanger sequencing used to identify the exact position of the Tn5 insertion.\nRestriction enzymes are invaluable tools in molecular microbiology. These enzymes make site-specific cuts in DNA (at positions termed restriction sites), and are a key part of the innate immune defences that bacteria use to protect themselves against incoming foreign DNA. Restriction enzymes have found a multitude of applications in molecular biology labs, including their use in cloning, digestion of DNA for Southern blotting, identification of nucleotide differences using restriction fragment length polymorphism (RFLP) analysis, etc. Being able to carry out a restriction digest of DNA, and analyse the results, is therefore a key skill for any microbiologist or molecular biologist.",
     "crumbs": [
       "Experiment 4 -",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Experiment 4 - Intro</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Experiment 4 - Background</span>"
     ]
   },
   {
@@ -800,7 +800,18 @@
     "href": "4data.html",
     "title": "29  Experiment 4 - Data Analysis",
     "section": "",
-    "text": "You have 2 sets of data to analyse for Experiment 4:  The images of the agarose gels you ran in the lab (available for you on MyPlace)  You will use these data in TASK 4A.  Sequence data from these plasmids (available for you on MyPlace)  You will use these data in workshop 3.\nTASK 4A. Plasmid rescue. 1. The data from the lab (your agarose gel pictures) will be made available for you on MyPlace. Download the image of your gel, and label the lanes correctly. 2. Use the DNA ladder to estimate the size of the bands from your restriction digests (either by eye, or by using the DNA ladder to generate a standard curve of DNA size vs. distance migrated). 3. Draw a map of the plasmid, including all known restriction sites and any other pertinent information (such as the location of the Tn5), keeping in mind that the plasmid is circular.\nDISCUSSION QUESTIONS. We used plasmid rescue followed by sequencing to identify the location of the Tn5 insertions in your mutant E. coli strains (these Tn insertions are presumably responsible for making the strains resistant to your novel antibiotic). How well did this technique do at mapping the location of the transposons?\nAre there any other techniques or methods you could use (instead of plasmid rescue and sequencing)?\nWhat conclusions can you draw based upon the experiments performed in this lab?\nWhat further experiments might you do (and why?)",
+    "text": "30 Experiment 4 - Data Analysis\nYou have 2 sets of data to analyse for Experiment 4:",
+    "crumbs": [
+      "Experiment 4 -",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Experiment 4 - Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "4data.html#sec-task4A",
+    "href": "4data.html#sec-task4A",
+    "title": "29  Experiment 4 - Data Analysis",
+    "section": "30.1 TASK 4A. Plasmid rescue",
+    "text": "30.1 TASK 4A. Plasmid rescue\n\nThe data from the lab (your agarose gel pictures) will be made available for you on MyPlace. Download the image of your gel, and label the lanes correctly.\nUse the DNA ladder to estimate the size of the bands from your restriction digests (either by eye, or by using the DNA ladder to generate a standard curve of DNA size vs. distance migrated).\nDraw a map of the plasmid, including all known restriction sites and any other pertinent information (such as the location of the Tn5), keeping in mind that the plasmid is circular.\n\n\n\n\n\n\n\nCallout-discussionExperiment 4 Discussion Questions\n\n\n\n\nWe used plasmid rescue followed by sequencing to identify the location of the Tn5 insertions in your mutant E. coli strains (these Tn insertions are presumably responsible for making the strains resistant to your novel antibiotic). How well did this technique do at mapping the location of the transposons? How effective was it compared to the mapping experiment you performed (Experiment 3)?\nAre there any other techniques or methods you could use to identify the Tn location (instead of plasmid rescue and sequencing)?\nWhat conclusions can you draw based upon the experiments performed in this lab?\nWhat further experiments might you do (and why?)",
     "crumbs": [
       "Experiment 4 -",
       "<span class='chapter-number'>29</span>  <span class='chapter-title'>Experiment 4 - Data Analysis</span>"
@@ -811,7 +822,7 @@
     "href": "5section.html",
     "title": "Experiment 5 -",
     "section": "",
-    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 5.\n\nAims and Overview\nBackground: Axenic culture;\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Experiment 5.\n\nAims and Overview\nBackground: Experiment 5 Background;\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
     "crumbs": [
       "Experiment 5 -"
     ]
@@ -865,7 +876,7 @@
     "href": "5aims.html#importance",
     "title": "31  Experiment 5 Aims and Overview",
     "section": "31.4 Importance",
-    "text": "31.4 Importance\nThis practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: bacterial morphology, killing bacteria, microbial growth kinetics.\nYou have isolated a species of Streptomyces that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. In the previous labs, you isolated resistant E. coli strains and generated a hypothesis about the mechanism of action of the antibiotic.\nIn order to further study the antibiotic mechanism of action, you will use microscopy to determine whether antibiotic X has any effect on an unrelated species (Candida albicans). You will set up cultures with varying concentrations of Antibiotic X and examine the phenotype of antibiotic-treated cells (Protocols 5.1 and 5.2). For comparison’s sake, we have provided you with micrographs of antibiotic X-treated E. coli cells (Task 5A). You will look at a time course of the response of wild-type E. coli to the antibiotic (Task 5B), and also, will analyse the phenotype of your mutant E. coli strain treated with the antibiotic (Task 5C).",
+    "text": "31.4 Importance\nThis practical session aligns with lectures in BM330 Fundamental Microbiology and reinforces material relating to: bacterial morphology, killing bacteria, microbial growth kinetics.\nYou have isolated a species of Streptomyces that produces a novel antibiotic that can kill Escherichia coli and other Gram-negative bacteria. In the previous labs, you isolated resistant E. coli strains and generated a hypothesis about the mechanism of action of the antibiotic.\nIn order to further study the antibiotic mechanism of action, you will use microscopy to determine whether antibiotic X has any effect on an unrelated species (Candida albicans). You will set up cultures with varying concentrations of Antibiotic X and examine the phenotype of antibiotic-treated cells (Protocols 5.1 and 5.2). For comparison’s sake, we have provided you with micrographs of antibiotic X-treated E. coli cells (Chapter 35). You will look at a time course of the response of wild-type E. coli to the antibiotic, and also, will analyse the phenotype of your mutant E. coli strain treated with the antibiotic.",
     "crumbs": [
       "Experiment 5 -",
       "<span class='chapter-number'>31</span>  <span class='chapter-title'>Experiment 5 Aims and Overview</span>"
@@ -885,12 +896,12 @@
   {
     "objectID": "5intro1.html",
     "href": "5intro1.html",
-    "title": "32  Experiment 5 - Intro",
+    "title": "32  Experiment 5 - Background",
     "section": "",
     "text": "Cell size and shape are key phenotypes in bacteria and fungi, important for survival in a variety of environments. Bacteria actively modify and adapt their cell size/shape in response to environmental cues including nutrient availability, to adapt to different environmental niches, or as part of developmental pathways. For fungi, the transition between yeast and hyphal growth is often associated with virulence. In order to monitor and understand these changes in cell size and shape, microbiologists use a variety of techniques, including basic light microscopy – using the same principles that allowed the first visualization of microbial cells.",
     "crumbs": [
       "Experiment 5 -",
-      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Experiment 5 - Intro</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Experiment 5 - Background</span>"
     ]
   },
   {
@@ -909,7 +920,7 @@
     "href": "5data.html",
     "title": "34  Experiment 5 Data Analysis",
     "section": "",
-    "text": "In addition to the Candida experiment you performed in the lab, we have also grown E. coli cells (wild-type and antibiotic X-resistant) in the presence and absence of antibiotic X. You have 3 sets of data to analyse for Experiment 5:  antibiotic X-treated wild-type E. coli cells (TASK 5A)  a time course showing wild-type E. coli cells after antibiotic X treatment (TASK 5B) mutant (antibiotic-resistant) E. coli cells treated with antibiotic X (TASK 5C)\nTASK 5A-C. Microscopy of antibiotic-treated cells.\n\nYou have been provided with a set of data for each task (available on MyPlace).\nYou should also download the program ImageJ (instructions available on MyPlace).\nOpen each image in ImageJ.\nYou may wish to rotate or zoom to adjust the image.\nSet a scale bar.\nMeasure cell lengths in m.\nDetermine the best way to present your data. Are any statistical tests needed? How will you format and present any images?\nHow do these data compare with the data that you acquired in the lab?\n\nDISCUSSION QUESTIONS. We used microscopy to determine the effect of the unknown antibiotic “X” on Candida albicans and on Escherichia coli strains (both wild-type E. coli and an X-resistant strain). What conclusion(s) can you draw based on the results of this experiment?\nAre there any other techniques you could have used to determine the effect of antibiotic “X” on E. coli? on C. albicans?\nWhat conclusions can you draw based upon all of the experiments that you have performed (Labs 1-5)?\nWhat further experiments might you do (and why?)",
+    "text": "35 Experiment 5 - Data Analysis\nIn addition to the Candida experiment you performed in the lab, we have also grown E. coli cells (wild-type and antibiotic X-resistant) in the presence and absence of antibiotic X. You have 3 sets of data to analyse for Experiment 5: * antibiotic X-treated wild-type E. coli cells (TASK 5A) * a time course showing wild-type E. coli cells after antibiotic X treatment (TASK 5B) * mutant (antibiotic-resistant) E. coli cells treated with antibiotic X (TASK 5C)\nTASK 5A-C. Microscopy of antibiotic-treated cells.\n\nYou have been provided with a set of data for each task (available on MyPlace).\nYou should also download the program ImageJ (instructions available on MyPlace).\nOpen each image in ImageJ.\nYou may wish to rotate or zoom to adjust the image.\nSet a scale bar.\nMeasure cell lengths in μm.\nDetermine the best way to present your data. Are any statistical tests needed? How will you format and present any images?\nHow do these data compare with the data that you acquired in the lab?\n\n\n\n\n\n\n\nCallout-discussionExperiment 5 Discussion Questions\n\n\n\n\nWe used microscopy to determine the effect of the unknown antibiotic “X” on Candida albicans and on Escherichia coli strains (both wild-type E. coli and an X-resistant strain). What conclusion(s) can you draw based on the results of this experiment?\nAre there any other techniques you could have used to determine the effect of antibiotic “X” on E. coli? on C. albicans?\nWhat conclusions can you draw based upon all of the experiments that you have performed (labs and workshops)?\nWhat further experiments might you do (and why?)",
     "crumbs": [
       "Experiment 5 -",
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Experiment 5 Data Analysis</span>"
