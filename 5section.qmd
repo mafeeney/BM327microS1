@@ -6,7 +6,7 @@ Please use the links below (or in the left sidebar) to navigate through the mate
 
 <center>| [Aims and Overview](./5aims.qmd)  
 
-Background: [Axenic culture](./5intro1.qmd); 
+Background: [Experiment 5 Background](./5intro1.qmd); 
 
 [Protocols](./5protocols.qmd) 
 
