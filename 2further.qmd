@@ -1,3 +1,15 @@
 ---
 title: "Additional Resources/Further Reading for Experiment 2"
 ---
+
+* [Mueller-Hinton Medium (Small Things Considered blog post)](https://schaechter.asmblog.org/schaechter/2020/06/mueller-hinton-medium.html)
+
+* [Video demonstration - determining MIC and MBC for hydrogen peroxide](https://www.youtube.com/watch?v=jCShFlXPcmg)
+
+* [Video demonstration - Kirby Bauer disk diffusion method](https://www.youtube.com/watch?v=BXr_kcki4Ag)
+
+* [The evolution of bacteria on a "mega-plate" Petri dish (Kishony lab)](https://www.youtube.com/watch?v=plVk4NVIUh8)
+
+* van Belkum A, Burnham CD, Rossen JWA, Mallard F, Rochas O, Dunne WM Jr. Innovative and rapid antimicrobial susceptibility testing systems. Nat Rev Microbiol. 2020;18(5):299-311. doi:10.1038/s41579-020-0327-x
+
+* [The dearth of antibiotic development - Editors in Conversation (American Society for Microbiology)](https://www.youtube.com/watch?v=XlRd1YSx8e8)

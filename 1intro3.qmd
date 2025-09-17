@@ -21,8 +21,6 @@ Because UV light is lethal at high doses, it is important to experimentally dete
 
 **Transposon (Tn) mutagenesis**, by contrast, introduces mutations by inserting a mobile genetic element (transposon) into random sites in the genome. Because the sequence of the transposon is known, the exact location of the mutation can be easily identified afterwards using techniques such as inverse PCR or sequencing across the transposon–genome junction. This makes Tn mutagenesis especially powerful because it can be used to rapidly link genotype to phenotype (whereas UV and chemical mutagenesis often require additional mapping steps to locate the relevant mutation).
 
-:::
-
 Random mutagenesis (UV, chemical, or Tn-based) can reveal new genetic variants that would not arise under natural mutation rates or that would not be discovered using targeted (site-directed) mutagenesis approaches, making it a powerful approach for basic research and applied biotechnology.
 
 ::: {.callout-discussion title="Bacterial Mutagenesis"}

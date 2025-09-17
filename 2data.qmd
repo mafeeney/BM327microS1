@@ -46,6 +46,3 @@ You have 2 sets of data to analyse for Experiment 2:
 * What further experiments might you do (and why?)
 
 :::
-
-
-               

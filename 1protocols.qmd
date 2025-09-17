@@ -2,6 +2,8 @@
 title: Experiment 1 Protocols
 ---
 
+# Experiment 1 - Protocols {#sec-protocols1}
+
 You can view the protocols for experiment 1 below, or download it [here](./assets/Experiment1protocols.pdf). 
 
 {{< pdf ./assets/Experiment1protocols.pdf width=100% height=400 >}}
