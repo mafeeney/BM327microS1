@@ -3,7 +3,7 @@
  format: html
 ---
 
-In this practical we will be using the unidirectional exchange of genes between strains of the gut bacterium Escherichia coli, in order to map the location of the mutations isolated in the previous lab. You will be provided with an Hfr donor strain which is streptomycin sensitive and nalidixic acid resistant and which carries the sex factor F integrated into the bacterial chromosome. The Hfr donor strain carries the Tn5 insertion that confers resistance to your novel antibiotic.
+In this practical we will be using the unidirectional exchange of genes between strains of the gut bacterium Escherichia coli, in order to map the location of the mutations isolated in the previous lab. You will be provided with an Hfr donor strain which is streptomycin sensitive and nalidixic acid resistant and which carries the sex factor F integrated into the bacterial chromosome. The Hfr donor strain carries the Tn*5* insertion that confers resistance to your novel antibiotic.
 
 The Hfr strain is prototrophic and grows on minimal media in the absence of the antibiotic streptomycin. 
 
@@ -12,5 +12,3 @@ The second strain provided is a recipient strain F- ser- trp- his- cys-, naladix
 When the Hfr and F- strains are mixed together, mating occurs and conjugation tubes are formed between strains. The presence of the F factor in the Hfr strain mobilises the bacterial chromosome and it is transferred down the conjugation tube into the F- strain. Thus gene transfer occurs in a unidirectional manner. In this practical we will be measuring the transfer of genes for serine, tryptophan, histidine and cysteine requirements, as well as the transfer of the Tn5s. Each individual Hfr strain transfers its genes in a specific orientation and we will be determining this order for the five genes.
 
 If the mating mixtures are allowed to remain undisturbed a copy of the Hfr chromosome will eventually be transferred to the F- strain. However, if the mating figures are broken apart by physical agitation then only those genes transferred up to the time of agitation will be transferred to the F- strain. Thus, whether or not a gene has been transferred to the F- provides a measure of the order of transfer by the Hfr. If mating figures are broken at specific times, the frequency of each gene transferred provides a measure of the time of transfer. This is called an “interrupted mating experiment.”
-
-

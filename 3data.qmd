@@ -2,19 +2,25 @@
 title: Experiment 3 - Data Analysis
 ---
 
-*	Plate counts from the interrupted mating experiment you performed in week 6 (your data; the plates you counted in week 8)  You will use these data in TASK 3A and 3B
-	Plate counts from a similar interrupted mating experiment that included the Tn mutant strains (available for you on MyPlace)  You will use these data in TASK 3A and 3B
+# Experiment 3 - Data Analysis {#sec-data3}
 
-TASK 3A. Data analysis (interrupted mating).
+Data you will use for this @sec-task3A and @sec-task3B: 
 
-1.	You have colony counts from your own experiment (for the 4 auxotrophic markers) and have been provided with a set of data for the Tn insertions (available on MyPlace). Count the colonies on your plates/the images of the plates and record the data. Fill the table with the number of colonies that you have on each plate.
+*	Plate counts from the interrupted mating experiment you performed in week 6 (your data; the plates you counted in week 8) 
+*	Plate counts from a similar interrupted mating experiment that included the Tn mutant strains (available for you on MyPlace) 
 
-Table 3.1 Colonies counted on the interrupted mating plates. TNTC = Too Numerous To Count; TFTC = Too Few To Count.
+## TASK 3A. Data analysis (interrupted mating) {#sec-task3A}
 
-1.	Using the data from the table above, draw a map of the E. coli chromosome, taking into account that it is circular and 100 minutes long.
+1.	You have colony counts from your own experiment (for the 4 auxotrophic markers) and have been provided with a set of data for the Tn insertions (available on MyPlace). Count the colonies on your plates/the images of the plates and record the data. Fill a table with the number of colonies that you have on each plate.
+
+
+## TASK 3B. Mapping your mutation to the *E. coli* chromosome {#sec-task3B}
+
+1.	Using the data from @sec-task3A, draw a map of the *E. coli* chromosome, taking into account that it is circular and 100 minutes long.
+
 2.	Map the location of each auxotrophic mutation as well as the tetracycline resistant mutation (Tn5).  
 
-3.	Analyse the region of the chromosome you have identified using EcoCyc. Where on the chromosome do you think your mutation is? (answer in # of minutes) What gene(s) are present at that location?
+3.	Analyse the region of the chromosome you have identified using [EcoCyc](https://ecocyc.org/) or a similar database. Where on the chromosome do you think your mutation is? (answer in # of minutes) What gene(s) are present at that location?
 
 ::: {.callout-discussion title="Experiment 3 Discussion Questions"} 
 

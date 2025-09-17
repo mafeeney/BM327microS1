@@ -1,3 +1,9 @@
 ---
 title: "Additional Resources/Further Reading for Experiment 3"
 ---
+
+* [Bacterial Gene Mapping using Conjugation](https://www.youtube.com/watch?v=5jV0KdnHiJM) - a very helpful demonstration using string
+
+* [Genetic Recombination and Gene Mapping](https://www.youtube.com/watch?v=TU44tR0hJ8A) - example using *Drosophila*, but still a helpful explanation
+
+* Berlyn MK. Linkage map of *Escherichia coli* K-12, edition 10: the traditional map. Microbiol Mol Biol Rev. 1998;62(3):814-984. doi:10.1128/MMBR.62.3.814-984.1998
