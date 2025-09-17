@@ -12,18 +12,23 @@ Graduate recruiters look for specific job skills and competencies. Competencies 
 You will be assessed for your competency in the following:
 
 *Lab 1*
+
 {{< include ./_includes/lab1comp.qmd >}}
 
 *Lab 2*
+
 {{< include ./_includes/lab2comp.qmd >}}
 
 *Lab 3*
+
 {{< include ./_includes/lab3comp.qmd >}}
 
 *Lab 4*
+
 {{< include ./_includes/lab4comp.qmd >}}
 
 *Lab 5*
+
 {{< include ./_includes/lab5comp.qmd >}}
 
 ## Overall learning outcomes

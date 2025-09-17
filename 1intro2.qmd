@@ -23,7 +23,7 @@ Most strains of *Streptomyces* that have been identified or sequenced contain re
 
 While some of these BGCs have been linked to specific molecules (e.g., for *S. coelicolor* A3(2), antibiotics such as the (usually) blue-pigmented actinorhodin and the red-pigmented undecylprodigiosin, and other small molecules such as siderophores or signalling molecules) - many of these BGCs are not expressed under known growth conditions, and the molecules produced remain elusive.
 
-::: {#discussion-questions .discussion title="Antibiotic Discovery"}
+::: {.callout-discussion title="Antibiotic Discovery"}
 
 What approaches do you think could be used to discover new antibiotics from *Streptomyces* or other bacteria? What experiments would you do?
 

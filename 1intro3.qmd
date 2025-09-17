@@ -25,7 +25,7 @@ Because UV light is lethal at high doses, it is important to experimentally dete
 
 Random mutagenesis (UV, chemical, or Tn-based) can reveal new genetic variants that would not arise under natural mutation rates or that would not be discovered using targeted (site-directed) mutagenesis approaches, making it a powerful approach for basic research and applied biotechnology.
 
-::: {#discussion-questions .discussion title="Bacterial Mutagenesis"}
+::: {.callout-discussion title="Bacterial Mutagenesis"}
 
 * Why does the UV dose ("kill curve") need to be determined experimentally for each particular bacterial species or strain?
 
