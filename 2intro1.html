@@ -31,7 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./2protocols.html" rel="next">
+<link href="./2intro2.html" rel="next">
 <link href="./2aims.html" rel="prev">
 <link href="./icon_32.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
@@ -74,28 +74,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-callout-question.callout {
-  border-left-color: yellow;
-}
-div.callout-callout-question.callout-style-default > .callout-header {
-  background-color: rgb(from yellow r g b / 13%);
-}
-div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
-  content: '🙋';
-  background-image: none;
-}
-div.callout-callout-challenge.callout {
-  border-left-color: aquamarine;
-}
-div.callout-callout-challenge.callout-style-default > .callout-header {
-  background-color: rgb(from aquamarine r g b / 13%);
-}
-div.callout-callout-challenge .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-challenge.callout-style-default .callout-icon::before, div.callout-callout-challenge.callout-titled .callout-icon::before {
-  content: '🧑‍🏫';
-  background-image: none;
-}
 div.callout-callout-data.callout {
   border-left-color: #32CD32;
 }
@@ -105,39 +83,6 @@ div.callout-callout-data.callout-style-default > .callout-header {
 div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
   content: '📊';
-  background-image: none;
-}
-div.callout-callout-thumbs-up.callout {
-  border-left-color: #008000;
-}
-div.callout-callout-thumbs-up.callout-style-default > .callout-header {
-  background-color: rgba(0, 128, 0, 0.13);
-}
-div.callout-callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-callout-thumbs-up.callout-titled .callout-icon::before {
-  content: '👍';
-  background-image: none;
-}
-div.callout-callout-microbe.callout {
-  border-left-color: #1E90FF;
-}
-div.callout-callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
-}
-div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
-  background-image: none;
-}
-div.callout-callout-case-study.callout {
-  border-left-color: #FFA500;
-}
-div.callout-callout-case-study.callout-style-default > .callout-header {
-  background-color: rgba(255, 165, 0, 0.13);
-}
-div.callout-callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-case-study.callout-style-default .callout-icon::before, div.callout-callout-case-study.callout-titled .callout-icon::before {
-  content: '🔍';
   background-image: none;
 }
 div.callout-callout-questions.callout {
@@ -151,15 +96,37 @@ div.callout-callout-questions.callout-style-default .callout-icon::before, div.c
   content: '🙋️';
   background-image: none;
 }
-div.callout-callout-discussion.callout {
-  border-left-color: #BA55D3;
+div.callout-callout-question.callout {
+  border-left-color: yellow;
 }
-div.callout-callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
+div.callout-callout-question.callout-style-default > .callout-header {
+  background-color: rgb(from yellow r g b / 13%);
 }
-div.callout-callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-discussion.callout-style-default .callout-icon::before, div.callout-callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
+div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
+  content: '🙋';
+  background-image: none;
+}
+div.callout-callout-case-study.callout {
+  border-left-color: #FFA500;
+}
+div.callout-callout-case-study.callout-style-default > .callout-header {
+  background-color: rgba(255, 165, 0, 0.13);
+}
+div.callout-callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-case-study.callout-style-default .callout-icon::before, div.callout-callout-case-study.callout-titled .callout-icon::before {
+  content: '🔍';
+  background-image: none;
+}
+div.callout-callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-microbe.callout-style-default .callout-icon::before, div.callout-callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
   background-image: none;
 }
 div.callout-callout-todo.callout {
@@ -171,6 +138,39 @@ div.callout-callout-todo.callout-style-default > .callout-header {
 div.callout-callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-callout-todo.callout-style-default .callout-icon::before, div.callout-callout-todo.callout-titled .callout-icon::before {
   content: '📝';
+  background-image: none;
+}
+div.callout-callout-thumbs-up.callout {
+  border-left-color: #008000;
+}
+div.callout-callout-thumbs-up.callout-style-default > .callout-header {
+  background-color: rgba(0, 128, 0, 0.13);
+}
+div.callout-callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-callout-thumbs-up.callout-titled .callout-icon::before {
+  content: '👍';
+  background-image: none;
+}
+div.callout-callout-challenge.callout {
+  border-left-color: aquamarine;
+}
+div.callout-callout-challenge.callout-style-default > .callout-header {
+  background-color: rgb(from aquamarine r g b / 13%);
+}
+div.callout-callout-challenge .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-challenge.callout-style-default .callout-icon::before, div.callout-callout-challenge.callout-titled .callout-icon::before {
+  content: '🧑‍🏫';
+  background-image: none;
+}
+div.callout-callout-discussion.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-discussion.callout-style-default .callout-icon::before, div.callout-callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
   background-image: none;
 }
 </style>
@@ -369,20 +369,26 @@ div.callout-callout-todo.callout-style-default .callout-icon::before, div.callou
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./2intro2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Antibiotic Susceptibility</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./2protocols.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Experiment 2 Protocols</span></span></a>
+ <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Experiment 2 Protocols</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Experiment 2 - Data Analysis</span></span></a>
+ <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Experiment 2 - Data Analysis</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2further.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Experiment 2</span></span></a>
+ <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Experiment 2</span></span></a>
   </div>
 </li>
       </ul>
@@ -399,31 +405,31 @@ div.callout-callout-todo.callout-style-default .callout-icon::before, div.callou
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./3aims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Experiment 3 Aims and Overview</span></span></a>
+ <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Experiment 3 Aims and Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./3intro1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Experiment 3 - Intro</span></span></a>
+ <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Experiment 3 - Intro</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./3protocols.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Experiment 3 Protocols</span></span></a>
+ <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Experiment 3 Protocols</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./3data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Experiment 3 - Data Analysis</span></span></a>
+ <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Experiment 3 - Data Analysis</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./3further.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Experiment 3</span></span></a>
+ <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Experiment 3</span></span></a>
   </div>
 </li>
       </ul>
@@ -440,31 +446,31 @@ div.callout-callout-todo.callout-style-default .callout-icon::before, div.callou
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./4aims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Experiment 4 Aims and Overview</span></span></a>
+ <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Experiment 4 Aims and Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./4intro1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Experiment 4 - Background</span></span></a>
+ <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Experiment 4 - Background</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./4protocols.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Experiment 4 Protocols</span></span></a>
+ <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Experiment 4 Protocols</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./4data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Experiment 4 - Data Analysis</span></span></a>
+ <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Experiment 4 - Data Analysis</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./4further.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Experiment 4</span></span></a>
+ <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Experiment 4</span></span></a>
   </div>
 </li>
       </ul>
@@ -481,31 +487,31 @@ div.callout-callout-todo.callout-style-default .callout-icon::before, div.callou
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5aims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Experiment 5 Aims and Overview</span></span></a>
+ <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Experiment 5 Aims and Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5intro1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Experiment 5 - Background</span></span></a>
+ <span class="menu-text"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Experiment 5 - Background</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5protocols.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Experiment 5 Protocols</span></span></a>
+ <span class="menu-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Experiment 5 Protocols</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Experiment 5 Data Analysis</span></span></a>
+ <span class="menu-text"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Experiment 5 Data Analysis</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5further.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Experiment 5</span></span></a>
+ <span class="menu-text"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Experiment 5</span></span></a>
   </div>
 </li>
       </ul>
@@ -549,8 +555,8 @@ div.callout-callout-todo.callout-style-default .callout-icon::before, div.callou
 <section id="sec-intro2" class="level2" data-number="17.1">
 <h2 data-number="17.1" class="anchored" data-anchor-id="sec-intro2"><span class="header-section-number">17.1</span> Experiment 1 - Background</h2>
 <p>We have isolated a strain of <em>Streptomyces coelicolor</em> A3(2) that produces a novel antibiotic “X” that can kill <em>Escherichia coli</em> and other Gram-negative bacteria. In the previous lab, you isolated mutant strains that may produce higher levels of antibiotic.</p>
-<p>In order to determine whether these strains do, in fact, produce increased amounts of antibiotic, you will examine bioassay data for the wild-type and mutant strains (<a href="2data.html#sec-task2A" class="quarto-xref"><span>Section 20.1</span></a>). Then, you will determine the MIC and MBC for the purified antibiotic against <em>E. coli</em> and compare the efficiency of the antibiotic “X” with other known antibiotics (<a href="2data.html#sec-task2B" class="quarto-xref"><span>Section 20.2</span></a>).</p>
-<p>Finally, you are interested in determining the mechanism of action of this novel antibiotic. To do so, you want to isolate a mutant strain of <em>E. coli</em> that is resistant to the antibiotic “X”. Your final task is to measure the MIC and MBC of the antibiotic for these mutant strain and compare to the data obtained for your wild-type strain (<a href="2data.html#sec-task2C" class="quarto-xref"><span>Section 20.3</span></a>).</p>
+<p>In order to determine whether these strains do, in fact, produce increased amounts of antibiotic, you will examine bioassay data for the wild-type and mutant strains (<a href="2data.html#sec-task2A" class="quarto-xref"><span>Section 21.1</span></a>). Then, you will determine the MIC and MBC for the purified antibiotic against <em>E. coli</em> and compare the efficiency of the antibiotic “X” with other known antibiotics (<a href="2data.html#sec-task2B" class="quarto-xref"><span>Section 21.2</span></a>).</p>
+<p>Finally, you are interested in determining the mechanism of action of this novel antibiotic. To do so, you want to isolate a mutant strain of <em>E. coli</em> that is resistant to the antibiotic “X”. Your final task is to measure the MIC and MBC of the antibiotic for these mutant strain and compare to the data obtained for your wild-type strain (<a href="2data.html#sec-task2C" class="quarto-xref"><span>Section 21.3</span></a>).</p>
 
 
 </section>
@@ -963,8 +969,8 @@ div.callout-callout-todo.callout-style-default .callout-icon::before, div.callou
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./2protocols.html" class="pagination-link" aria-label="Experiment 2 Protocols">
-        <span class="nav-page-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Experiment 2 Protocols</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./2intro2.html" class="pagination-link" aria-label="Antibiotic Susceptibility">
+        <span class="nav-page-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Antibiotic Susceptibility</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
