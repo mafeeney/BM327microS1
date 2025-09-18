@@ -1,3 +1,14 @@
 ---
 title: "Additional Resources/Further Reading for Experiment 4"
 ---
+
+* [Introduction to transposable elements (Susan Wessler lecture)](https://www.youtube.com/watch?v=uNvF9ZBufTk)
+
+* Cain AK, Barquist L, Goodman AL, Paulsen IT, Parkhill J, van Opijnen T. A decade of advances in transposon-insertion sequencing. Nat Rev Genet. 2020;21(9):526-540. doi:10.1038/s41576-020-0244-x
+
+* Warner IA, Kok WJ, Martinelli N, Yang Z, Goodall ECA, Henderson I. Microbial Primer: Transposon directed insertion site sequencing (TraDIS): A high throughput method for linking genotype to phenotype. Microbiology (Reading). 2023;169(11):001385. doi:10.1099/mic.0.001385
+
+* Roberts RJ. How restriction enzymes became the workhorses of molecular biology. Proc Natl Acad Sci U S A. 2005;102(17):5905-5908. doi:10.1073/pnas.0500923102
+
+* [REBASE The Restriction Enzyme Database](https://rebase.neb.com/rebase/rebase.html)
+

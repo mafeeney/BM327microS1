@@ -1,3 +1,20 @@
 ---
 title: "Additional Resources/Further Reading for Experiment 5"
 ---
+
+## Microscopy
+
+* [Historical contributions from light microscopy: What can you learn with a light microscope?](https://www.ibiology.org/talks/light-microscopy/)
+
+* Cromey DW. Digital images are data: and should be treated as such. Methods Mol Biol. 2013;931:1-27. doi:10.1007/978-1-62703-056-4_1
+
+* Hartig SM. Basic image analysis and manipulation in ImageJ. Curr Protoc Mol Biol. 2013;Chapter 14:Unit14.15. doi:10.1002/0471142727.mb1415s102
+
+## Cell Shape
+
+* Yang, Desirée C et al. “Staying in Shape: the Impact of Cell Shape on Bacterial Survival in Diverse Environments.” Microbiology and molecular biology reviews : MMBR vol. 80,1 187-203. 10 Feb. 2016, doi:10.1128/MMBR.00031-15
+
+* Subashchandrabose S, Mobley HLT. Virulence and Fitness Determinants of Uropathogenic *Escherichia coli*. Microbiol Spectr. 2015;3(4):10.1128/microbiolspec.UTI-0015-2012. doi:10.1128/microbiolspec.UTI-0015-2012
+
+* Cylke C, Si F, Banerjee S. Effects of antibiotics on bacterial cell morphology and their physiological origins. Biochem Soc Trans. 2022;50(5):1269-1279. doi:10.1042/BST20210894
+
