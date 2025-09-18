@@ -74,15 +74,15 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-callout-data.callout {
-  border-left-color: #32CD32;
+div.callout-callout-discussion.callout {
+  border-left-color: #BA55D3;
 }
-div.callout-callout-data.callout-style-default > .callout-header {
-  background-color: rgba(50, 205, 50, 0.13);
+div.callout-callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
 }
-div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
-  content: '📊';
+div.callout-callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-discussion.callout-style-default .callout-icon::before, div.callout-callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
   background-image: none;
 }
 div.callout-callout-todo.callout {
@@ -107,17 +107,6 @@ div.callout-callout-microbe.callout-style-default .callout-icon::before, div.cal
   content: '🧫';
   background-image: none;
 }
-div.callout-callout-discussion.callout {
-  border-left-color: #BA55D3;
-}
-div.callout-callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
-}
-div.callout-callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-discussion.callout-style-default .callout-icon::before, div.callout-callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
-  background-image: none;
-}
 div.callout-callout-thumbs-up.callout {
   border-left-color: #008000;
 }
@@ -127,17 +116,6 @@ div.callout-callout-thumbs-up.callout-style-default > .callout-header {
 div.callout-callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-callout-thumbs-up.callout-titled .callout-icon::before {
   content: '👍';
-  background-image: none;
-}
-div.callout-callout-questions.callout {
-  border-left-color: yellow;
-}
-div.callout-callout-questions.callout-style-default > .callout-header {
-  background-color: rgb(from yellow r g b / 13%);
-}
-div.callout-callout-questions .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-callout-questions.callout-style-default .callout-icon::before, div.callout-callout-questions.callout-titled .callout-icon::before {
-  content: '🙋️';
   background-image: none;
 }
 div.callout-callout-challenge.callout {
@@ -151,6 +129,17 @@ div.callout-callout-challenge.callout-style-default .callout-icon::before, div.c
   content: '🧑‍🏫';
   background-image: none;
 }
+div.callout-callout-data.callout {
+  border-left-color: #32CD32;
+}
+div.callout-callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
+}
+div.callout-callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-data.callout-style-default .callout-icon::before, div.callout-callout-data.callout-titled .callout-icon::before {
+  content: '📊';
+  background-image: none;
+}
 div.callout-callout-question.callout {
   border-left-color: yellow;
 }
@@ -160,6 +149,17 @@ div.callout-callout-question.callout-style-default > .callout-header {
 div.callout-callout-question .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-callout-question.callout-style-default .callout-icon::before, div.callout-callout-question.callout-titled .callout-icon::before {
   content: '🙋';
+  background-image: none;
+}
+div.callout-callout-questions.callout {
+  border-left-color: yellow;
+}
+div.callout-callout-questions.callout-style-default > .callout-header {
+  background-color: rgb(from yellow r g b / 13%);
+}
+div.callout-callout-questions .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-callout-questions.callout-style-default .callout-icon::before, div.callout-callout-questions.callout-titled .callout-icon::before {
+  content: '🙋️';
   background-image: none;
 }
 div.callout-callout-case-study.callout {
@@ -522,7 +522,7 @@ div.callout-callout-case-study.callout-style-default .callout-icon::before, div.
   <ul>
   <li><a href="#sec-data1" id="toc-sec-data1" class="nav-link active" data-scroll-target="#sec-data1"><span class="header-section-number">15</span> Experiment 1 - Data Analysis</a>
   <ul class="collapse">
-  <li><a href="#sec-1Adata" id="toc-sec-1Adata" class="nav-link" data-scroll-target="#sec-1Adata"><span class="header-section-number">15.1</span> Task 1A</a>
+  <li><a href="#sec-1Adata" id="toc-sec-1Adata" class="nav-link" data-scroll-target="#sec-1Adata"><span class="header-section-number">15.1</span> Task 1A - Plot “kill curves” for UV and/or caffeine</a>
   <ul class="collapse">
   <li><a href="#sec-1Bdata" id="toc-sec-1Bdata" class="nav-link" data-scroll-target="#sec-1Bdata"><span class="header-section-number">15.1.1</span> Task 1B - Analyse mutant phenotypes</a></li>
   </ul></li>
@@ -554,33 +554,42 @@ div.callout-callout-case-study.callout-style-default .callout-icon::before, div.
 
 <section id="sec-data1" class="level1" data-number="15">
 <h1 data-number="15"><span class="header-section-number">15</span> Experiment 1 - Data Analysis</h1>
-<div class="todo" title="Experiment 1 - Data Analysis Tasks">
-<p>After completing all of the practical lab tasks for this experiment, you should analyse (<a href="#sec-1Adata" class="quarto-xref"><span>Section 15.1</span></a> and <a href="#sec-1Bdata" class="quarto-xref"><span>Section 15.1.1</span></a>):</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Experiment 1 - Data">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Experiment 1 - Data
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The data you should have from this lab are:</p>
 <ul>
-<li><p>The caffeine mutagenesis experiment (your data/class data on MyPlace)</p></li>
-<li><p>The UV mutagenesis data (experiment performed for you and data posted on MyPlace)</p></li>
+<li><p>Colony counts from the caffeine mutagenesis experiment (your data/class data on MyPlace)</p></li>
+<li><p>Colony counts from the UV mutagenesis data (experiment performed for you and data posted on MyPlace).</p></li>
 </ul>
+<p>The data shows you three plates for each time point, starting at T=0 (un-irradiated spores) and then the number of colonies present on the plates after the time indicated, and the dilution of the spores to obtain that count. The times are T = 0 (un-irradiated spores); 30 seconds (0.5 min) UV treatment; 1 min UV treatment; 2 min UV treatment; 4 min UV treatment; 8 min UV treatment and 16 UV treatment. Each plate contains 1 ml of spores.</p>
+</div>
 </div>
 <section id="sec-1Adata" class="level2" data-number="15.1">
-<h2 data-number="15.1" class="anchored" data-anchor-id="sec-1Adata"><span class="header-section-number">15.1</span> Task 1A</h2>
+<h2 data-number="15.1" class="anchored" data-anchor-id="sec-1Adata"><span class="header-section-number">15.1</span> Task 1A - Plot “kill curves” for UV and/or caffeine</h2>
 <ol type="1">
-<li>You will be provided with a set of data from the UV mutagenesis experiment (available on MyPlace).</li>
-</ol>
-<p>The data shows you three plates for each time point, starting at T=0 (un-irradiated spores) and then the number of colonies present on the plates after the time indicated, and the dilution of the spores to obtain that count. The times are T = 0 (un-irradiated spores); 30 seconds (0.5 min) UV treatment; 1 min UV treatment; 2 min UV treatment; 4 min UV treatment; 8 min UV treatment and 16 UV treatment. Each plate contains 1 ml of spores.</p>
-<ol start="2" type="1">
 <li>You should make the following calculations:</li>
 </ol>
 <ol type="a">
 <li><p>Using the triplicate counts for each time point, work out the mean CFU survival following UV irradiation or caffeine treatment of the spores for each time point.</p></li>
 <li><p>Using these data plot a UV dose versus survival graph of your data (x-axis = time; y-axis = CFU/ml).</p></li>
 </ol>
-<p>Using the data, work out the percentage survival of spores following irradiation or caffeine treatment. Establish the time-point that gives &gt;99% spore killing. (x-axis = time; y-axis = percentage spore survival). Un-irradiated spores will be 100%</p>
+<ol start="2" type="1">
+<li>Using the data, work out the percentage survival of spores following irradiation or caffeine treatment. Establish the time-point that gives &gt;99% spore killing. (x-axis = time; y-axis = percentage spore survival). Un-irradiated spores will be 100%</li>
+</ol>
 <section id="sec-1Bdata" class="level3" data-number="15.1.1">
 <h3 data-number="15.1.1" class="anchored" data-anchor-id="sec-1Bdata"><span class="header-section-number">15.1.1</span> Task 1B - Analyse mutant phenotypes</h3>
 <ol type="1">
-<li><p>Compare the colonies obtained on the irradiated plates with those on the equivalent dilutions of unirradiated plates (data available on MyPlace).</p></li>
+<li><p>Compare the colonies obtained on the UV-irradiated plates with those on the equivalent dilutions of unirradiated plates (data available on MyPlace).</p></li>
 <li><p>Carefully record your data (observations) in an appropriate format.</p></li>
-<li><p>Can you identify over-producing mutants of the pigmented antibiotic Actinorhodin (Blue) or undecylprodigiosin (Red)? Do the colonies look different after UV mutagenesis?</p></li>
+<li><p>Can you identify over-producing mutants of the pigmented antibiotic Actinorhodin (Blue) or undecylprodigiosin (Red)? Do the colonies look different after UV mutagenesis? after caffeine mutagenesis?</p></li>
 <li><p>We have already selected a number of mutants for further analysis – but which mutants would you have selected (and why)?</p></li>
 </ol>
 <div class="callout callout-style-default callout-callout-discussion callout-titled">
