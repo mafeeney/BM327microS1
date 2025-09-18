@@ -7,7 +7,7 @@ Because of the nature of microbiology (cultures require incubation and take time
 
 # Preparing for each lab session
 
-::: {.todo title="To prepare for each lab"}
+::: {.callout-todo title="To prepare for each lab"}
 
 Before attending each of the practical labs, you should ensure that you have read and understood:
 
