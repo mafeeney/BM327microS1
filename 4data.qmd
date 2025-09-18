@@ -18,6 +18,17 @@ You have 2 sets of data to analyse for Experiment 4:
 
 3.	Draw a map of the plasmid, including all known restriction sites and any other pertinent information (such as the location of the Tn*5*), keeping in mind that the plasmid is circular.
 
+::: {.callout-tip title="Top tips for restriction mapping of a plasmid" collapse="true"}
+
+* Think logically - e.g., if a circular piece of DNA is cut once, how many bands will it produce? What if it is cut twice?
+
+* Keep the limits of agarose gel electrophoresis in mind - e.g., it may be difficult to precisely estimate band sizes in some cases, and/or you might have two or more bands that don't resolve well (depending on your experiment and electrophoresis conditions)
+
+* Check out a [worked example to see how someone else performs this task](https://www.youtube.com/watch?v=uNvF9ZBufTk)
+
+:::
+
+
 
 ::: {.callout-discussion title="Experiment 4 Discussion Questions"} 
 

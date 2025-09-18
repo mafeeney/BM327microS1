@@ -84,6 +84,7 @@ book:
       chapters: 
         - 2aims.qmd
         - 2intro1.qmd
+        - 2intro2.qmd
         - 2protocols.qmd
         - 2data.qmd
         - 2further.qmd
