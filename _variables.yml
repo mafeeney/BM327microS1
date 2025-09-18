@@ -1,7 +1,12 @@
 # These YAML variables need to be updated every academic session
 # [ay - academic year]
 ay: "2025-26"
-assessment_due: "November 26"
+assessment_due: "24/11/2025"
+Lab1Date: "01/10/2025"
+Lab2Date: "15/10/2025"
+Lab3Date: "29/10/2025"
+Lab4Date: "12/11/2025"
+Lab5Date: "26/11/2025"
 
 # These variables are used for identification of the book/repository administrator
 # [B] CHANGE THESE VARIABLES TO SET THE BOOK/REPO ADMIN

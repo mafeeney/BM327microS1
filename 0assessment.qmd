@@ -10,11 +10,12 @@ The assessment for the BM327 semester 1 microbiology block of laboratories will 
 Each figure must be accompanied by a clear and concise figure title and legend. 
 
 2.	**Correct Formatting of gene and species names.**
+
 The correct binomial name (genus and species) should be given for each microbe. In the first instance, the species name must always be given in full (e.g. *Escherichia coli*); subsequently, it may be abbreviated (e.g. *E. coli*) provided that there can be no confusion with other genera mentioned in the work. Species names must always be italicized.  
 
 Gene and protein names should be correctly formatted. In bacteria, gene names are written in italics, with the first letter in lower-case (e.g. *yfgA*); protein names are not italicized, and the first letter is in upper-case (e.g. YfgA). 
 
-If in doubt, refer to the Journal of Bacteriology nomenclature guidelines available at: https://jb.asm.org/content/nomenclature
+If in doubt, refer to the [Journal of Bacteriology nomenclature guidelines](https://jb.asm.org/content/nomenclature)
 
 3.	Correct Formatting of References: You should reference relevant papers where necessary.
 

@@ -22,4 +22,7 @@ Competencies and Learning Outcomes
  
 [Aseptic Technique](./0aseptic.qmd) 
 
-[Using a Microscope](./0microscope.qmd) </center>
+[Using a Microscope](./0microscope.qmd) 
+
+[Enumerating Microbes](./0counting.qmd)
+</center>
