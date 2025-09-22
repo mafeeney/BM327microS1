@@ -12,7 +12,7 @@ The data you should have from this lab are:
 
 *	Colony counts from the UV mutagenesis data (experiment performed for you and data posted on MyPlace).
 
-The data shows you three plates for each time point, starting at T=0 (un-irradiated spores) and then the number of colonies present on the plates after the time indicated, and the dilution of the spores to obtain that count. The times are T = 0 (un-irradiated spores); 30 seconds (0.5 min) UV treatment; 1 min UV treatment; 2 min UV treatment; 4 min UV treatment; 8 min UV treatment and 16 UV treatment. Each plate contains 1 ml of spores.
+The UV data shows you three plates for each time point, starting at T=0 (un-irradiated spores) and then the number of colonies present on the plates after the time indicated, and the dilution of the spores to obtain that count. The times are T = 0 (un-irradiated spores); 30 seconds (0.5 min) UV treatment; 1 min UV treatment; 2 min UV treatment; 4 min UV treatment; 8 min UV treatment and 16 min UV treatment. Each plate contains 1 ml of spores.
 
 :::
 

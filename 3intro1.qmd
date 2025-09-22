@@ -3,7 +3,7 @@
  format: html
 ---
 
-In this practical we will be using the unidirectional exchange of genes between strains of the gut bacterium Escherichia coli, in order to map the location of the mutations isolated in the previous lab. You will be provided with an Hfr donor strain which is streptomycin sensitive and nalidixic acid resistant and which carries the sex factor F integrated into the bacterial chromosome. The Hfr donor strain carries the Tn*5* insertion that confers resistance to your novel antibiotic.
+In this practical we will be using the unidirectional exchange of genes between strains of the gut bacterium *Escherichia coli*, in order to map the location of the mutations isolated in the previous lab. You will be provided with an Hfr donor strain which is streptomycin sensitive and nalidixic acid resistant and which carries the sex factor F integrated into the bacterial chromosome. The Hfr donor strain carries the Tn*5* insertion that confers resistance to your novel antibiotic.
 
 The Hfr strain is prototrophic and grows on minimal media in the absence of the antibiotic streptomycin. 
 

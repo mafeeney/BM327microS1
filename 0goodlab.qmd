@@ -46,7 +46,11 @@ There are many options for lab notebooks. One popular and widely used electronic
 
 It is essential that all tubes and plates be clearly and legibly labelled. You will often be working with these over a period of several weeks, and you will be unable to interpret/analyse the results from a previous week’s experiments if you have not labelled your samples correctly.
 
-Some general guidelines for good labeling practice:
+![Label around the rim of the Petri plate - not across the centre](images/plate-labelling.jpg){#fig-platelabelling}
+
+![Label the bottom of the Petri plate, not the lid](images/plate-lid.jpg){#fig-platelid}
+
+**Some general guidelines for good labeling practice:**
 
 *	Include your initials and the date of the experiment (if directed by your instructors, also include your bench number).
 
@@ -54,8 +58,7 @@ Some general guidelines for good labeling practice:
 
 *	If labeling Petri plates, label around the outside rim of the plate (do not obscure the plate as it will make it hard to count colonies!), as shown in @fig-platelabelling. You should also be sure to label the *bottom* of the plate (@fig-platelid). The bottom and lid may become separated, so labeling the lid is a bad idea!
 
-![Label around the rim of the Petri plate - not across the centre](images/plate-labelling.jpg){#fig-platelabelling}
-![Label the bottom of the Petri plate, not the lid](images/plate-lid.jpg){#fig-platelid}
+
 
 
 ### Other tips for good lab practice

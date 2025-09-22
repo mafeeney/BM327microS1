@@ -8,9 +8,7 @@ Please use the links below (or in the left sidebar) to navigate through the intr
 
 [Lab Safety](./0safety.qmd)  
 
-[Aims](./0intro.qmd) 
-
-Competencies and Learning Outcomes
+[Aims, Competencies and Learning Outcomes](./0intro.qmd) 
 
 [Schedule of Experimental Tasks](./0schedule.qmd) 
 

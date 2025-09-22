@@ -27,8 +27,8 @@ TASK 5A-C. Microscopy of antibiotic-treated cells.
 
 * Are there any other techniques you could have used to determine the effect of antibiotic “X” on *E. coli*? on *C. albicans*?
 
+
 * What conclusions can you draw based upon all of the experiments that you have performed (labs and workshops)?
 
 * What further experiments might you do (and why?)
 
-:::

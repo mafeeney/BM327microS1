@@ -6,27 +6,19 @@ This laboratory manual contains key information about each of the five practical
 
 ### How to use this manual
 
-You can navigate through this manual using the sidebar on the left.
+You can navigate through this manual using the sidebar on the left, or by flipping through the pages (forward/reverse arrows at the bottom of each page.
 
 The introductory section is a general section containing helpful information on good laboratory technique, working with microorganisms safely and aseptically, etc. - it also contains general information about the module, including the assessment. You should read through this section before the first lab and refer back to it when needed to refresh your memory.
 
-Each of the experiment sections 1-5 contain a brief explanation of the theory underpinning the experiments we will do in the practical labs, the protocols that will be used in that lab, and an explanation of any data analysis tasks that need to be performed after the lab. Links to the protocols (handouts) for each lab are provided, but please note that you do not need to print these out - they will be provided for you in the laboratories. 
+Each of the experiment sections 1-5 contain a brief explanation of the theory underpinning the experiments we will do in the practical labs, the protocols that will be used for that experiment, and an explanation of any data analysis tasks that need to be performed after the lab sessions. Links to the protocols (handouts) for each experiment are provided, but please note that you do not need to print these out - they will be provided for you in the laboratories. 
 
 ### How to prepare for each lab session
 
 You should read through the relevant theory/introductory material before coming to each practical lab session, and make sure you understand it. In some instances you may wish to review the material covered in BM330 before the lab as well (or review the underpinning microbiology theory in an introductory microbiology textbook.
 
-::: {.todo title="To prepare for each lab"}
-
-* Each section will have a "To do" box like this, with a summary of the reading/tasks necessary to prepare for the lab.
-
-* The data analysis pages will have a "To do" box too - for the tasks you need to complete after the lab. 
-
-:::
-
 ::: {.callout-tip title="Tips for success"}
 
-* You will also find boxes throughout this lab manual with Tips, Important notes, Discussion Questions, etc (such as this one). These are intended to help you prepare for each lab (and for the assessment), so you should make sure to read through all the material. 
+* You will also find callout boxes (such as this one) throughout this lab manual with Tips, Important notes, Discussion Questions, To Do Lists, etc. These are intended to help you prepare for each lab (and for the assessment), so you should make sure to read through all the material. 
 
 * As Benjamin Franklin said, "By failing to prepare, you are preparing to fail." It is really important that you come prepared to each lab! A little bit of time spent reading through the material and performing any necessary tasks or calculations will really pay off. 
 

@@ -24,6 +24,8 @@ Containers should be opened for the minimum amount of time possible (the longer 
 Tip boxes should **not** be left open. If you leave the box open, microbes present in the air can easily contaminate the tips. 
 
 ![A box of pipet tips that are no longer sterile. Image credit: <a href="https://www.starlabgroup.com/GB-en/our-brands/pipettes/tipone-pipette-tips.html">Starlab</a>](images/pipettips.jpg){#fig-pipettips}
+
+
 You should therefore always: 1. Open tip box --> 2. Take pipet tip --> 3. Close tip box --> 4. Use pipet tip
 
 :::

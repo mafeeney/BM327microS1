@@ -8,9 +8,9 @@ You have 2 sets of data to analyse for Experiment 2:
 
 *	*Streptomyces* bioassay data (available for you on MyPlace) - you will use these data in @sec-task2A.
 
-*	Your own MIC and MBC data for Antibiotic X (or the class data available on MyPlace) - you will use these data in @sec-task2B and @sec-2C
+*	Your own MIC and MBC data for Antibiotic X (or the class data available on MyPlace) - you will use these data in @sec-task2B.
 
-*	MIC/MBC data for antibiotic X against mutant *E. coli* strains 
+*	MIC/MBC data for antibiotic X against mutant *E. coli* strains - you will use these data in @sec-task2C.
 
 
 ## TASK 2A. Analyse *Streptomyces* bioassay data {#sec-task2A}
