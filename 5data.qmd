@@ -5,9 +5,14 @@
 
 # Experiment 5 - Data Analysis {#sec-data5}
 
-In addition to the *Candida* experiment you performed in the lab, we have also grown *E. coli* cells (wild-type and antibiotic X-resistant) in the presence and absence of antibiotic X. You have 3 sets of data to analyse for Experiment 5:
+In addition to the *Candida* experiment you performed in the lab, we have also grown *E. coli* cells (wild-type and antibiotic X-resistant) in the presence and absence of antibiotic X. 
+
+You have 3 sets of data to analyse for Experiment 5:
+
 *	antibiotic X-treated wild-type *E. coli* cells (TASK 5A)
+
 *	a time course showing wild-type *E. coli* cells after antibiotic X treatment (TASK 5B)
+
 * mutant (antibiotic-resistant) *E. coli* cells treated with antibiotic X (TASK 5C)
 
 TASK 5A-C. Microscopy of antibiotic-treated cells.
