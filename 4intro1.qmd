@@ -5,7 +5,7 @@
 
 ## Experiment 4 - Background {#sec-bkgd4}
 
-A fundamental difficulty in biology lies in our ability to link genotype and phenotype: for example, as in this experiment as we try to link the known phenotype (antibiotic resistance) with the unknown mutation causing the phenotype (location of the Tn*5* insertion).
+A fundamental difficulty in biology lies in our ability to link genotype and phenotype: for example, as in this experiment where we will try to link the known phenotype (antibiotic resistance) with the unknown mutation causing the phenotype (location of the Tn*5* insertion).
 
 In this lab we will be performing a “plasmid rescue” experiment to “rescue” the Tn*5* inserted into the chromosome of the mutant strains. This technique uses restriction enzymes that randomly cut chromosomal DNA isolated from the mutant bacteria; this is then ligated into a vector, and *E. coli* DH5α cells are transformed with this ligation mixture. Transformed cells which carry the region of the chromosome carrying the Tn*5* insertion, will be resistant to tetracycline. The plasmid containing this DNA is isolated from the transformants and Sanger sequencing used to identify the exact position of the Tn5 insertion.
 
